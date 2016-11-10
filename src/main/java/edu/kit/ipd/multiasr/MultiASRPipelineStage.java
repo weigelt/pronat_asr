@@ -1,5 +1,7 @@
 package edu.kit.ipd.multiasr;
 
+import java.util.HashMap;
+
 import edu.kit.ipd.parse.luna.data.AbstractPipelineData;
 import edu.kit.ipd.parse.luna.pipeline.IPipelineStage;
 import edu.kit.ipd.parse.luna.pipeline.PipelineStageException;
@@ -20,6 +22,9 @@ public class MultiASRPipelineStage implements IPipelineStage {
 		multiASR = new MultiASR();
 		googleASR = new GoogleASR();
 		watsonASR = new WatsonASR();
+		// watson and google both do nbest
+		final HashMap<String, String> capabilities = new HashMap<>();
+		capabilities.put("NBEST", "5");
 		multiASR.register(googleASR);
 		multiASR.register(watsonASR);
 		multiASR.autoRegisterPostProcessors();
