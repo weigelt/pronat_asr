@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<configuration>
+  <xml fileName="config-asr-watson.xml" config-optional="true"/>
+  <xml fileName="config-asr-watson-default.xml"/>
+</configuration>

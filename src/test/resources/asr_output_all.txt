@@ -1,0 +1,858 @@
+Output for file: P1S1.flac
+
+Okay(1.0) arma(0.01) go(0.17) to(0.18) the(1.0) table(1.0) grab(1.0) pop(0.2) corn.(0.2) Come(0.2) to(1.0) me(1.0) give(1.0) me(1.0) the(1.0) popcorn(1.0) which(0.31) is(0.31) in(1.0) your(1.0) hand.(1.0) [0.25]
+Okay(1.0) armor(0.05) go(0.17) to(0.18) the(1.0) table(1.0) grab(1.0) pop(0.2) corn.(0.2) Come(0.2) to(1.0) me(1.0) give(1.0) me(1.0) the(1.0) popcorn(1.0) which(0.31) is(0.31) in(1.0) your(1.0) hand.(1.0) [0.25]
+Okay(1.0) armour(0.0) go(0.17) to(0.18) the(1.0) table(1.0) grab(1.0) pop(0.2) corn.(0.2) Come(0.2) to(1.0) me(1.0) give(1.0) me(1.0) the(1.0) popcorn(1.0) which(0.31) is(0.31) in(1.0) your(1.0) hand.(1.0) [0.22]
+Okay(1.0) armagh(0.0) go(0.17) to(0.18) the(1.0) table(1.0) grab(1.0) pop(0.2) corn.(0.2) Come(0.2) to(1.0) me(1.0) give(1.0) me(1.0) the(1.0) popcorn(1.0) which(0.31) is(0.31) in(1.0) your(1.0) hand.(1.0) [0.21]
+Okay(1.0) arma(0.01) go(0.17) to(0.18) the(1.0) table(1.0) grab(1.0) pop(0.2) corn.(0.2) Come(0.2) to(1.0) me(1.0) give(1.0) me(1.0) the(1.0) popcorn(1.0) twitches(0.0) in(0.0) your(1.0) hand.(1.0) [0.13]
+Okay(1.0) arma(0.01) go(0.17) to(0.18) the(1.0) table(1.0) grab(1.0) popcorn.(0.01) Come(0.01) to(0.01) me(1.0) give(1.0) me(1.0) the(1.0) popcorn(1.0) which(0.31) is(0.31) in(1.0) your(1.0) hand.(1.0) [0.13]
+Okay(1.0) armor(0.05) go(0.17) to(0.18) the(1.0) table(1.0) grab(1.0) pop(0.2) corn.(0.2) Come(0.2) to(1.0) me(1.0) give(1.0) me(1.0) the(1.0) popcorn(1.0) twitches(0.0) in(0.0) your(1.0) hand.(1.0) [0.13]
+Okay(1.0) armor(0.05) go(0.17) to(0.18) the(1.0) table(1.0) grab(1.0) popcorn.(0.01) Come(0.01) to(0.01) me(1.0) give(1.0) me(1.0) the(1.0) popcorn(1.0) which(0.31) is(0.31) in(1.0) your(1.0) hand.(1.0) [0.13]
+Okay(1.0) are(0.0) mom(0.0) go(0.17) to(0.18) the(1.0) table(1.0) grab(1.0) pop(0.2) corn.(0.2) Come(0.2) to(1.0) me(1.0) give(1.0) me(1.0) the(1.0) popcorn(1.0) which(0.31) is(0.31) in(1.0) your(1.0) hand.(1.0) [0.08]
+Okay(1.0) ar(0.0) ma(0.0) go(0.17) to(0.18) the(1.0) table(1.0) grab(1.0) pop(0.2) corn.(0.2) Come(0.2) to(1.0) me(1.0) give(1.0) me(1.0) the(1.0) popcorn(1.0) which(0.31) is(0.31) in(1.0) your(1.0) hand.(1.0) [0.08]
+
+
+Output for file: P1S2.flac
+
+Ok(0.1) armor(0.15) go(1.0) to(1.0) table(0.44) take(1.0) the(1.0) green(1.0) cop(0.1) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) at(0.05) put(1.0) the(1.0) green(1.0) copy(1.0) into(0.3) the(0.37) dishwasher(1.0) and(1.0) close(0.14) it.(0.28) [0.26]
+Ok(0.1) armor(0.15) go(1.0) to(1.0) table(0.44) take(1.0) the(1.0) green(1.0) cop(0.1) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) it(0.1) put(1.0) the(1.0) green(1.0) copy(1.0) into(0.3) the(0.37) dishwasher(1.0) and(1.0) close(0.14) it.(0.28) [0.26]
+Okay(0.05) armor(0.15) go(1.0) to(1.0) table(0.44) take(1.0) the(1.0) green(1.0) cop(0.1) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) at(0.05) put(1.0) the(1.0) green(1.0) copy(1.0) into(0.3) the(0.37) dishwasher(1.0) and(1.0) close(0.14) it.(0.28) [0.25]
+Okay(0.05) armor(0.15) go(1.0) to(1.0) table(0.44) take(1.0) the(1.0) green(1.0) cop(0.1) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) it(0.1) put(1.0) the(1.0) green(1.0) copy(1.0) into(0.3) the(0.37) dishwasher(1.0) and(1.0) close(0.14) it.(0.28) [0.25]
+Ok(0.1) armour(0.02) go(1.0) to(1.0) table(0.44) take(1.0) the(1.0) green(1.0) cop(0.1) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) at(0.05) put(1.0) the(1.0) green(1.0) copy(1.0) into(0.3) the(0.37) dishwasher(1.0) and(1.0) close(0.14) it.(0.28) [0.23]
+Ok(0.1) armor(0.15) go(1.0) to(1.0) table(0.44) take(1.0) the(1.0) green(1.0) top(0.03) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) at(0.05) put(1.0) the(1.0) green(1.0) copy(1.0) into(0.3) the(0.37) dishwasher(1.0) and(1.0) close(0.14) it.(0.28) [0.23]
+Ok(0.1) armour(0.02) go(1.0) to(1.0) table(0.44) take(1.0) the(1.0) green(1.0) cop(0.1) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) it(0.1) put(1.0) the(1.0) green(1.0) copy(1.0) into(0.3) the(0.37) dishwasher(1.0) and(1.0) close(0.14) it.(0.28) [0.23]
+Ok(0.1) armor(0.15) go(1.0) to(1.0) table(0.44) take(1.0) the(1.0) green(1.0) top(0.03) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) it(0.1) put(1.0) the(1.0) green(1.0) copy(1.0) into(0.3) the(0.37) dishwasher(1.0) and(1.0) close(0.14) it.(0.28) [0.23]
+Okay(0.05) armour(0.02) go(1.0) to(1.0) table(0.44) take(1.0) the(1.0) green(1.0) cop(0.1) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) at(0.05) put(1.0) the(1.0) green(1.0) copy(1.0) into(0.3) the(0.37) dishwasher(1.0) and(1.0) close(0.14) it.(0.28) [0.22]
+Okay(0.05) armor(0.15) go(1.0) to(1.0) table(0.44) take(1.0) the(1.0) green(1.0) top(0.03) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) at(0.05) put(1.0) the(1.0) green(1.0) copy(1.0) into(0.3) the(0.37) dishwasher(1.0) and(1.0) close(0.14) it.(0.28) [0.22]
+
+
+Output for file: P1S3-Version1.flac
+
+Okay(0.34) arma(0.05) go(0.09) to(0.09) the(0.1) fridge(0.17) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) take(0.23) it(0.23) go(0.23) to(0.31) the(1.0) table(1.0) for(1.0) the(1.0) juice(0.07) into(1.0) the(1.0) green(1.0) cop(1.0) put(1.0) down(1.0) the(1.0) jews(0.05) and(1.0) bring(1.0) me(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table.(1.0) [0.24]
+Okay(0.34) arma(0.05) go(0.09) to(0.09) the(0.1) fridge(0.17) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) take(0.23) it(0.23) go(0.23) to(0.31) the(1.0) table(1.0) for(1.0) the(1.0) juice(0.07) into(1.0) the(1.0) green(1.0) cop(1.0) put(1.0) down(1.0) the(1.0) juice(0.05) and(1.0) bring(1.0) me(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table.(1.0) [0.24]
+Okay(0.34) arma(0.05) go(0.09) to(0.09) the(0.1) fridge(0.17) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) take(0.23) it(0.23) go(0.23) to(0.31) the(1.0) table(1.0) for(1.0) the(1.0) jews(0.07) into(1.0) the(1.0) green(1.0) cop(1.0) put(1.0) down(1.0) the(1.0) jews(0.05) and(1.0) bring(1.0) me(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table.(1.0) [0.24]
+Okay(0.34) arma(0.05) go(0.09) to(0.09) the(0.1) fridge(0.17) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) take(0.23) it(0.23) go(0.23) to(0.31) the(1.0) table(1.0) for(1.0) the(1.0) juice(0.07) into(1.0) the(1.0) green(1.0) cop(1.0) put(1.0) down(1.0) the(1.0) chairs(0.01) and(1.0) bring(1.0) me(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table.(1.0) [0.23]
+Okay(0.34) arma(0.05) go(0.09) to(0.09) the(0.1) fridge(0.17) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) take(0.23) it(0.23) go(0.23) to(0.31) the(1.0) table(1.0) for(1.0) the(1.0) jews(0.07) into(1.0) the(1.0) green(1.0) cop(1.0) put(1.0) down(1.0) the(1.0) juice(0.05) and(1.0) bring(1.0) me(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table.(1.0) [0.23]
+Okay(0.34) I'm(0.05) a(0.0) go(0.09) to(0.09) the(0.1) fridge(0.17) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) take(0.23) it(0.23) go(0.23) to(0.31) the(1.0) table(1.0) for(1.0) the(1.0) juice(0.07) into(1.0) the(1.0) green(1.0) cop(1.0) put(1.0) down(1.0) the(1.0) jews(0.05) and(1.0) bring(1.0) me(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table.(1.0) [0.12]
+Okay(0.34) I'm(0.05) a(0.0) go(0.09) to(0.09) the(0.1) fridge(0.17) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) take(0.23) it(0.23) go(0.23) to(0.31) the(1.0) table(1.0) for(1.0) the(1.0) juice(0.07) into(1.0) the(1.0) green(1.0) cop(1.0) put(1.0) down(1.0) the(1.0) juice(0.05) and(1.0) bring(1.0) me(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table.(1.0) [0.12]
+Okay(0.34) arma(0.05) go(0.09) to(0.09) the(0.1) fridge(0.17) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) tickets(0.0) go(0.0) to(0.0) the(1.0) table(1.0) for(1.0) the(1.0) juice(0.07) into(1.0) the(1.0) green(1.0) cop(1.0) put(1.0) down(1.0) the(1.0) jews(0.05) and(1.0) bring(1.0) me(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table.(1.0) [0.12]
+Okay(0.34) arma(0.05) go(0.09) to(0.09) the(0.1) fridge(0.17) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) ticket(0.0) go(0.0) to(0.0) the(1.0) table(1.0) for(1.0) the(1.0) juice(0.07) into(1.0) the(1.0) green(1.0) cop(1.0) put(1.0) down(1.0) the(1.0) jews(0.05) and(1.0) bring(1.0) me(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table.(1.0) [0.12]
+Okay(0.34) arma(0.05) go(0.09) to(0.09) the(0.1) fridge(0.17) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) tickets(0.0) go(0.0) to(0.0) the(1.0) table(1.0) for(1.0) the(1.0) juice(0.07) into(1.0) the(1.0) green(1.0) cop(1.0) put(1.0) down(1.0) the(1.0) juice(0.05) and(1.0) bring(1.0) me(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table.(1.0) [0.12]
+
+
+Output for file: P1S3-Version2.flac
+
+Okay(0.15) armor(0.09) go(0.25) to(0.25) the(0.27) french(0.28) open(0.37) it(0.3) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) take(0.1) it(0.07) close(1.0) the(0.28) fridge(0.3) and(1.0) bring(1.0) the(1.0) drews(0.07) to(1.0) me.(1.0) [0.24]
+Okay(0.15) armor(0.09) go(0.25) to(0.25) the(0.27) french(0.28) open(0.37) it(0.3) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) tickets(0.05) close(0.05) the(0.28) fridge(0.3) and(1.0) bring(1.0) the(1.0) drews(0.07) to(1.0) me.(1.0) [0.21]
+Okay(0.15) armour(0.01) go(0.25) to(0.25) the(0.27) french(0.28) open(0.37) it(0.3) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) take(0.1) it(0.07) close(1.0) the(0.28) fridge(0.3) and(1.0) bring(1.0) the(1.0) drews(0.07) to(1.0) me.(1.0) [0.21]
+Okay(0.15) armour(0.01) go(0.25) to(0.25) the(0.27) french(0.28) open(0.37) it(0.3) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) tickets(0.05) close(0.05) the(0.28) fridge(0.3) and(1.0) bring(1.0) the(1.0) drews(0.07) to(1.0) me.(1.0) [0.19]
+Okay(0.15) arma(0.0) go(0.25) to(0.25) the(0.27) french(0.28) open(0.37) it(0.3) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) take(0.1) it(0.07) close(1.0) the(0.28) fridge(0.3) and(1.0) bring(1.0) the(1.0) drews(0.07) to(1.0) me.(1.0) [0.19]
+Okay(0.15) arma(0.0) go(0.25) to(0.25) the(0.27) french(0.28) open(0.37) it(0.3) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) tickets(0.05) close(0.05) the(0.28) fridge(0.3) and(1.0) bring(1.0) the(1.0) drews(0.07) to(1.0) me.(1.0) [0.18]
+Okay(0.15) armor(0.09) go(0.25) to(0.25) the(0.27) french(0.28) open(0.37) it(0.3) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) take(0.1) it(0.07) close(1.0) the(0.28) fridge(0.3) and(1.0) bring(1.0) the(1.0) druse(0.0) to(1.0) me.(1.0) [0.18]
+Okay(0.15) armor(0.09) go(0.25) to(0.25) the(0.27) french(0.28) open(0.37) it(0.3) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) tickets(0.05) close(0.05) the(0.28) fridge(0.3) and(1.0) bring(1.0) the(1.0) druse(0.0) to(1.0) me.(1.0) [0.18]
+Okay(0.15) armor(0.09) go(0.25) to(0.25) the(0.27) french(0.28) open(0.37) it(0.3) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) take(0.1) it(0.07) close(1.0) the(0.28) fridge(0.3) and(1.0) bring(1.0) the(1.0) drew's(0.0) to(1.0) me.(1.0) [0.18]
+Ok(0.02) armor(0.09) go(0.25) to(0.25) the(0.27) french(0.28) open(0.37) it(0.3) look(1.0) for(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) take(0.1) it(0.07) close(1.0) the(0.28) fridge(0.3) and(1.0) bring(1.0) the(1.0) drews(0.07) to(1.0) me.(1.0) [0.18]
+
+
+Output for file: P2S1.flac
+
+How(1.0) long(1.0) can(1.0) you(1.0) please(1.0) bring(1.0) me(0.38) down(0.05) I'll(0.3) come(1.0) back.(1.0) [0.27]
+How(1.0) long(1.0) can(1.0) you(1.0) please(1.0) bring(1.0) me(0.38) dinner.(0.07) I'll(0.3) come(1.0) back.(1.0) [0.27]
+How(1.0) long(1.0) can(1.0) you(1.0) please(1.0) bring(1.0) me(0.38) then(0.0) I'll(0.3) come(1.0) back.(1.0) [0.17]
+How(1.0) long(1.0) can(1.0) you(1.0) please(1.0) bring(1.0) me(0.38) the(0.0) ...(0.0) I'll(0.3) come(1.0) back.(1.0) [0.04]
+How(1.0) long(1.0) can(1.0) you(1.0) please(1.0) bring(1.0) them(0.0) all(0.0) come(1.0) back.(1.0) [0.04]
+
+
+Output for file: P2S2.flac
+
+I(1.0) love(1.0) people(0.27) to(0.27) drink(0.27) up(0.27) the(0.28) dishwasher(0.52) and(0.52) don't(0.34) forget(0.34) those(0.17) tools.(0.01) [0.2]
+I(1.0) love(1.0) people(0.27) to(0.27) drink(0.27) up(0.27) the(0.28) dishwasher(0.52) and(0.52) don't(0.34) forget(0.34) those(0.17) autos.(0.01) [0.2]
+I(1.0) love(1.0) people(0.27) to(0.27) drink(0.27) up(0.27) the(0.28) dishwasher(0.52) and(0.52) don't(0.34) forget(0.34) those(0.17) pills.(0.01) [0.19]
+I(1.0) love(1.0) people(0.27) to(0.27) drink(0.27) up(0.27) the(0.28) dishwasher(0.52) and(0.52) don't(0.34) forget(0.34) to(0.0) close(0.0) the(0.0) doors.(0.0) [0.02]
+I(1.0) love(1.0) you(0.0) supposed(0.0) to(0.27) drink(0.27) up(0.27) the(0.28) dishwasher(0.52) and(0.52) don't(0.34) forget(0.34) those(0.17) tools.(0.01) [0.02]
+I(1.0) love(1.0) you(0.0) supposed(0.0) to(0.27) drink(0.27) up(0.27) the(0.28) dishwasher(0.52) and(0.52) don't(0.34) forget(0.34) those(0.17) autos.(0.01) [0.02]
+I(1.0) love(1.0) you(0.0) supposed(0.0) to(0.27) drink(0.27) up(0.27) the(0.28) dishwasher(0.52) and(0.52) don't(0.34) forget(0.34) those(0.17) pills.(0.01) [0.02]
+I(1.0) love(1.0) people(0.27) to(0.27) drink(0.27) up(0.27) the(0.28) dishwasher(0.52) and(0.52) don't(0.34) forget(0.34) those(0.17) knuckles.(0.0) [0.02]
+I(1.0) love(1.0) people(0.27) to(0.27) drink(0.27) up(0.27) the(0.28) dishwasher(0.52) and(0.52) also(0.0) get(0.0) those(0.0) tools.(0.01) [0.02]
+I(1.0) love(1.0) people(0.27) to(0.27) drink(0.27) up(0.27) the(0.28) dishwasher(0.52) and(0.52) don't(0.34) forget(0.34) to(0.0) close(0.0) the(0.0) schools.(0.0) [0.01]
+
+
+Output for file: P2S3-Version1.flac
+
+...(1.0) comma(1.0) I(1.0) would(1.0) like(1.0) to(1.0) have(1.0) a(0.23) couple(0.34) issues(0.34) if(0.34) I(0.34) pick(0.5) up(0.5) on(1.0) the(1.0) table(1.0) in(1.0) the(1.0) jews(0.09) and(0.36) fitch.(0.36) [0.36]
+...(1.0) comma(1.0) I(1.0) would(1.0) like(1.0) to(1.0) have(1.0) a(0.23) couple(0.34) issues(0.34) if(0.34) I(0.34) pick(0.5) up(0.5) on(1.0) the(1.0) table(1.0) in(1.0) the(1.0) juice(0.05) and(0.36) fitch.(0.36) [0.34]
+...(1.0) comma(1.0) I(1.0) would(1.0) like(1.0) to(1.0) have(1.0) ...(0.0) couple(0.34) issues(0.34) if(0.34) I(0.34) pick(0.5) up(0.5) on(1.0) the(1.0) table(1.0) in(1.0) the(1.0) jews(0.09) and(0.36) fitch.(0.36) [0.24]
+...(1.0) comma(1.0) I(1.0) would(1.0) like(1.0) to(1.0) have(1.0) a(0.23) couple(0.34) issues(0.34) if(0.34) I(0.34) pickup(0.0) on(0.0) the(1.0) table(1.0) in(1.0) the(1.0) jews(0.09) and(0.36) fitch.(0.36) [0.12]
+...(1.0) comma(1.0) I(1.0) would(1.0) like(1.0) to(1.0) have(1.0) ...(0.0) a(0.23) couple(0.34) issues.(0.34) If(0.34) I(0.34) pick(0.5) up(0.5) on(1.0) the(1.0) table(1.0) in(1.0) the(1.0) jews(0.09) and(0.36) fitch.(0.36) [0.1]
+...(1.0) comma(1.0) I(1.0) would(1.0) like(1.0) to(1.0) have(1.0) ...(0.0) couple(0.34) issues(0.34) if(0.34) I(0.34) pick(0.5) up(0.5) on(1.0) the(1.0) table(1.0) in(1.0) the(1.0) juice(0.05) and(0.36) fitch.(0.36) [0.1]
+...(1.0) comma(1.0) I(1.0) would(1.0) like(1.0) to(1.0) have(1.0) a(0.23) couple(0.34) issues(0.34) if(0.34) I(0.34) pick(0.5) up(0.5) on(1.0) the(1.0) table(1.0) in(1.0) the(1.0) jews(0.09) in(0.0) touch.(0.0) [0.1]
+...(1.0) comma(1.0) I(1.0) would(1.0) like(1.0) to(1.0) have(1.0) a(0.23) couple(0.34) issues(0.34) if(0.34) I(0.34) pickup(0.0) on(0.0) the(1.0) table(1.0) in(1.0) the(1.0) juice(0.05) and(0.36) fitch.(0.36) [0.1]
+
+
+Output for file: P2S3-Version2.flac
+
+Hello(1.0) I(1.0) would(1.0) like(1.0) that(1.0) so(0.41) just(1.0) to(0.31) kinda(0.33) switched(1.0) somebody's(1.0) house.(1.0) [0.51]
+Hello(1.0) I(1.0) would(1.0) like(1.0) that(1.0) all(0.0) just(1.0) to(0.31) kinda(0.33) switched(1.0) somebody's(1.0) house.(1.0) [0.15]
+Hello(1.0) I(1.0) would(1.0) like(1.0) that(1.0) so(0.41) just(1.0) you(0.0) can(0.0) kinda(0.33) switched(1.0) somebody's(1.0) house.(1.0) [0.04]
+
+
+Output for file: P3S1.flac
+
+Amica(0.07) to(0.11) bring(0.15) me(1.0) a(1.0) pop(1.0) corn(0.18) from(1.0) the(1.0) kitchen(1.0) table.(1.0) Please.(1.0) [0.24]
+I(0.05) micah(0.0) to(0.11) bring(0.15) me(1.0) a(1.0) pop(1.0) corn(0.18) from(1.0) the(1.0) kitchen(1.0) table.(1.0) Please.(1.0) [0.05]
+Amica(0.07) to(0.11) bring(0.15) me(1.0) a(1.0) pop(1.0) come(0.01) from(1.0) the(1.0) kitchen(1.0) table.(1.0) Please.(1.0) [0.05]
+Amika(0.0) to(0.11) bring(0.15) me(1.0) a(1.0) pop(1.0) corn(0.18) from(1.0) the(1.0) kitchen(1.0) table.(1.0) Please.(1.0) [0.05]
+I(0.05) micah(0.0) to(0.11) bring(0.15) me(1.0) a(1.0) pop(1.0) come(0.01) from(1.0) the(1.0) kitchen(1.0) table.(1.0) Please.(1.0) [0.04]
+Amen(0.0) to(0.11) bring(0.15) me(1.0) a(1.0) pop(1.0) corn(0.18) from(1.0) the(1.0) kitchen(1.0) table.(1.0) Please.(1.0) [0.04]
+
+
+Output for file: P3S2-Version1.flac
+
+I'm(0.2) I(0.34) could(1.0) you(1.0) please(1.0) take(1.0) the(1.0) green(1.0) car(0.38) and(1.0) lines(0.05) to(0.09) the(0.09) dishwasher(0.09) then(0.03) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) cob(0.05) into(1.0) the(1.0) dishwasher(0.25) after(0.15) that(0.33) you(0.56) can(0.4) pills.(0.03) [0.19]
+I'm(0.2) I(0.34) could(1.0) you(1.0) please(1.0) take(1.0) the(1.0) green(1.0) car(0.38) and(1.0) into(0.07) the(0.07) dishwasher(0.07) then(0.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) cob(0.05) into(1.0) the(1.0) dishwasher(0.25) after(0.15) that(0.33) you(0.56) can(0.4) pills.(0.03) [0.18]
+I'm(0.2) I(0.34) could(1.0) you(1.0) please(1.0) take(1.0) the(1.0) green(1.0) car(0.38) and(1.0) lines(0.05) to(0.09) the(0.09) dishwasher(0.09) and(0.14) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) cob(0.05) into(1.0) the(1.0) dishwasher(0.25) after(0.15) that(0.33) you(0.56) can(0.4) pills.(0.03) [0.18]
+I'm(0.2) I(0.34) could(1.0) you(1.0) please(1.0) take(1.0) the(1.0) green(1.0) car(0.38) and(1.0) into(0.07) the(0.07) dishwasher(0.07) and(0.03) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) cob(0.05) into(1.0) the(1.0) dishwasher(0.25) after(0.15) that(0.33) you(0.56) can(0.4) pills.(0.03) [0.18]
+I'm(0.2) I(0.34) could(1.0) you(1.0) please(1.0) take(1.0) the(1.0) green(1.0) car(0.38) and(1.0) lines(0.05) to(0.09) the(0.09) dishwasher(0.09) then(0.03) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) cob(0.05) into(1.0) the(1.0) dishwasher(0.25) after(0.15) that(0.33) you(0.56) can(0.4) tow(0.0) truck.(0.0) [0.09]
+I'm(0.2) I(0.34) could(1.0) you(1.0) please(1.0) take(1.0) the(1.0) green(1.0) car(0.38) and(1.0) into(0.07) the(0.07) dishwasher(0.07) then(0.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) cob(0.05) into(1.0) the(1.0) dishwasher(0.25) after(0.15) that(0.33) you(0.56) can(0.4) tow(0.0) truck.(0.0) [0.08]
+I'm(0.2) I(0.34) could(1.0) you(1.0) please(1.0) take(1.0) the(1.0) green(1.0) car(0.38) and(1.0) lines(0.05) to(0.09) the(0.09) dishwasher(0.09) then(0.03) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) cop(0.07) into(1.0) the(1.0) dishwasher(0.25) after(0.15) that(0.33) you(0.56) can(0.4) pills.(0.03) [0.08]
+I'm(0.2) I(0.34) could(1.0) you(1.0) please(1.0) take(1.0) the(1.0) green(1.0) car(0.38) and(1.0) lines(0.05) to(0.09) the(0.09) dishwasher(0.09) and(0.14) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) cob(0.05) into(1.0) the(1.0) dishwasher(0.25) after(0.15) that(0.33) you(0.56) can(0.4) tow(0.0) truck.(0.0) [0.08]
+I'm(0.2) I(0.34) could(1.0) you(1.0) please(1.0) take(1.0) the(1.0) green(1.0) car(0.38) and(1.0) into(0.07) the(0.07) dishwasher(0.07) then(0.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) cop(0.07) into(1.0) the(1.0) dishwasher(0.25) after(0.15) that(0.33) you(0.56) can(0.4) pills.(0.03) [0.08]
+I'm(0.2) I(0.34) could(1.0) you(1.0) please(1.0) take(1.0) the(1.0) green(1.0) car(0.38) and(1.0) into(0.07) the(0.07) dishwasher(0.07) and(0.03) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) cob(0.05) into(1.0) the(1.0) dishwasher(0.25) after(0.15) that(0.33) you(0.56) can(0.4) tow(0.0) truck.(0.0) [0.08]
+
+
+Output for file: P3S2-Version2.flac
+
+Comma(0.54) could(0.54) you(0.54) please(0.12) take(0.54) the(0.54) green(1.0) car(1.0) on(1.0) the(1.0) kitchen(1.0) table(1.0) and(0.23) then(0.23) moved(0.27) to(1.0) the(1.0) dishwasher(1.0) and(0.25) open(0.41) it(1.0) and(1.0) then(0.07) go(0.0) pick(0.05) up(0.33) into(0.4) the(0.46) dishwasher.(0.33) So(0.15) sick.(0.05) [0.11]
+Comma(0.54) could(0.54) you(0.54) please(0.12) take(0.54) the(0.54) green(1.0) car(1.0) on(1.0) the(1.0) kitchen(1.0) table(1.0) and(0.23) then(0.23) moved(0.27) to(1.0) the(1.0) dishwasher(1.0) and(0.25) open(0.41) it(1.0) and(1.0) then(0.07) pick(0.05) up(0.33) into(0.4) the(0.46) dishwasher.(0.33) So(0.15) sick.(0.05) [0.11]
+Comma(0.54) could(0.54) you(0.54) please(0.12) take(0.54) the(0.54) green(1.0) car(1.0) on(1.0) the(1.0) kitchen(1.0) table(1.0) and(0.23) then(0.23) moved(0.27) to(1.0) the(1.0) dishwasher(1.0) and(0.25) open(0.41) it(1.0) and(1.0) ...(0.01) pick(0.05) up(0.33) into(0.4) the(0.46) dishwasher.(0.33) So(0.15) sick.(0.05) [0.11]
+Comma(0.54) could(0.54) you(0.54) please(0.12) take(0.54) the(0.54) green(1.0) car(1.0) on(1.0) the(1.0) kitchen(1.0) table(1.0) and(0.23) then(0.23) moved(0.27) to(1.0) the(1.0) dishwasher(1.0) and(0.25) open(0.41) it(1.0) and(1.0) a(0.05) good(0.0) pick(0.05) up(0.33) into(0.4) the(0.46) dishwasher.(0.33) So(0.15) sick.(0.05) [0.1]
+Comma(0.54) could(0.54) you(0.54) to(0.01) take(0.54) the(0.54) green(1.0) car(1.0) on(1.0) the(1.0) kitchen(1.0) table(1.0) and(0.23) then(0.23) moved(0.27) to(1.0) the(1.0) dishwasher(1.0) and(0.25) open(0.41) it(1.0) and(1.0) then(0.07) go(0.0) pick(0.05) up(0.33) into(0.4) the(0.46) dishwasher.(0.33) So(0.15) sick.(0.05) [0.1]
+Comma(0.54) could(0.54) you(0.54) please(0.12) take(0.54) the(0.54) green(1.0) car(1.0) on(1.0) the(1.0) kitchen(1.0) table(1.0) then(0.0) moved(0.0) to(1.0) the(1.0) dishwasher(1.0) and(0.25) open(0.41) it(1.0) and(1.0) then(0.07) go(0.0) pick(0.05) up(0.33) into(0.4) the(0.46) dishwasher.(0.33) So(0.15) sick.(0.05) [0.08]
+Comma(0.54) could(0.54) you(0.54) please(0.12) take(0.54) the(0.54) green(1.0) car(1.0) on(1.0) the(1.0) kitchen(1.0) table(1.0) and(0.23) then(0.23) moved(0.27) to(1.0) the(1.0) dishwasher(1.0) and(0.25) open(0.41) it(1.0) and(1.0) then(0.07) go(0.0) pick(0.05) up(0.33) into(0.4) the(0.46) dishwasher.(0.33) So(0.15) civic.(0.03) [0.08]
+Comma(0.54) could(0.54) you(0.54) please(0.12) take(0.54) the(0.54) green(1.0) car(1.0) on(1.0) the(1.0) kitchen(1.0) table(1.0) and(0.23) then(0.23) moved(0.27) to(1.0) the(1.0) dishwasher(1.0) and(0.25) open(0.41) it(1.0) and(1.0) then(0.07) go(0.0) pick(0.05) up(0.33) into(0.4) the(0.46) dishwasher(0.33) pacific.(0.0) [0.08]
+Comma(0.54) could(0.54) you(0.54) to(0.01) take(0.54) the(0.54) green(1.0) car(1.0) on(1.0) the(1.0) kitchen(1.0) table(1.0) and(0.23) then(0.23) moved(0.27) to(1.0) the(1.0) dishwasher(1.0) and(0.25) open(0.41) it(1.0) and(1.0) then(0.07) pick(0.05) up(0.33) into(0.4) the(0.46) dishwasher.(0.33) So(0.15) sick.(0.05) [0.08]
+Comma(0.54) could(0.54) you(0.54) to(0.01) take(0.54) the(0.54) green(1.0) car(1.0) on(1.0) the(1.0) kitchen(1.0) table(1.0) and(0.23) then(0.23) moved(0.27) to(1.0) the(1.0) dishwasher(1.0) and(0.25) open(0.41) it(1.0) and(1.0) ...(0.01) pick(0.05) up(0.33) into(0.4) the(0.46) dishwasher.(0.33) So(0.15) sick.(0.05) [0.08]
+
+
+Output for file: P3S3.flac
+
+Am(0.05) I(1.0) would(1.0) you(1.0) please(1.0) go(1.0) to(1.0) the(1.0) fish(0.25) and(1.0) open(1.0) and(0.23) take(1.0) out(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) bring(0.61) it(0.61) to(0.61) me.(1.0) [0.33]
+I'm(0.11) I(1.0) would(1.0) you(1.0) please(1.0) go(1.0) to(1.0) the(1.0) fish(0.25) and(1.0) open(1.0) and(0.23) take(1.0) out(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) bring(0.61) it(0.61) to(0.61) me.(1.0) [0.33]
+Am(0.05) I(1.0) would(1.0) you(1.0) please(1.0) go(1.0) to(1.0) the(1.0) fish(0.25) and(1.0) open(1.0) it(0.0) take(1.0) out(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) bring(0.61) it(0.61) to(0.61) me.(1.0) [0.23]
+I'm(0.11) I(1.0) would(1.0) you(1.0) please(1.0) go(1.0) to(1.0) the(1.0) fish(0.25) and(1.0) open(1.0) it(0.0) take(1.0) out(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) bring(0.61) it(0.61) to(0.61) me.(1.0) [0.23]
+Am(0.05) I(1.0) would(1.0) you(1.0) please(1.0) go(1.0) to(1.0) the(1.0) fridge(0.0) and(1.0) open(1.0) and(0.23) take(1.0) out(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) bring(0.61) it(0.61) to(0.61) me.(1.0) [0.23]
+I'm(0.11) I(1.0) would(1.0) you(1.0) please(1.0) go(1.0) to(1.0) the(1.0) fridge(0.0) and(1.0) open(1.0) and(0.23) take(1.0) out(1.0) the(1.0) orange(1.0) juice(1.0) and(1.0) bring(0.61) it(0.61) to(0.61) me.(1.0) [0.23]
+
+
+Output for file: P4S1.flac
+
+Hey(1.0) armour(0.12) can(0.12) you(0.12) go(0.15) to(1.0) the(0.18) table(0.18) and(0.41) grab(1.0) me(1.0) the(1.0) popcorn(1.0) back(0.25) please(0.25) man(0.07) second(0.03) bring(0.05) back(0.23) to(1.0) me.(1.0) [0.18]
+Hey(1.0) armour(0.12) can(0.12) you(0.12) go(0.15) to(1.0) the(0.18) table(0.18) and(0.41) grab(1.0) me(1.0) the(1.0) popcorn(1.0) backseatsman(0.0) second(0.0) bring(0.05) back(0.23) to(1.0) me.(1.0) [0.09]
+Hey(1.0) armour(0.12) can(0.12) you(0.12) go(0.15) to(1.0) the(0.18) table(0.18) and(0.41) grab(1.0) me(1.0) the(1.0) popcorn(1.0) back(0.25) please(0.25) man(0.07) checking(0.0) back(0.23) to(1.0) me.(1.0) [0.09]
+Hey(1.0) armour(0.12) can(0.12) you(0.12) go(0.15) to(1.0) the(0.18) table(0.18) and(0.41) grab(1.0) me(1.0) the(1.0) popcorn(1.0) back(0.25) please(0.25) I'm(0.03) ...(0.05) checking(0.07) bring(0.0) back(0.23) to(1.0) me.(1.0) [0.07]
+Hey(1.0) armour(0.12) can(0.12) you(0.12) go(0.15) to(1.0) the(0.18) table(0.18) and(0.41) grab(1.0) me(1.0) the(1.0) popcorn(1.0) back(0.25) please(0.25) I'm(0.03) ...(0.05) checking(0.07) back(0.23) to(1.0) me.(1.0) [0.07]
+Hey(1.0) armour(0.12) can(0.12) you(0.12) go(0.15) to(1.0) table(0.02) and(0.01) grab(1.0) me(1.0) the(1.0) popcorn(1.0) back(0.25) please(0.25) man(0.07) second(0.03) bring(0.05) back(0.23) to(1.0) me.(1.0) [0.07]
+Hey(1.0) armour(0.12) can(0.12) you(0.12) go(0.15) to(1.0) table(0.02) and(0.01) grab(1.0) me(1.0) the(1.0) popcorn(1.0) backseatsman(0.0) second(0.0) bring(0.05) back(0.23) to(1.0) me.(1.0) [0.07]
+Hey(1.0) armour(0.12) can(0.12) you(0.12) go(0.15) to(1.0) table(0.02) and(0.01) grab(1.0) me(1.0) the(1.0) popcorn(1.0) back(0.25) please(0.25) man(0.07) checking(0.0) back(0.23) to(1.0) me.(1.0) [0.07]
+Hey(1.0) armour(0.12) can(0.12) you(0.12) go(0.15) to(1.0) table(0.02) and(0.01) grab(1.0) me(1.0) the(1.0) popcorn(1.0) back(0.25) please(0.25) I'm(0.03) ...(0.05) checking(0.07) bring(0.0) back(0.23) to(1.0) me.(1.0) [0.06]
+Hey(1.0) armour(0.12) can(0.12) you(0.12) go(0.15) to(1.0) the(0.18) table(0.18) and(0.41) grab(1.0) me(1.0) the(1.0) popcorn(1.0) back(0.25) please(0.25) man(0.07) checking(0.0) bring(0.0) back(0.23) to(1.0) me.(1.0) [0.06]
+
+
+Output for file: P4S2.flac
+
+Hey(0.18) are(0.37) can(0.34) you(0.34) please(0.34) go(0.34) to(0.34) the(0.34) table(0.34) and(0.34) graph(0.17) the(0.54) green(0.54) cop(0.17) anand.(0.01) Can(0.01) you(0.01) go(0.01) to(0.09) the(1.0) dishwasher(1.0) put(1.0) in(0.31) the(0.21) dishwasher(1.0) closest(0.27) washroom(0.05) come(0.2) back.(0.2) [0.14]
+Hey(0.18) are(0.37) can(0.34) you(0.34) please(0.34) go(0.34) to(0.34) the(0.34) table(0.34) and(0.34) graph(0.17) the(0.54) green(0.54) cop(0.17) anand.(0.01) Can(0.01) you(0.01) go(0.01) to(0.09) the(1.0) dishwasher(1.0) put(1.0) in(0.31) the(0.21) dishwasher(1.0) closest(0.27) washer(0.07) come(0.2) back.(0.2) [0.14]
+Hey(0.18) are(0.37) can(0.34) you(0.34) please(0.34) go(0.34) to(0.34) the(0.34) table(0.34) and(0.34) graph(0.17) the(0.54) green(0.54) cop(0.17) and(0.18) then(0.18) can(0.18) you(0.18) go(0.0) to(0.09) the(1.0) dishwasher(1.0) put(1.0) in(0.31) the(0.21) dishwasher(1.0) closest(0.27) washroom(0.05) come(0.2) back.(0.2) [0.1]
+Hey(0.18) are(0.37) can(0.34) you(0.34) please(0.34) go(0.34) to(0.34) the(0.34) table(0.34) and(0.34) graph(0.17) the(0.54) green(0.54) cop(0.17) and(0.18) then(0.18) can(0.18) you(0.18) go(0.0) to(0.09) the(1.0) dishwasher(1.0) put(1.0) in(0.31) the(0.21) dishwasher(1.0) closest(0.27) washer(0.07) come(0.2) back.(0.2) [0.1]
+Hey(0.18) arjan(0.0) this(0.0) does(0.0) a(0.0) table(0.0) and(0.0) graph(0.0) the(0.0) green(0.54) cop(0.17) anand.(0.01) Can(0.01) you(0.01) go(0.01) to(0.09) the(1.0) dishwasher(1.0) put(1.0) in(0.31) the(0.21) dishwasher(1.0) closest(0.27) washroom(0.05) come(0.2) back.(0.2) [0.02]
+Hey(0.18) arjan(0.0) this(0.0) does(0.0) a(0.0) table(0.0) and(0.0) graph(0.0) the(0.0) green(0.54) cop(0.17) anand.(0.01) Can(0.01) you(0.01) go(0.01) to(0.09) the(1.0) dishwasher(1.0) put(1.0) in(0.31) the(0.21) dishwasher(1.0) closest(0.27) washer(0.07) come(0.2) back.(0.2) [0.02]
+They(0.01) are(0.37) can(0.34) you(0.34) please(0.34) go(0.34) to(0.34) the(0.34) table(0.34) and(0.34) graph(0.17) the(0.54) green(0.54) cop(0.17) anand.(0.01) Can(0.01) you(0.01) go(0.01) to(0.09) the(1.0) dishwasher(1.0) put(1.0) in(0.31) the(0.21) dishwasher(1.0) closest(0.27) washroom(0.05) come(0.2) back.(0.2) [0.02]
+They(0.01) are(0.37) can(0.34) you(0.34) please(0.34) go(0.34) to(0.34) the(0.34) table(0.34) and(0.34) graph(0.17) the(0.54) green(0.54) cop(0.17) anand.(0.01) Can(0.01) you(0.01) go(0.01) to(0.09) the(1.0) dishwasher(1.0) put(1.0) in(0.31) the(0.21) dishwasher(1.0) closest(0.27) washer(0.07) come(0.2) back.(0.2) [0.02]
+Hey(0.18) arjan(0.0) this(0.0) does(0.0) a(0.0) table(0.0) and(0.0) graph(0.0) the(0.0) green(0.54) cop(0.17) and(0.18) then(0.18) can(0.18) you(0.18) go(0.0) to(0.09) the(1.0) dishwasher(1.0) put(1.0) in(0.31) the(0.21) dishwasher(1.0) closest(0.27) washroom(0.05) come(0.2) back.(0.2) [0.02]
+Hey(0.18) are(0.37) can(0.34) you(0.34) please(0.34) go(0.34) to(0.34) the(0.34) table(0.34) and(0.34) graph(0.17) the(0.54) green(0.54) cop(0.17) anand.(0.01) Can(0.01) you(0.01) go(0.01) to(0.09) the(1.0) dishwasher(1.0) put(1.0) in(0.31) the(0.21) dishwasher(1.0) closest(0.27) washroom(0.05) comeback.(0.0) [0.02]
+
+
+Output for file: P4S3.flac
+
+The(0.15) hammer.(0.63) Can(0.63) you(0.63) please(0.63) a(0.43) go(0.44) to(0.44) the(1.0) french(0.49) open(0.49) and(0.05) grab(0.07) in(0.07) orange(0.28) juice(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(0.18) oranges(0.0) to(0.0) this.(0.02) [0.14]
+The(0.15) hammer.(0.63) Can(0.63) you(0.63) please(0.63) a(0.43) go(0.44) to(0.44) the(1.0) french(0.49) open(0.49) and(0.05) grab(0.07) in(0.07) orange(0.28) juice(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(0.18) the(0.07) largest(0.03) is.(0.15) [0.14]
+The(0.15) hammer.(0.63) Can(0.63) you(0.63) please(0.63) a(0.43) go(0.44) to(0.44) the(1.0) french(0.49) open(0.49) a(0.05) grammy(0.05) the(0.05) orange(0.28) juice(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(0.18) oranges(0.0) to(0.0) this.(0.02) [0.13]
+The(0.15) hammer.(0.63) Can(0.63) you(0.63) please(0.63) a(0.43) go(0.44) to(0.44) the(1.0) french(0.49) open(0.49) and(0.05) grab(0.07) in(0.07) orange(0.28) juice(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(0.18) oranges(0.0) to(0.0) is.(0.15) [0.13]
+The(0.15) hammer.(0.63) Can(0.63) you(0.63) please(0.63) a(0.43) go(0.44) to(0.44) the(1.0) french(0.49) open(0.49) a(0.05) grammy(0.05) the(0.05) orange(0.28) juice(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(0.18) the(0.07) largest(0.03) is.(0.15) [0.13]
+The(0.15) hammer.(0.63) Can(0.63) you(0.63) please(0.63) a(0.43) go(0.44) to(0.44) the(1.0) french(0.49) open(0.49) and(0.05) gravel(0.0) orange(0.28) juice(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(0.18) oranges(0.0) to(0.0) this.(0.02) [0.1]
+The(0.15) hammer.(0.63) Can(0.63) you(0.63) please(0.63) a(0.43) go(0.44) to(0.44) the(1.0) french(0.49) open(0.49) and(0.05) grab(0.07) in(0.07) orange(0.28) juice(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(0.18) the(0.07) artist(0.01) is.(0.15) [0.1]
+The(0.15) hammer.(0.63) Can(0.63) you(0.63) please(0.63) a(0.43) go(0.44) to(0.44) the(1.0) french(0.49) open(0.49) a(0.05) grammy(0.05) the(0.05) orange(0.28) juice(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(0.18) oranges(0.0) to(0.0) is.(0.15) [0.1]
+The(0.15) hammer.(0.63) Can(0.63) you(0.63) please(0.63) a(0.43) go(0.44) to(0.44) the(1.0) french(0.49) open(0.49) and(0.05) gravel(0.0) orange(0.28) juice(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(0.18) the(0.07) largest(0.03) is.(0.15) [0.1]
+The(0.15) hammer.(0.63) Can(0.63) you(0.63) please(0.63) a(0.43) go(0.44) to(0.44) the(1.0) french(0.49) open(0.49) and(0.05) grab(0.07) me(0.0) the(0.05) orange(0.28) juice(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(0.18) oranges(0.0) to(0.0) this.(0.02) [0.07]
+
+
+Output for file: P5-S3.flac
+
+...(0.12) hey(1.0) I'm(0.23) going(0.23) to(0.44) france(0.12) and(0.18) orange(1.0) juice(1.0) and(0.1) bring(1.0) it(0.15) to(1.0) me.(1.0) [0.23]
+The(0.03) hey(1.0) I'm(0.23) going(0.23) to(0.44) france(0.12) and(0.18) orange(1.0) juice(1.0) and(0.1) bring(1.0) it(0.15) to(1.0) me.(1.0) [0.2]
+...(0.12) hey(1.0) I'm(0.23) going(0.23) to(0.44) fresh(0.01) orange(0.01) juice(1.0) and(0.1) bring(1.0) it(0.15) to(1.0) me.(1.0) [0.14]
+...(0.12) hey(1.0) I'm(0.23) going(0.23) to(0.44) france(0.12) and(0.18) orange(1.0) juice(1.0) and(0.1) bring(1.0) to(0.02) me.(1.0) [0.14]
+...(0.12) hey(1.0) I'm(0.23) going(0.23) to(0.44) france(0.12) and(0.18) orange(1.0) juice(1.0) then(0.05) bring(1.0) it(0.15) to(1.0) me.(1.0) [0.14]
+The(0.03) hey(1.0) I'm(0.23) going(0.23) to(0.44) fresh(0.01) orange(0.01) juice(1.0) and(0.1) bring(1.0) it(0.15) to(1.0) me.(1.0) [0.12]
+The(0.03) hey(1.0) I'm(0.23) going(0.23) to(0.44) france(0.12) and(0.18) orange(1.0) juice(1.0) and(0.1) bring(1.0) to(0.02) me.(1.0) [0.12]
+...(0.12) hey(1.0) I'm(0.23) going(0.23) to(0.44) fresh(0.01) orange(0.01) juice(1.0) and(0.1) bring(1.0) to(0.02) me.(1.0) [0.11]
+The(0.03) hey(1.0) I'm(0.23) going(0.23) to(0.44) france(0.12) and(0.18) orange(1.0) juice(1.0) then(0.05) bring(1.0) it(0.15) to(1.0) me.(1.0) [0.11]
+...(0.12) hey(1.0) comma(0.0) go(0.0) to(0.44) france(0.12) and(0.18) orange(1.0) juice(1.0) and(0.1) bring(1.0) it(0.15) to(1.0) me.(1.0) [0.11]
+
+
+Output for file: P5S1.flac
+
+Hey(1.0) comma(0.11) go(0.11) to(0.28) cancel(0.3) tennis(1.0) take(0.79) the(0.68) popcorn(0.21) bag(0.23) and(0.36) bring(1.0) it(0.44) to(0.23) me.(0.23) [0.26]
+Hey(1.0) I'm(0.03) going(0.02) to(0.28) cancel(0.3) tennis(1.0) take(0.79) the(0.68) popcorn(0.21) bag(0.23) and(0.36) bring(1.0) it(0.44) to(0.23) me.(0.23) [0.19]
+Hey(1.0) I'm(0.03) a(0.0) go(0.11) to(0.28) cancel(0.3) tennis(1.0) take(0.79) the(0.68) popcorn(0.21) bag(0.23) and(0.36) bring(1.0) it(0.44) to(0.23) me.(0.23) [0.06]
+Hey(1.0) I'm(0.03) on(0.0) go(0.11) to(0.28) cancel(0.3) tennis(1.0) take(0.79) the(0.68) popcorn(0.21) bag(0.23) and(0.36) bring(1.0) it(0.44) to(0.23) me.(0.23) [0.06]
+Hey(1.0) comma(0.11) go(0.11) to(0.28) cancel(0.3) tennis(1.0) take(0.79) the(0.68) popcorn(0.21) bag(0.23) and(0.36) bring(1.0) it(0.44) to.(0.0) [0.06]
+Hey(1.0) I'm(0.03) going(0.02) to(0.28) cancel(0.3) tennis(1.0) take(0.79) the(0.68) popcorn(0.21) bag(0.23) and(0.36) bring(1.0) it(0.44) to.(0.0) [0.06]
+Hey(1.0) comma(0.11) go(0.11) to(0.28) cancel(0.3) tennis(1.0) take(0.79) the(0.68) pop(0.0) corn(0.0) bag(0.23) and(0.36) bring(1.0) it(0.44) to(0.23) me.(0.23) [0.05]
+Hey(1.0) ...(0.0) go(0.11) to(0.28) cancel(0.3) tennis(1.0) take(0.79) the(0.68) popcorn(0.21) bag(0.23) and(0.36) bring(1.0) it(0.44) to(0.23) me.(0.23) [0.05]
+
+
+Output for file: Proband5-S2.flac
+
+Hey(1.0) comma(1.0) go(0.14) to(0.46) a(0.07) concert(0.46) and(1.0) take(1.0) to(1.0) clean(1.0) up(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(0.38) and(0.33) put(0.37) the(0.15) cock(0.18) in(0.25) it.(0.37) [0.3]
+Hey(1.0) comma(1.0) go(0.14) to(0.46) the(0.07) concert(0.46) and(1.0) take(1.0) to(1.0) clean(1.0) up(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(0.38) and(0.33) put(0.37) the(0.15) cock(0.18) in(0.25) it.(0.37) [0.29]
+Hey(1.0) comma(1.0) going(0.02) to(0.46) the(0.07) concert(0.46) and(1.0) take(1.0) to(1.0) clean(1.0) up(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(0.38) and(0.33) put(0.37) the(0.15) cock(0.18) in(0.25) it.(0.37) [0.24]
+Hey(1.0) comma(1.0) going(0.02) to(0.46) a(0.07) concert(0.46) and(1.0) take(1.0) to(1.0) clean(1.0) up(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(0.38) and(0.33) put(0.37) the(0.15) cock(0.18) in(0.25) it.(0.37) [0.24]
+Hey(1.0) comma(1.0) go(0.14) to(0.46) a(0.07) concert(0.46) and(1.0) take(1.0) to(1.0) clean(1.0) up(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(0.38) and(0.33) put(0.37) in(0.0) it.(0.0) [0.13]
+Hey(1.0) comma(1.0) go(0.14) to(0.46) a(0.07) concert(0.46) and(1.0) take(1.0) to(1.0) clean(1.0) up(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(0.38) and(0.33) put(0.37) cum(0.0) in(0.25) it.(0.37) [0.13]
+Hey(1.0) comma(1.0) go(0.14) to(0.46) a(0.07) concert(0.46) and(1.0) take(1.0) to(1.0) clean(1.0) up(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(0.38) and(0.33) put(0.37) cock(0.01) in(0.25) it.(0.37) [0.13]
+Hey(1.0) comma(1.0) I'm(0.0) going(0.02) to(0.46) a(0.07) concert(0.46) and(1.0) take(1.0) to(1.0) clean(1.0) up(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(0.38) and(0.33) put(0.37) the(0.15) cock(0.18) in(0.25) it.(0.37) [0.09]
+Hey(1.0) comma(1.0) go(0.14) to(0.46) the(0.07) concert(0.46) and(1.0) take(1.0) to(1.0) clean(1.0) up(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(0.38) and(0.33) put(0.37) in(0.0) it.(0.0) [0.09]
+Hey(1.0) comma(1.0) go(0.14) to(0.46) a(0.07) concert(0.46) and(1.0) take(1.0) to(1.0) clean(1.0) up(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dish(0.0) washer.(0.0) Please(0.0) come(0.0) in.(0.0) [0.02]
+
+
+Output for file: P6S1.flac
+
+The(0.36) are(0.2) mom(0.2) please(0.23) bring(1.0) the(0.15) pop(0.1) on(0.18) back(0.7) from(1.0) the(0.5) table.(1.0) [0.24]
+The(0.36) are(0.2) mom(0.2) please(0.23) bring(1.0) it(0.02) on(0.01) back(0.7) from(1.0) the(0.5) table.(1.0) [0.15]
+The(0.36) are(0.2) mom(0.2) please(0.23) bring(1.0) the(0.15) phone(0.0) back(0.0) from(1.0) the(0.5) table.(1.0) [0.03]
+The(0.36) are(0.2) mom(0.2) please(0.23) bring(1.0) it(0.02) come(0.0) back(0.0) from(1.0) the(0.5) table.(1.0) [0.02]
+The(0.36) armada(0.0) please(0.0) bring(1.0) the(0.15) pop(0.1) on(0.18) back(0.7) from(1.0) the(0.5) table.(1.0) [0.02]
+The(0.36) armada(0.0) please(0.0) bring(1.0) it(0.02) on(0.01) back(0.7) from(1.0) the(0.5) table.(1.0) [0.02]
+The(0.36) are(0.2) mom.(0.2) Please(0.23) bring(1.0) a(0.0) pop(0.1) on(0.18) back(0.7) from(1.0) the(0.5) table.(1.0) [0.02]
+The(0.36) are(0.2) mom(0.2) please(0.23) bring(1.0) the(0.15) popcorn(0.0) back(0.0) from(1.0) the(0.5) table.(1.0) [0.02]
+The(0.36) are(0.2) mom(0.2) please(0.23) bring(1.0) the(0.15) com(0.0) back(0.0) from(1.0) the(0.5) table.(1.0) [0.02]
+The(0.36) armada(0.0) please(0.0) bring(1.0) the(0.15) phone(0.0) back(0.0) from(1.0) the(0.5) table.(1.0) [0.01]
+
+
+Output for file: P6S2.flac
+
+Are(0.23) mom(0.23) put(0.23) the(0.23) cream(1.0) cup(1.0) from(1.0) the(0.12) table(0.12) to(0.4) the(0.4) dishwasher(1.0) then(1.0) close(1.0) it.(1.0) [0.29]
+Are(0.23) mom(0.23) put(0.23) the(0.23) cream(1.0) cup(1.0) from(1.0) table(0.02) to(0.02) the(0.4) dishwasher(1.0) then(1.0) close(1.0) it.(1.0) [0.19]
+Armagh(0.0) put(0.0) the(0.0) cream(0.0) cup(1.0) from(1.0) the(0.12) table(0.12) to(0.4) the(0.4) dishwasher(1.0) then(1.0) close(1.0) it.(1.0) [0.08]
+Armagh(0.0) put(0.0) the(0.0) cream(0.0) cup(1.0) from(1.0) table(0.02) to(0.02) the(0.4) dishwasher(1.0) then(1.0) close(1.0) it.(1.0) [0.06]
+Are(0.23) mom(0.23) put(0.23) the(0.23) cream(1.0) cup(1.0) from(1.0) taylor(0.0) the(0.0) dishwasher(0.0) then(1.0) close(1.0) it.(1.0) [0.02]
+Are(0.23) mom(0.23) put(0.23) the(0.23) cream(1.0) cup(1.0) from(1.0) tailored(0.0) to(0.02) the(0.4) dishwasher(1.0) then(1.0) close(1.0) it.(1.0) [0.02]
+Armagh(0.0) put(0.0) the(0.0) cream(0.0) cup(1.0) from(1.0) taylor(0.0) the(0.0) dishwasher(0.0) then(1.0) close(1.0) it.(1.0) [0.0]
+Armagh(0.0) put(0.0) the(0.0) cream(0.0) cup(1.0) from(1.0) tailored(0.0) to(0.02) the(0.4) dishwasher(1.0) then(1.0) close(1.0) it.(1.0) [0.0]
+
+
+Output for file: P6S3.flac
+
+Armagh(1.0) on(0.11) the(1.0) fridge(0.2) and(1.0) bring(1.0) your(1.0) insurance.(1.0) [0.31]
+Armagh(1.0) open(0.05) the(1.0) bridge(0.01) and(1.0) bring(1.0) your(1.0) insurance.(1.0) [0.14]
+Armagh(1.0) open(0.05) the(1.0) fridge(0.2) and(1.0) bring(1.0) your(1.0) insurance.(1.0) [0.14]
+Armagh(1.0) on(0.11) the(1.0) bridge(0.01) and(1.0) bring(1.0) your(1.0) insurance.(1.0) [0.14]
+
+
+Output for file: P7S1.flac
+
+Can(1.0) you(1.0) crack(0.05) me(1.0) the(1.0) box(0.47) of(0.47) pop(0.23) corn(0.23) on(1.0) the(1.0) table(1.0) next(1.0) to(1.0) the(1.0) cereal(0.14) box.(1.0) [0.28]
+Can(1.0) you(1.0) grab(0.05) me(1.0) the(1.0) box(0.47) of(0.47) pop(0.23) corn(0.23) on(1.0) the(1.0) table(1.0) next(1.0) to(1.0) the(1.0) cereal(0.14) box.(1.0) [0.28]
+Can(1.0) you(1.0) crack(0.05) me(1.0) the(1.0) box(0.47) of(0.47) pop(0.23) corn(0.23) on(1.0) the(1.0) table(1.0) next(1.0) to(1.0) the(1.0) serial(0.03) box.(1.0) [0.23]
+Can(1.0) you(1.0) grab(0.05) me(1.0) the(1.0) box(0.47) of(0.47) pop(0.23) corn(0.23) on(1.0) the(1.0) table(1.0) next(1.0) to(1.0) the(1.0) serial(0.03) box.(1.0) [0.23]
+Can(1.0) you(1.0) crap(0.0) me(1.0) the(1.0) box(0.47) of(0.47) pop(0.23) corn(0.23) on(1.0) the(1.0) table(1.0) next(1.0) to(1.0) the(1.0) cereal(0.14) box.(1.0) [0.22]
+Can(1.0) you(1.0) crack(0.05) me(1.0) the(1.0) box(0.47) of(0.47) popcorn(0.0) on(0.0) the(1.0) table(1.0) next(1.0) to(1.0) the(1.0) cereal(0.14) box.(1.0) [0.14]
+Can(1.0) you(1.0) track(0.0) me(1.0) the(1.0) box(0.47) of(0.47) pop(0.23) corn(0.23) on(1.0) the(1.0) table(1.0) next(1.0) to(1.0) the(1.0) cereal(0.14) box.(1.0) [0.14]
+Can(1.0) you(1.0) crack(0.05) me(1.0) the(1.0) fuck(0.0) off(0.0) pop(0.23) corn(0.23) on(1.0) the(1.0) table(1.0) next(1.0) to(1.0) the(1.0) cereal(0.14) box.(1.0) [0.09]
+Can(1.0) you(1.0) grab(0.05) me(1.0) the(1.0) box(0.47) of(0.47) popcorn(0.0) on(0.0) the(1.0) table(1.0) next(1.0) to(1.0) the(1.0) cereal(0.14) box.(1.0) [0.09]
+Can(1.0) you(1.0) crap(0.0) me(1.0) the(1.0) box(0.47) of(0.47) pop(0.23) corn(0.23) on(1.0) the(1.0) table(1.0) next(1.0) to(1.0) the(1.0) serial(0.03) box.(1.0) [0.09]
+
+
+Output for file: P7S2.flac
+
+Can(1.0) you(1.0) please(1.0) put(1.0) the(1.0) green(1.0) copy(0.15) on(1.0) the(1.0) table(1.0) and(1.0) this(1.0) washer(1.0) and(1.0) please(1.0) don't(1.0) forget(1.0) to(1.0) close(1.0) the(1.0) dishwasher(1.0) afterwards.(1.0) [0.52]
+Can(1.0) you(1.0) please(1.0) put(1.0) the(1.0) green(1.0) coffee(0.02) on(1.0) the(1.0) table(1.0) and(1.0) this(1.0) washer(1.0) and(1.0) please(1.0) don't(1.0) forget(1.0) to(1.0) close(1.0) the(1.0) dishwasher(1.0) afterwards.(1.0) [0.33]
+
+
+Output for file: P7S3.flac
+
+Can(1.0) you(1.0) please(1.0) bring(1.0) me(1.0) orange(0.07) juice(0.12) from(1.0) the(0.25) fridge.(1.0) Please.(1.0) [0.26]
+Can(1.0) you(1.0) please(1.0) bring(1.0) me(1.0) the(0.07) orange(0.0) juice(0.12) from(1.0) the(0.25) fridge.(1.0) Please.(1.0) [0.05]
+Can(1.0) you(1.0) please(1.0) bring(1.0) me(1.0) orange(0.07) juice(0.12) from(1.0) a(0.0) fridge(1.0) please.(1.0) [0.05]
+Can(1.0) you(1.0) please(1.0) bring(1.0) me(1.0) the(0.07) orange(0.0) juice(0.12) from(1.0) a(0.0) fridge(1.0) please.(1.0) [0.04]
+
+
+Output for file: P8-S1.flac
+
+Hey(1.0) I'm(1.0) a(0.38) ring(0.38) and(0.38) I'll(0.38) come(0.38) back(1.0) from(1.0) the(1.0) table.(1.0) [0.49]
+
+
+Output for file: P8-S2.flac
+
+Hey(1.0) I'm(0.17) a(0.07) get(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table(1.0) and(1.0) buses(0.07) and(0.07) the(0.07) dishwasher.(0.05) [0.18]
+Hey(1.0) I'm(0.17) a(0.07) get(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table(1.0) and(1.0) put(0.07) it(0.07) in(0.07) the(0.07) dishwasher.(0.0) [0.05]
+Hey(1.0) ...(0.02) ...(0.02) get(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table(1.0) and(1.0) buses(0.07) and(0.07) the(0.07) dishwasher.(0.05) [0.05]
+Hey(1.0) I'm(0.17) a(0.07) get(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table(1.0) and(1.0) buses(0.07) and(0.07) the(0.07) dish(0.0) washer.(0.0) [0.05]
+Hey(1.0) ...(0.02) ...(0.02) get(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table(1.0) and(1.0) put(0.07) it(0.07) in(0.07) the(0.07) dishwasher.(0.0) [0.04]
+Hey(1.0) I'm(0.17) gonna(0.02) get(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table(1.0) and(1.0) buses(0.07) and(0.07) the(0.07) dishwasher.(0.05) [0.04]
+Hey(1.0) I'm(0.17) gonna(0.02) get(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table(1.0) and(1.0) put(0.07) it(0.07) in(0.07) the(0.07) dishwasher.(0.0) [0.04]
+Hey(1.0) ...(0.02) ...(0.02) get(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table(1.0) and(1.0) buses(0.07) and(0.07) the(0.07) dish(0.0) washer.(0.0) [0.04]
+Hey(1.0) I'm(0.17) gonna(0.02) get(1.0) the(1.0) green(1.0) top(1.0) from(1.0) the(1.0) table(1.0) and(1.0) buses(0.07) and(0.07) the(0.07) dish(0.0) washer.(0.0) [0.04]
+
+
+Output for file: P8-S3.flac
+
+Hey(1.0) I'm(0.17) on(0.07) open(0.15) the(0.18) fridge(0.31) and(0.31) on(0.12) to(0.09) something(0.37) to(0.21) me.(0.34) [0.18]
+Hey(1.0) I'm(0.17) a(0.02) open(0.15) the(0.18) fridge(0.31) and(0.31) on(0.12) to(0.09) something(0.37) to(0.21) me.(0.34) [0.16]
+Hey(1.0) I(0.02) am(0.0) a(0.02) open(0.15) the(0.18) fridge(0.31) and(0.31) on(0.12) to(0.09) something(0.37) to(0.21) me.(0.34) [0.04]
+Hey(1.0) I'm(0.17) on(0.07) opened(0.0) a(0.0) fresh(0.0) tattoo(0.0) on(0.12) to(0.09) something(0.37) to(0.21) me.(0.34) [0.03]
+Hey(1.0) I(0.02) am(0.0) on(0.07) open(0.15) the(0.18) fridge(0.31) and(0.31) on(0.12) to(0.09) something(0.37) to(0.21) me.(0.34) [0.03]
+Hey(1.0) I'm(0.17) on(0.07) open(0.15) the(0.18) fridge(0.31) and(0.31) I'm(0.03) just(0.05) something(0.37) to(0.21) me.(0.34) [0.03]
+Hey(1.0) I'm(0.17) on(0.07) open(0.15) the(0.18) fridge(0.31) and(0.31) on(0.12) just(0.05) something(0.37) to(0.21) me.(0.34) [0.03]
+Hey(1.0) I'm(0.17) on(0.07) open(0.15) the(0.18) fridge(0.31) and(0.31) on(0.12) to(0.09) something(0.37) into(0.0) me.(0.34) [0.03]
+Hey(1.0) I'm(0.17) on(0.07) open(0.15) the(0.18) fruit(0.0) stand(0.0) on(0.12) to(0.09) something(0.37) to(0.21) me.(0.34) [0.03]
+Hey(1.0) I'm(0.17) a(0.02) opened(0.0) a(0.0) fresh(0.0) tattoo(0.0) on(0.12) to(0.09) something(0.37) to(0.21) me.(0.34) [0.03]
+
+
+Output for file: P9S1.flac
+
+He's(0.15) gonna(0.15) seek(0.15) and(0.15) then(0.15) I'll(0.15) come(0.15) back(0.18) and(1.0) bring(1.0) it(0.4) to(1.0) me.(1.0) [0.21]
+He(0.0) go(0.02) to(0.02) kick(0.02) some(0.02) ass(0.02) how(0.0) come(0.15) back(0.18) and(1.0) bring(1.0) it(0.4) to(1.0) me.(1.0) [0.03]
+We(0.0) go(0.02) to(0.02) kick(0.02) some(0.02) ass(0.02) how(0.0) come(0.15) back(0.18) and(1.0) bring(1.0) it(0.4) to(1.0) me.(1.0) [0.02]
+
+
+Output for file: P9S2.flac
+
+Please(0.02) can(0.07) to(0.18) the(0.34) kitchen(0.43) table(1.0) and(1.0) pick(1.0) up(1.0) green(0.05) cap(0.05) take(0.05) it(0.1) to(0.43) the(0.43) dishwasher(0.43) but(0.05) it(0.07) didn't(0.05) happen(0.03) to(0.02) steph(0.03) after(0.01) discussing.(0.01) [0.08]
+Peter(0.0) to(0.01) the(0.0) kitchen(0.43) table(1.0) and(1.0) pick(1.0) up(1.0) green(0.05) cap(0.05) take(0.05) it(0.1) to(0.43) the(0.43) dishwasher(0.43) but(0.05) it(0.07) didn't(0.05) happen(0.03) to(0.02) steph(0.03) after(0.01) discussing.(0.01) [0.06]
+Please(0.02) can(0.07) to(0.18) the(0.34) kitchen(0.43) table(1.0) and(1.0) pick(1.0) up(1.0) green(0.05) cap(0.05) take(0.05) it(0.1) to(0.43) the(0.43) dishwasher(0.43) and(0.03) put(0.0) it(0.0) onto(0.0) after(0.0) discussing.(0.01) [0.02]
+Please(0.02) can(0.07) to(0.18) the(0.34) kitchen(0.43) table(1.0) and(1.0) pick(1.0) up(1.0) green(0.05) cap(0.05) take(0.05) it(0.1) to(0.43) the(0.43) dishwasher(0.43) president.(0.01) Have(0.0) a(0.03) chance(0.05) have(0.1) happened(0.05) to(0.05) discuss.(0.0) [0.02]
+Please(0.02) can(0.07) to(0.18) the(0.34) kitchen(0.43) table(1.0) and(1.0) pick(1.0) up(1.0) the(0.05) green(0.1) can(0.1) take(0.0) it(0.1) to(0.43) the(0.43) dishwasher(0.43) but(0.05) it(0.07) didn't(0.05) happen(0.03) to(0.02) steph(0.03) after(0.01) discussing.(0.01) [0.02]
+Please(0.02) can(0.07) to(0.18) the(0.34) kitchen(0.43) table(1.0) and(1.0) pick(1.0) up(1.0) to(0.01) green(0.1) can(0.1) take(0.0) it(0.1) to(0.43) the(0.43) dishwasher(0.43) but(0.05) it(0.07) didn't(0.05) happen(0.03) to(0.02) steph(0.03) after(0.01) discussing.(0.01) [0.02]
+Speak(0.0) and(0.02) to(0.18) the(0.34) kitchen(0.43) table(1.0) and(1.0) pick(1.0) up(1.0) green(0.05) cap(0.05) take(0.05) it(0.1) to(0.43) the(0.43) dishwasher(0.43) but(0.05) it(0.07) didn't(0.05) happen(0.03) to(0.02) steph(0.03) after(0.01) discussing.(0.01) [0.02]
+Please(0.02) can(0.07) to(0.18) the(0.34) kitchen(0.43) table(1.0) and(1.0) pick(1.0) up(1.0) green(0.05) cap(0.05) take(0.05) it(0.1) to(0.43) the(0.43) dishwasher(0.43) and(0.03) put(0.0) it(0.07) in(0.05) a(0.03) chance(0.05) have(0.1) happened(0.05) to(0.05) discuss.(0.0) [0.02]
+Pete(0.03) can(0.07) to(0.18) the(0.34) kitchen(0.43) table(1.0) and(1.0) pick(1.0) up(1.0) green(0.05) cap(0.05) take(0.05) it(0.1) to(0.43) the(0.43) dishwasher(0.43) but(0.05) it(0.07) didn't(0.05) happen(0.03) to(0.02) steph(0.03) after(0.01) discussing.(0.01) [0.02]
+Pete(0.03) and(0.02) to(0.18) the(0.34) kitchen(0.43) table(1.0) and(1.0) pick(1.0) up(1.0) green(0.05) cap(0.05) take(0.05) it(0.1) to(0.43) the(0.43) dishwasher(0.43) but(0.05) it(0.07) didn't(0.05) happen(0.03) to(0.02) steph(0.03) after(0.01) discussing.(0.01) [0.02]
+
+
+Output for file: P9S3.flac
+
+Test(1.0) message(1.0) timbo(0.17) can(1.0) take(0.05) out(0.05) the(0.1) orange(1.0) juice(1.0) in(0.1) canada.(0.11) I(0.03) can(0.41) bring(0.63) it(0.25) to(1.0) me.(0.27) [0.15]
+Test(1.0) message(1.0) timbo.(0.17) Can(1.0) I(0.1) take(0.11) out(0.0) the(0.1) orange(1.0) juice(1.0) in(0.1) canada.(0.11) I(0.03) can(0.41) bring(0.63) it(0.25) to(1.0) me.(0.27) [0.06]
+Test(1.0) message.(1.0) So(0.01) can(1.0) I(0.1) take(0.11) out(0.0) the(0.1) orange(1.0) juice(1.0) in(0.1) canada.(0.11) I(0.03) can(0.41) bring(0.63) it(0.25) to(1.0) me.(0.27) [0.05]
+Test(1.0) message(1.0) timbo(0.17) can(1.0) take(0.05) out(0.05) the(0.1) orange(1.0) juice(1.0) and(0.05) cancer(0.03) that(0.07) can(0.41) bring(0.63) it(0.25) to(1.0) me.(0.27) [0.05]
+Test(1.0) message(1.0) timbo.(0.17) Can(1.0) I(0.1) take(0.11) out(0.0) the(0.1) orange(1.0) juice(1.0) and(0.05) cancer(0.03) that(0.07) can(0.41) bring(0.63) it(0.25) to(1.0) me.(0.27) [0.05]
+Test(1.0) message(1.0) timbo(0.17) can(1.0) take(0.05) out(0.05) the(0.1) orange(1.0) juice(1.0) in(0.1) canada(0.11) that(0.07) can(0.41) bring(0.63) it(0.25) to(1.0) me.(0.27) [0.05]
+Test(1.0) message(1.0) timbo.(0.17) Can(1.0) I(0.1) take(0.11) out(0.0) the(0.1) orange(1.0) juice(1.0) in(0.1) canada(0.11) that(0.07) can(0.41) bring(0.63) it(0.25) to(1.0) me.(0.27) [0.05]
+Test(1.0) message(1.0) timbo(0.17) can(1.0) a(0.0) take(0.05) out(0.05) the(0.1) orange(1.0) juice(1.0) in(0.1) canada.(0.11) I(0.03) can(0.41) bring(0.63) it(0.25) to(1.0) me.(0.27) [0.05]
+Test(1.0) message(1.0) timbo(0.17) can(1.0) take(0.05) out(0.05) the(0.1) orange(1.0) juice(1.0) in(0.1) canada.(0.11) Dad(0.0) can(0.0) bring(0.63) it(0.25) to(1.0) me.(0.27) [0.05]
+Test(1.0) message.(1.0) So(0.01) can(1.0) I(0.1) take(0.11) out(0.0) the(0.1) orange(1.0) juice(1.0) and(0.05) cancer(0.03) that(0.07) can(0.41) bring(0.63) it(0.25) to(1.0) me.(0.27) [0.05]
+
+
+Output for file: P10S1.flac
+
+Can(1.0) you(1.0) bring(1.0) it(0.28) in(0.28) pub(0.68) on(1.0) sunday(1.0) kitchen(0.1) davis.(0.17) [0.28]
+Can(1.0) you(1.0) bring(1.0) it(0.28) in(0.28) pub(0.68) on(1.0) sunday(1.0) jason(0.01) davis.(0.17) [0.19]
+Can(1.0) you(1.0) bring(1.0) it(0.28) in(0.28) pub(0.68) on(1.0) sunday(1.0) consume(0.0) daily.(0.0) [0.11]
+Can(1.0) you(1.0) bring(1.0) it(0.28) in(0.28) pub(0.68) on(1.0) sunday(1.0) to(0.0) chintan.(0.0) [0.11]
+Can(1.0) you(1.0) bring(1.0) his(0.0) pub(0.0) on(1.0) sunday(1.0) kitchen(0.1) davis.(0.17) [0.09]
+Can(1.0) you(1.0) bring(1.0) it(0.28) in(0.28) pub(0.68) on(1.0) sunday(1.0) catching(0.0) davis.(0.17) [0.09]
+
+
+Output for file: P10S2.flac
+
+Can(1.0) you(1.0) put(1.0) a(0.31) green(0.25) path(0.05) from(0.25) the(0.18) kitchen(0.4) to(0.4) end(0.17) of(0.17) the(0.36) session.(1.0) [0.24]
+Can(1.0) you(1.0) put(1.0) a(0.31) greenpath(0.0) from(0.0) the(0.0) kitchen(0.4) to(0.4) end(0.17) of(0.17) the(0.36) session.(1.0) [0.09]
+Can(1.0) you(1.0) put(1.0) a(0.31) green(0.25) path(0.05) from(0.25) their(0.01) kitchen(0.4) to(0.4) end(0.17) of(0.17) the(0.36) session.(1.0) [0.09]
+Can(1.0) you(1.0) put(1.0) a(0.31) green(0.25) cab(0.01) from(0.25) the(0.18) kitchen(0.4) to(0.4) end(0.17) of(0.17) the(0.36) session.(1.0) [0.09]
+Can(1.0) you(1.0) put(1.0) a(0.31) green(0.25) ca(0.0) from(0.25) the(0.18) kitchen(0.4) to(0.4) end(0.17) of(0.17) the(0.36) session.(1.0) [0.09]
+Can(1.0) you(1.0) put(1.0) a(0.31) green(0.25) path(0.05) from(0.25) the(0.18) kitchen(0.4) to(0.4) ended(0.0) the(0.36) session.(1.0) [0.09]
+Can(1.0) you(1.0) put(1.0) the(0.0) green(0.25) copy(0.0) from(0.25) their(0.01) kitchen(0.4) to(0.4) end(0.17) of(0.17) the(0.36) session.(1.0) [0.08]
+Can(1.0) you(1.0) put(1.0) a(0.31) greenpath(0.0) from(0.0) their(0.0) kitchen(0.4) to(0.4) end(0.17) of(0.17) the(0.36) session.(1.0) [0.08]
+Can(1.0) you(1.0) put(1.0) a(0.31) green(0.25) top(0.0) from(0.25) the(0.18) kitchen(0.4) to(0.4) end(0.17) of(0.17) the(0.36) session.(1.0) [0.08]
+Can(1.0) you(1.0) put(1.0) a(0.31) green(0.25) card(0.0) from(0.25) the(0.18) kitchen(0.4) to(0.4) end(0.17) of(0.17) the(0.36) session.(1.0) [0.08]
+
+
+Output for file: P10S3.flac
+
+Can(1.0) you(1.0) bring(1.0) me(1.0) a(0.18) orange(1.0) juice(1.0) from(1.0) the(1.0) fridge.(0.1) [0.31]
+Can(1.0) you(1.0) bring(1.0) me(1.0) a(0.18) orange(1.0) juice(1.0) from(1.0) the(1.0) french.(0.05) [0.26]
+Can(1.0) you(1.0) bring(1.0) me(1.0) the(0.0) orange(1.0) juice(1.0) from(1.0) the(1.0) fridge.(0.1) [0.17]
+Can(1.0) you(1.0) bring(1.0) me(1.0) an(0.0) orange(1.0) juice(1.0) from(1.0) the(1.0) fridge.(0.1) [0.15]
+Can(1.0) you(1.0) bring(1.0) me(1.0) the(0.0) orange(1.0) juice(1.0) from(1.0) the(1.0) french.(0.05) [0.15]
+
+
+Output for file: P11S1.flac
+
+Hey(1.0) comma(1.0) please(1.0) go(1.0) into(0.17) the(1.0) kitchen(1.0) taylor(0.09) on(1.0) the(1.0) right(1.0) side(1.0) in(1.0) huntington(1.0) popcorn.(0.12) [0.3]
+Hey(1.0) comma(1.0) please(1.0) go(1.0) into(0.17) the(1.0) kitchen(1.0) tail(0.0) on(1.0) the(1.0) right(1.0) side(1.0) in(1.0) huntington(1.0) popcorn.(0.12) [0.19]
+Hey(1.0) comma(1.0) please(1.0) go(1.0) into(0.17) the(1.0) kitchen(1.0) tamara(0.0) on(1.0) the(1.0) right(1.0) side(1.0) in(1.0) huntington(1.0) popcorn.(0.12) [0.19]
+Hey(1.0) comma(1.0) please(1.0) go(1.0) into(0.17) the(1.0) kitchen(1.0) table(0.01) on(1.0) the(1.0) right(1.0) side(1.0) in(1.0) huntington(1.0) popcorn.(0.12) [0.19]
+Hey(1.0) comma(1.0) please(1.0) go(1.0) into(0.17) the(1.0) kitchen(1.0) taylor(0.09) on(1.0) the(1.0) right(1.0) side(1.0) in(1.0) huntington(1.0) pop.(0.03) Corn.(0.0) [0.06]
+Hey(1.0) comma(1.0) please(1.0) go(1.0) to(0.02) the(1.0) kitchen(1.0) taylor(0.09) on(1.0) the(1.0) right(1.0) side(1.0) in(1.0) huntington(1.0) popcorn.(0.12) [0.06]
+Hey(1.0) comma(1.0) please(1.0) go(1.0) into(0.17) the(1.0) kitchen(1.0) tail(0.0) on(1.0) the(1.0) right(1.0) side(1.0) in(1.0) huntington(1.0) pop.(0.03) Corn.(0.0) [0.05]
+Hey(1.0) comma(1.0) please(1.0) go(1.0) into(0.17) the(1.0) kitchen(1.0) tamara(0.0) on(1.0) the(1.0) right(1.0) side(1.0) in(1.0) huntington(1.0) pop.(0.03) Corn.(0.0) [0.05]
+Hey(1.0) comma(1.0) please(1.0) go(1.0) into(0.17) the(1.0) kitchen(1.0) camera(0.0) on(1.0) the(1.0) right(1.0) side(1.0) in(1.0) huntington(1.0) popcorn.(0.12) [0.05]
+Hey(1.0) comma(1.0) please(1.0) go(1.0) into(0.17) the(1.0) kitchen(1.0) table(0.01) on(1.0) the(1.0) right(1.0) side(1.0) in(1.0) huntington(1.0) pop.(0.03) Corn.(0.0) [0.05]
+
+
+Output for file: P11S2.flac
+
+Hey(1.0) anna(0.37) please(1.0) take(1.0) the(1.0) green(1.0) pop(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(0.62) cream(0.38) happened(0.38) to(0.15) this(0.12) class(0.14) and(0.18) so(0.03) the(0.15) dishwasher.(0.17) [0.24]
+Hey(1.0) anna(0.37) please(1.0) take(1.0) the(1.0) green(1.0) pop(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(0.62) cream(0.38) happened(0.38) to(0.15) this(0.12) class(0.14) and(0.18) the(0.01) dishwasher.(0.17) [0.22]
+Hey(1.0) anna(0.37) please(1.0) take(1.0) the(1.0) green(1.0) pop(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(0.62) cream(0.38) happened.(0.38) Just(0.0) listen(0.0) to(0.15) the(0.0) dishwasher.(0.17) [0.02]
+Hey(1.0) anna(0.37) please(1.0) take(1.0) the(1.0) green(1.0) pop(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(0.62) cream(0.38) happened(0.38) this(0.01) last(0.0) and(0.18) the(0.01) dishwasher.(0.17) [0.02]
+Hey(1.0) anna(0.37) please(1.0) take(1.0) the(1.0) green(1.0) pop(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(0.62) cream(0.38) happened(0.38) this(0.01) last(0.0) week(0.0) of(0.0) the(0.01) dishwasher.(0.17) [0.02]
+Hey(1.0) anna(0.37) please(1.0) take(1.0) the(1.0) green(1.0) pop(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(0.62) cream(0.38) happened(0.38) to(0.15) this(0.12) class(0.14) and(0.18) the(0.01) dish(0.02) washer.(0.0) [0.02]
+Hey(1.0) anna(0.37) please(1.0) take(1.0) the(1.0) green(1.0) pop(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(0.62) cream(0.38) happened(0.38) to(0.15) this(0.12) class(0.14) and(0.18) then(0.0) to(0.0) the(0.01) dishwasher.(0.17) [0.02]
+Hey(1.0) anna(0.37) please(1.0) take(1.0) the(1.0) green(1.0) pop(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(0.62) cream(0.38) happened(0.38) to(0.15) the(0.0) sunshine(0.0) coast(0.0) the(0.01) dishwasher.(0.17) [0.02]
+Hey(1.0) anna(0.37) please(1.0) take(1.0) the(1.0) green(1.0) pop(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(0.62) cream(0.38) happened.(0.38) Just(0.0) listen(0.0) to(0.15) the(0.0) dish(0.02) washer.(0.0) [0.01]
+Hey(1.0) anna(0.37) please(1.0) take(1.0) the(1.0) green(1.0) pop(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(0.62) cream(0.38) happened(0.38) to(0.15) this(0.12) class(0.14) and(0.18) so(0.03) the(0.15) dish(0.02) washer.(0.0) [0.01]
+
+
+Output for file: P11S3.flac
+
+Hey(1.0) how(1.0) much(1.0) does(1.0) a(1.0) french(1.0) open(1.0) french(1.0) take(1.0) ninety(0.23) two(0.17) her(0.14) friends(0.14) and(0.23) then(0.25) bring(0.31) your(0.09) instincts.(0.02) [0.21]
+Hey(1.0) how(1.0) much(1.0) does(1.0) a(1.0) french(1.0) open(1.0) french(1.0) take(1.0) ninety(0.23) two(0.17) her(0.14) friends(0.14) and(0.23) then(0.25) bringing(0.0) your(0.09) instincts.(0.02) [0.15]
+Hey(1.0) how(1.0) much(1.0) does(1.0) a(1.0) french(1.0) open(1.0) french(1.0) take(1.0) ninety(0.23) two(0.17) her(0.14) friends(0.14) and(0.23) then(0.25) bring(0.31) me(0.05) the(0.0) orange(0.0) juice.(0.0) [0.03]
+Hey(1.0) how(1.0) much(1.0) does(1.0) a(1.0) french(1.0) open(1.0) french(1.0) take(1.0) ninety(0.23) two(0.17) two(0.01) six(0.01) and(0.23) then(0.25) bring(0.31) your(0.09) instincts.(0.02) [0.03]
+Hey(1.0) how(1.0) much(1.0) does(1.0) a(1.0) french(1.0) open(1.0) french(1.0) take(1.0) ninety(0.23) two(0.17) her(0.14) friends(0.14) and(0.23) then(0.25) bring(0.31) me(0.0) your(0.09) instincts.(0.02) [0.03]
+Hey(1.0) how(1.0) much(1.0) does(1.0) a(1.0) french(1.0) open(1.0) french(1.0) take(1.0) ninety(0.23) two(0.17) her(0.14) friends(0.14) and(0.23) then(0.25) bring(0.31) your(0.09) instinct.(0.01) [0.03]
+Hey(1.0) how(1.0) much(1.0) does(1.0) a(1.0) french(1.0) open(1.0) french(1.0) take(1.0) ninety(0.23) two(0.17) two(0.01) six(0.01) and(0.23) then(0.25) bringing(0.0) your(0.09) instincts.(0.02) [0.03]
+Hey(1.0) how(1.0) much(1.0) does(1.0) a(1.0) french(1.0) open(1.0) french(1.0) take(1.0) ninety(0.23) two(0.17) two(0.01) six(0.01) and(0.23) then(0.25) bring(0.31) me(0.05) the(0.0) orange(0.0) juice.(0.0) [0.02]
+Hey(1.0) how(1.0) much(1.0) does(1.0) a(1.0) french(1.0) open(1.0) french(1.0) take(1.0) ninety(0.23) two(0.17) her(0.14) friends(0.14) and(0.23) then(0.25) bringing(0.0) your(0.09) instinct.(0.01) [0.02]
+Hey(1.0) how(1.0) much(1.0) does(1.0) a(1.0) french(1.0) open(1.0) french(1.0) take(1.0) ninety(0.23) two(0.17) two(0.01) six(0.01) and(0.23) then(0.25) bring(0.31) me(0.0) your(0.09) instincts.(0.02) [0.02]
+
+
+Output for file: P12S1.flac
+
+Can(1.0) go(1.0) to(1.0) the(1.0) kitchen(1.0) table(1.0) ...(1.0) get(1.0) the(1.0) popcorn(1.0) and(1.0) bring(0.23) it(0.23) to(1.0) me.(1.0) [0.47]
+Can(1.0) go(1.0) to(1.0) the(1.0) kitchen(1.0) table(1.0) ...(1.0) get(1.0) the(1.0) popcorn(1.0) and(1.0) bring(0.0) to(1.0) me.(1.0) [0.16]
+
+
+Output for file: P12S2.flac
+
+Vlingo(0.1) to(0.27) taylor(0.2) take(0.23) the(1.0) green(1.0) car(0.31) then(0.05) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) green(1.0) green(0.31) cup(0.14) down(0.1) in(1.0) the(1.0) dish(1.0) washer(1.0) ...(1.0) and(0.27) killswitch.(0.07) [0.25]
+Vlingo(0.1) to(0.27) taylor(0.2) take(0.23) the(1.0) green(1.0) car(0.31) and(0.1) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) green(1.0) green(0.31) cup(0.14) down(0.1) in(1.0) the(1.0) dish(1.0) washer(1.0) ...(1.0) and(0.27) killswitch.(0.07) [0.25]
+Vlingo(0.1) to(0.27) taylor(0.2) take(0.23) the(1.0) green(1.0) car(0.31) then(0.05) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) green(1.0) green(0.31) cup(0.14) down(0.1) in(1.0) the(1.0) dish(1.0) washer(1.0) ...(1.0) and(0.27) kill(0.07) switch.(0.0) [0.11]
+Go(0.03) to(0.27) taylor(0.2) take(0.23) the(1.0) green(1.0) car(0.31) then(0.05) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) green(1.0) green(0.31) cup(0.14) down(0.1) in(1.0) the(1.0) dish(1.0) washer(1.0) ...(1.0) and(0.27) killswitch.(0.07) [0.11]
+Vlingo(0.1) to(0.27) taylor(0.2) take(0.23) the(1.0) green(1.0) car(0.31) and(0.1) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) green(1.0) green(0.31) cup(0.14) down(0.1) in(1.0) the(1.0) dish(1.0) washer(1.0) ...(1.0) and(0.27) kill(0.07) switch.(0.0) [0.11]
+Go(0.03) to(0.27) taylor(0.2) take(0.23) the(1.0) green(1.0) car(0.31) and(0.1) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) green(1.0) green(0.31) cup(0.14) down(0.1) in(1.0) the(1.0) dish(1.0) washer(1.0) ...(1.0) and(0.27) killswitch.(0.07) [0.11]
+Vlingo(0.1) to(0.27) taylor(0.2) take(0.23) the(1.0) green(1.0) car(0.31) then(0.05) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) green(1.0) green(0.31) cup(0.14) down(0.1) in(1.0) the(1.0) dish(1.0) washer(1.0) ...(1.0) killswitch.(0.0) [0.11]
+Go(0.03) to(0.27) taylor(0.2) take(0.23) the(1.0) green(1.0) car(0.31) then(0.05) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) green(1.0) green(0.31) cup(0.14) down(0.1) in(1.0) the(1.0) dish(1.0) washer(1.0) ...(1.0) and(0.27) kill(0.07) switch.(0.0) [0.1]
+Vlingo(0.1) to(0.27) taylor(0.2) take(0.23) the(1.0) green(1.0) car(0.31) and(0.1) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) green(1.0) green(0.31) cup(0.14) down(0.1) in(1.0) the(1.0) dish(1.0) washer(1.0) ...(1.0) killswitch.(0.0) [0.1]
+Vlingo(0.1) to(0.27) taylor(0.2) take(0.23) the(1.0) green(1.0) car(0.31) then(0.05) go(1.0) to(1.0) the(1.0) dishwasher(1.0) open(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) the(1.0) green(1.0) green(0.31) cup(0.14) down(0.1) in(1.0) the(1.0) dish(1.0) washer(1.0) ...(1.0) kill(0.0) switch.(0.0) [0.09]
+
+
+Output for file: P12S3.flac
+
+I'm(0.18) go(1.0) to(1.0) learn(1.0) to(1.0) french(1.0) open(1.0) french(1.0) and(0.14) get(1.0) the(1.0) orange(1.0) juice(1.0) close(0.28) the(0.3) fridge(1.0) ...(1.0) bring(1.0) villages(0.05) to(0.1) me.(1.0) [0.26]
+I'm(0.18) go(1.0) to(1.0) learn(1.0) to(1.0) french(1.0) open(1.0) french(1.0) ...(0.03) get(1.0) the(1.0) orange(1.0) juice(1.0) close(0.28) the(0.3) fridge(1.0) ...(1.0) bring(1.0) villages(0.05) to(0.1) me.(1.0) [0.23]
+I'm(0.18) go(1.0) to(1.0) learn(1.0) to(1.0) french(1.0) open(1.0) french(1.0) and(0.14) get(1.0) the(1.0) orange(1.0) juice(1.0) close(0.28) the(0.3) fridge(1.0) ...(1.0) bring(1.0) oranges(0.0) to(0.1) me.(1.0) [0.22]
+I'm(0.18) go(1.0) to(1.0) learn(1.0) to(1.0) french(1.0) open(1.0) french(1.0) and(0.14) get(1.0) the(1.0) orange(1.0) juice(1.0) close(0.28) the(0.3) fridge(1.0) ...(1.0) bring(1.0) the(0.07) arches(0.0) to(0.1) me.(1.0) [0.09]
+I'm(0.18) go(1.0) to(1.0) learn(1.0) to(1.0) french(1.0) open(1.0) french(1.0) ...(0.03) get(1.0) the(1.0) orange(1.0) juice(1.0) close(0.28) the(0.3) fridge(1.0) ...(1.0) bring(1.0) oranges(0.0) to(0.1) me.(1.0) [0.09]
+I'm(0.18) go(1.0) to(1.0) learn(1.0) to(1.0) french(1.0) open(1.0) french(1.0) ...(0.03) get(1.0) the(1.0) orange(1.0) juice(1.0) close(0.28) the(0.3) fridge(1.0) ...(1.0) bring(1.0) the(0.07) arches(0.0) to(0.1) me.(1.0) [0.08]
+Can(0.0) go(1.0) to(1.0) learn(1.0) to(1.0) french(1.0) open(1.0) french(1.0) and(0.14) get(1.0) the(1.0) orange(1.0) juice(1.0) close(0.28) the(0.3) fridge(1.0) ...(1.0) bring(1.0) villages(0.05) to(0.1) me.(1.0) [0.08]
+And(0.0) go(1.0) to(1.0) learn(1.0) to(1.0) french(1.0) open(1.0) french(1.0) and(0.14) get(1.0) the(1.0) orange(1.0) juice(1.0) close(0.28) the(0.3) fridge(1.0) ...(1.0) bring(1.0) villages(0.05) to(0.1) me.(1.0) [0.08]
+I'm(0.18) go(1.0) to(1.0) learn(1.0) to(1.0) french(1.0) open(1.0) french(1.0) and(0.14) get(1.0) the(1.0) orange(1.0) juice(1.0) close(0.28) the(0.3) fridge(1.0) ...(1.0) bring(1.0) delicious(0.0) to(0.1) me.(1.0) [0.08]
+Can(0.0) go(1.0) to(1.0) learn(1.0) to(1.0) french(1.0) open(1.0) french(1.0) ...(0.03) get(1.0) the(1.0) orange(1.0) juice(1.0) close(0.28) the(0.3) fridge(1.0) ...(1.0) bring(1.0) villages(0.05) to(0.1) me.(1.0) [0.08]
+
+
+Output for file: P13S1.flac
+
+Go(1.0) to(1.0) the(1.0) table(1.0) in(1.0) front(1.0) of(1.0) the(1.0) window(1.0) ...(0.23) and(0.21) take(1.0) the(1.0) popcorn(0.15) and(0.18) bring(1.0) it(1.0) to(1.0) me.(1.0) [0.37]
+Go(1.0) to(1.0) the(1.0) table(1.0) in(1.0) front(1.0) of(1.0) the(1.0) window(1.0) ...(0.0) take(0.0) the(1.0) popcorn(0.15) and(0.18) bring(1.0) it(1.0) to(1.0) me.(1.0) [0.17]
+Go(1.0) to(1.0) the(1.0) table(1.0) in(1.0) front(1.0) of(1.0) the(1.0) window(1.0) ...(0.23) and(0.21) take(1.0) the(1.0) pop(0.02) corn(0.0) and(0.18) bring(1.0) it(1.0) to(1.0) me.(1.0) [0.08]
+Go(1.0) to(1.0) the(1.0) table(1.0) in(1.0) front(1.0) of(1.0) the(1.0) window(1.0) ...(0.0) to(0.0) take(0.0) the(1.0) popcorn(0.15) and(0.18) bring(1.0) it(1.0) to(1.0) me.(1.0) [0.06]
+Go(1.0) to(1.0) the(1.0) table(1.0) in(1.0) front(1.0) of(1.0) the(1.0) window(1.0) ...(0.23) to(0.0) take(0.0) the(1.0) popcorn(0.15) and(0.18) bring(1.0) it(1.0) to(1.0) me.(1.0) [0.06]
+
+
+Output for file: P13S2.flac
+
+Go(1.0) to(1.0) do(0.27) table(0.2) and(1.0) take(1.0) to(1.0) cream(1.0) cup(0.28) note(0.03) bring(0.56) to(0.56) talk(0.56) to(0.56) the(0.56) dishwasher(1.0) first(1.0) opened(0.12) at(0.07) this(0.18) water(0.15) for(0.41) pick(0.52) up(0.52) inside(1.0) and(0.28) don't(0.03) close(0.66) the(0.12) petro.(0.01) [0.19]
+Go(1.0) to(1.0) do(0.27) table(0.2) and(1.0) take(1.0) to(1.0) cream(1.0) cup(0.28) note(0.03) bring(0.56) to(0.56) talk(0.56) to(0.56) the(0.56) dishwasher(1.0) first(1.0) opened(0.12) at(0.07) this(0.18) water(0.15) for(0.41) pick(0.52) up(0.52) inside(1.0) and(0.28) don't(0.03) close(0.66) the(0.12) control.(0.02) [0.19]
+Go(1.0) to(1.0) do(0.27) table(0.2) and(1.0) take(1.0) to(1.0) cream(1.0) cup(0.28) note(0.03) bring(0.56) to(0.56) talk(0.56) to(0.56) the(0.56) dishwasher(1.0) first(1.0) all(0.02) this(0.05) water(0.15) for(0.41) pick(0.52) up(0.52) inside(1.0) and(0.28) don't(0.03) close(0.66) the(0.12) petro.(0.01) [0.17]
+Go(1.0) to(1.0) do(0.27) table(0.2) and(1.0) take(1.0) to(1.0) cream(1.0) cup(0.28) know(0.03) bring(0.56) to(0.56) talk(0.56) to(0.56) the(0.56) dishwasher(1.0) first(1.0) opened(0.12) at(0.07) this(0.18) water(0.15) for(0.41) pick(0.52) up(0.52) inside(1.0) and(0.28) don't(0.03) close(0.66) the(0.12) petro.(0.01) [0.17]
+Go(1.0) to(1.0) do(0.27) table(0.2) and(1.0) take(1.0) to(1.0) cream(1.0) cup(0.28) note(0.03) bring(0.56) to(0.56) talk(0.56) to(0.56) the(0.56) dishwasher(1.0) first(1.0) all(0.02) this(0.05) water(0.15) for(0.41) pick(0.52) up(0.52) inside(1.0) and(0.28) don't(0.03) close(0.66) the(0.12) control.(0.02) [0.17]
+Go(1.0) to(1.0) do(0.27) table(0.2) and(1.0) take(1.0) to(1.0) cream(1.0) cup.(0.28) No(0.03) bring(0.56) to(0.56) talk(0.56) to(0.56) the(0.56) dishwasher(1.0) first(1.0) opened(0.12) at(0.07) this(0.18) water(0.15) for(0.41) pick(0.52) up(0.52) inside(1.0) and(0.28) don't(0.03) close(0.66) the(0.12) petro.(0.01) [0.17]
+Go(1.0) to(1.0) do(0.27) table(0.2) and(1.0) take(1.0) to(1.0) cream(1.0) cup(0.28) know(0.03) bring(0.56) to(0.56) talk(0.56) to(0.56) the(0.56) dishwasher(1.0) first(1.0) opened(0.12) at(0.07) this(0.18) water(0.15) for(0.41) pick(0.52) up(0.52) inside(1.0) and(0.28) don't(0.03) close(0.66) the(0.12) control.(0.02) [0.17]
+Go(1.0) to(1.0) do(0.27) table(0.2) and(1.0) take(1.0) to(1.0) cream(1.0) cup(0.28) know(0.03) bring(0.56) to(0.56) talk(0.56) to(0.56) the(0.56) dishwasher(1.0) first(1.0) all(0.02) this(0.05) water(0.15) for(0.41) pick(0.52) up(0.52) inside(1.0) and(0.28) don't(0.03) close(0.66) the(0.12) petro.(0.01) [0.17]
+Go(1.0) to(1.0) do(0.27) table(0.2) and(1.0) take(1.0) to(1.0) cream(1.0) cup(0.28) note(0.03) bring(0.56) to(0.56) talk(0.56) to(0.56) the(0.56) dishwasher(1.0) first(1.0) opened(0.12) at(0.07) this(0.18) water(0.15) for(0.41) pick(0.52) up(0.52) inside(1.0) and(0.28) then(0.05) close(0.66) it(0.0) before.(0.0) [0.16]
+Go(1.0) to(1.0) do(0.27) table(0.2) and(1.0) take(1.0) to(1.0) cream(1.0) cup(0.28) note(0.03) bring(0.56) to(0.56) talk(0.56) to(0.56) the(0.56) dishwasher(1.0) first(1.0) opened(0.12) a(0.0) for(0.0) for(0.01) for(0.41) pick(0.52) up(0.52) inside(1.0) and(0.28) don't(0.03) close(0.66) the(0.12) petro.(0.01) [0.08]
+
+
+Output for file: P13S3.flac
+
+The(1.0) go(1.0) to(1.0) the(0.11) french(0.07) open(0.23) french(0.07) and(0.07) take(0.05) the(0.11) barnes(0.09) juice(0.09) bread(0.05) orange(0.1) juice(0.33) mean.(0.05) [0.11]
+The(1.0) go(1.0) to(1.0) french(0.05) open(0.01) french(0.07) and(0.07) take(0.05) the(0.11) barnes(0.09) juice(0.09) bread(0.05) orange(0.1) juice(0.33) mean.(0.05) [0.09]
+The(1.0) go(1.0) to(1.0) the(0.11) french(0.07) open(0.23) french(0.07) and(0.07) take(0.05) the(0.11) barnes(0.09) juice(0.09) bread(0.05) orange(0.1) juice(0.33) to(0.07) me.(0.0) [0.04]
+The(1.0) go(1.0) to(1.0) the(0.11) french(0.07) open(0.23) the(0.07) fridge(0.09) and(0.09) take(0.0) the(0.11) barnes(0.09) juice(0.09) bread(0.05) orange(0.1) juice(0.33) mean.(0.05) [0.04]
+The(1.0) go(1.0) to(1.0) french(0.05) open(0.01) french(0.07) and(0.07) take(0.05) the(0.11) barnes(0.09) juice(0.09) bread(0.05) orange(0.1) juice(0.33) to(0.07) me.(0.0) [0.03]
+The(1.0) go(1.0) to(1.0) french(0.05) open(0.01) the(0.07) fridge(0.09) and(0.09) take(0.0) the(0.11) barnes(0.09) juice(0.09) bread(0.05) orange(0.1) juice(0.33) mean.(0.05) [0.03]
+The(1.0) go(1.0) to(1.0) the(0.11) fridge(0.0) open(0.01) the(0.07) fridge(0.09) and(0.09) take(0.0) the(0.11) barnes(0.09) juice(0.09) bread(0.05) orange(0.1) juice(0.33) mean.(0.05) [0.02]
+The(1.0) go(1.0) to(1.0) the(0.11) french(0.07) open(0.23) to(0.0) fridge(0.09) and(0.09) take(0.0) the(0.11) barnes(0.09) juice(0.09) bread(0.05) orange(0.1) juice(0.33) mean.(0.05) [0.02]
+The(1.0) go(1.0) to(1.0) the(0.11) french(0.07) open(0.23) french(0.07) and(0.07) take(0.05) the(0.11) born(0.07) shoes(0.07) bring(0.1) the(0.0) orange(0.1) juice(0.33) mean.(0.05) [0.02]
+The(1.0) go(1.0) to(1.0) french(0.05) open(0.01) french(0.07) and(0.07) take(0.05) the(0.11) born(0.07) shoes(0.07) bring(0.1) the(0.0) orange(0.1) juice(0.33) mean.(0.05) [0.02]
+
+
+Output for file: P14S1.flac
+
+Hey(1.0) I'm(1.0) a(1.0) go(1.0) to(1.0) the(1.0) table(1.0) grab(0.17) the(0.5) popcorn(0.28) and(0.3) bridge(0.2) mean.(0.1) [0.3]
+Hey(1.0) I'm(1.0) a(1.0) go(1.0) to(1.0) the(1.0) table(1.0) script(0.01) the(0.5) popcorn(0.28) and(0.3) bridge(0.2) mean.(0.1) [0.21]
+Hey(1.0) I'm(1.0) a(1.0) go(1.0) to(1.0) the(1.0) table(1.0) grab(0.17) the(0.5) popcorn(0.28) and(0.3) bring(0.01) it(0.0) to(0.0) me.(0.0) [0.02]
+
+
+Output for file: P14S2.flac
+
+Hey(1.0) ...(0.31) go(1.0) to(1.0) the(1.0) table(1.0) grab(0.18) the(0.15) green(0.1) car(0.03) and(0.82) put(0.68) it(0.3) in(1.0) the(0.14) dishwasher.(0.14) [0.2]
+Hey(1.0) ...(0.31) go(1.0) to(1.0) the(1.0) table(1.0) grab(0.18) the(0.15) green(0.1) truck(0.0) and(0.82) put(0.68) it(0.3) in(1.0) the(0.14) dishwasher.(0.14) [0.17]
+Hey(1.0) ...(0.31) go(1.0) to(1.0) the(1.0) table(1.0) grab(0.18) the(0.15) drink(0.05) up(0.05) and(0.82) put(0.68) it(0.3) in(1.0) the(0.14) dishwasher.(0.14) [0.17]
+Hey(1.0) ...(0.31) go(1.0) to(1.0) the(1.0) table(1.0) grab(0.18) the(0.15) green(0.1) cup(0.0) and(0.82) put(0.68) it(0.3) in(1.0) the(0.14) dishwasher.(0.14) [0.17]
+Hey(1.0) ...(0.31) go(1.0) to(1.0) the(1.0) table(1.0) spread(0.01) to(0.01) drink(0.05) up(0.05) and(0.82) put(0.68) it(0.3) in(1.0) the(0.14) dishwasher.(0.14) [0.14]
+Hey(1.0) ...(0.31) go(1.0) to(1.0) the(1.0) table(1.0) grab(0.18) the(0.15) green(0.1) cock(0.0) and(0.82) put(0.68) it(0.3) in(1.0) the(0.14) dishwasher.(0.14) [0.14]
+Hey(1.0) ...(0.31) go(1.0) to(1.0) the(1.0) table(1.0) grab(0.18) the(0.15) green(0.1) car(0.03) and(0.82) put(0.68) it(0.3) in(1.0) a(0.02) dish(0.01) washer.(0.0) [0.05]
+Hey(1.0) umm(0.0) go(1.0) to(1.0) the(1.0) table(1.0) grab(0.18) the(0.15) green(0.1) car(0.03) and(0.82) put(0.68) it(0.3) in(1.0) the(0.14) dishwasher.(0.14) [0.05]
+Hey(1.0) ...(0.31) go(1.0) to(1.0) the(1.0) table(1.0) grab(0.18) a(0.0) drink(0.05) up(0.05) and(0.82) put(0.68) it(0.3) in(1.0) the(0.14) dishwasher.(0.14) [0.05]
+Hey(1.0) ...(0.31) go(1.0) to(1.0) the(1.0) table(1.0) grabbed(0.0) a(0.0) drink(0.05) up(0.05) and(0.82) put(0.68) it(0.3) in(1.0) the(0.14) dishwasher.(0.14) [0.05]
+
+
+Output for file: P14S3.flac
+
+Hey(1.0) I'm(0.28) a(0.28) go(0.28) to(0.28) the(0.34) fridge(0.1) open(1.0) the(0.2) fridge(0.28) take(1.0) the(1.0) orange(1.0) jewels(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(1.0) those(0.38) troops.(0.02) [0.26]
+Hey(1.0) I'm(0.28) a(0.28) go(0.28) to(0.28) the(0.34) fridge(0.1) open(1.0) the(0.2) fridge(0.28) take(1.0) the(1.0) orange(1.0) jewels(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(1.0) those(0.38) truth.(0.03) [0.26]
+Hey(1.0) I'm(0.28) a(0.28) go(0.28) to(0.28) the(0.34) fridge(0.1) open(1.0) the(0.2) fridge(0.28) take(1.0) the(1.0) orange(1.0) jewels(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(1.0) those(0.38) photos.(0.01) [0.24]
+Hey(1.0) I'm(0.28) a(0.28) go(0.28) to(0.28) the(0.34) fridge(0.1) open(1.0) to(0.01) fridge(0.28) take(1.0) the(1.0) orange(1.0) jewels(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(1.0) those(0.38) troops.(0.02) [0.2]
+Hey(1.0) I'm(0.28) a(0.28) go(0.28) to(0.28) the(0.34) french(0.05) open(1.0) the(0.2) fridge(0.28) take(1.0) the(1.0) orange(1.0) jewels(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(1.0) those(0.38) troops.(0.02) [0.2]
+Hey(1.0) I'm(0.28) a(0.28) go(0.28) to(0.28) the(0.34) fridge(0.1) open(1.0) the(0.2) french(0.0) take(1.0) the(1.0) orange(1.0) jewels(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(1.0) those(0.38) troops.(0.02) [0.18]
+Hey(1.0) I'm(0.28) a(0.28) go(0.28) to(0.28) the(0.34) fridge(0.1) open(1.0) the(0.2) fridge(0.28) take(1.0) the(1.0) orange(1.0) jewels(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(1.0) those(0.38) trophies.(0.0) [0.18]
+Hey(1.0) I'm(0.28) a(0.28) go(0.28) to(0.28) the(0.34) french(0.05) open(1.0) to(0.01) fridge(0.28) take(1.0) the(1.0) orange(1.0) jewels(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(1.0) those(0.38) troops.(0.02) [0.18]
+Hey(1.0) I'm(0.28) a(0.28) go(0.28) to(0.28) the(0.34) fridge(0.1) open(1.0) the(0.2) fridge(0.28) take(1.0) the(1.0) orange(1.0) jewels(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(1.0) those(0.38) trophy.(0.0) [0.18]
+Hey(1.0) I'm(0.28) a(0.28) go(0.28) to(0.28) the(0.34) fridge(0.1) open(1.0) to(0.01) fridge(0.28) take(1.0) the(1.0) orange(1.0) jewels(1.0) close(1.0) the(1.0) fridge(1.0) and(1.0) bring(1.0) those(0.38) truth.(0.03) [0.18]
+
+
+Output for file: P15S1.flac
+
+Go(1.0) to(1.0) the(1.0) table(1.0) and(0.3) grabbed(0.05) a(0.05) pop(0.1) corn(0.09) bread.(0.03) [0.12]
+Go(1.0) to(1.0) the(1.0) table(1.0) and(0.3) graph(0.02) the(0.1) popcorn(0.05) bag.(0.0) [0.1]
+Go(1.0) to(1.0) the(1.0) table(1.0) and(0.3) grabbed(0.05) a(0.05) pop(0.1) corn(0.09) bag.(0.03) [0.1]
+Go(1.0) to(1.0) the(1.0) table(1.0) and(0.3) graph(0.02) the(0.1) popcorn(0.05) bed.(0.0) [0.09]
+Go(1.0) to(1.0) the(1.0) table(1.0) and(0.3) graph(0.02) the(0.1) popcorn(0.05) bank.(0.0) [0.08]
+Go(1.0) to(1.0) the(1.0) table(1.0) and(0.3) grabbed(0.05) a(0.05) pop(0.1) corn.(0.09) [0.08]
+Go(1.0) to(1.0) the(1.0) table(1.0) and(0.3) graph(0.02) the(0.1) popcorn.(0.05) [0.08]
+Go(1.0) to(1.0) the(1.0) table(1.0) and(0.3) grip(0.01) the(0.1) popcorn(0.05) bag.(0.0) [0.08]
+Go(1.0) to(1.0) the(1.0) table(1.0) a(0.0) grip(0.01) the(0.1) popcorn(0.05) bag.(0.0) [0.07]
+Go(1.0) to(1.0) the(1.0) table(1.0) and(0.3) graph(0.02) the(0.1) pop(0.1) corn(0.09) bread.(0.03) [0.07]
+
+
+Output for file: P15S2-Version1.flac
+
+Go(1.0) to(1.0) the(1.0) table(1.0) grab(1.0) the(1.0) green(1.0) top(0.11) turn(0.07) and(1.0) go(1.0) to(1.0) the(1.0) dishwasher.(0.12) If(0.12) it(0.12) is(0.15) closed(0.11) please(0.34) of(0.18) let's(0.09) find(0.37) a(0.31) free(0.31) place(0.09) put(0.09) the(0.18) green(1.0) tap(0.23) into(0.4) it(1.0) and(1.0) does(0.38) the(0.12) dishwasher.(0.12) [0.21]
+Go(1.0) to(1.0) the(1.0) table(1.0) grab(1.0) the(1.0) green(1.0) top(0.11) turn(0.07) and(1.0) go(1.0) to(1.0) the(1.0) dishwasher.(0.12) If(0.12) it(0.12) is(0.15) closed(0.11) please(0.34) of(0.18) let's(0.09) find(0.37) a(0.31) free(0.31) play(0.05) for(0.01) the(0.18) green(1.0) cop(0.0) into(0.4) it(1.0) and(1.0) does(0.38) the(0.12) dishwasher.(0.12) [0.16]
+Go(1.0) to(1.0) the(1.0) table(1.0) grab(1.0) the(1.0) green(1.0) top(0.11) turn(0.07) and(1.0) go(1.0) to(1.0) the(1.0) dishwasher.(0.12) If(0.12) it(0.12) is(0.15) closed(0.11) please(0.34) of(0.18) let's(0.09) find(0.37) a(0.31) free(0.31) play(0.05) for(0.01) the(0.18) green(1.0) tap(0.23) into(0.4) it(1.0) and(1.0) does(0.38) the(0.12) dishwasher.(0.12) [0.16]
+Go(1.0) to(1.0) the(1.0) table(1.0) grab(1.0) the(1.0) green(1.0) top(0.11) turn(0.07) and(1.0) go(1.0) to(1.0) the(1.0) dishwasher.(0.12) If(0.12) it(0.12) is(0.15) closed(0.11) please(0.34) of(0.18) let's(0.09) find(0.37) a(0.31) free(0.31) place(0.09) to(0.0) put(0.09) the(0.18) green(1.0) tap(0.23) into(0.4) it(1.0) and(1.0) does(0.38) the(0.12) dishwasher.(0.12) [0.11]
+Go(1.0) to(1.0) the(1.0) table(1.0) grab(1.0) the(1.0) green(1.0) top(0.11) town(0.01) and(1.0) go(1.0) to(1.0) the(1.0) dishwasher.(0.12) If(0.12) it(0.12) is(0.15) closed(0.11) please(0.34) of(0.18) let's(0.09) find(0.37) a(0.31) free(0.31) place(0.09) put(0.09) the(0.18) green(1.0) tap(0.23) into(0.4) it(1.0) and(1.0) does(0.38) the(0.12) dishwasher.(0.12) [0.11]
+Go(1.0) to(1.0) the(1.0) table(1.0) grab(1.0) the(1.0) green(1.0) cop(0.02) turn(0.07) and(1.0) go(1.0) to(1.0) the(1.0) dishwasher.(0.12) If(0.12) it(0.12) is(0.15) closed(0.11) please(0.34) of(0.18) let's(0.09) find(0.37) a(0.31) free(0.31) place(0.09) put(0.09) the(0.18) green(1.0) tap(0.23) into(0.4) it(1.0) and(1.0) does(0.38) the(0.12) dishwasher.(0.12) [0.11]
+Go(1.0) to(1.0) the(1.0) table(1.0) grab(1.0) the(1.0) green(1.0) top(0.11) turn(0.07) and(1.0) go(1.0) to(1.0) the(1.0) dishwasher.(0.12) If(0.12) it(0.12) is(0.15) closed(0.11) please(0.34) over(0.0) that's(0.0) fine(0.0) replace(0.0) put(0.09) the(0.18) green(1.0) tap(0.23) into(0.4) it(1.0) and(1.0) does(0.38) the(0.12) dishwasher.(0.12) [0.07]
+Go(1.0) to(1.0) the(1.0) table(1.0) grab(1.0) the(1.0) green(1.0) top(0.11) tune(0.0) and(1.0) go(1.0) to(1.0) the(1.0) dishwasher.(0.12) If(0.12) it(0.12) is(0.15) closed(0.11) please(0.34) of(0.18) let's(0.09) find(0.37) a(0.31) free(0.31) place(0.09) put(0.09) the(0.18) green(1.0) tap(0.23) into(0.4) it(1.0) and(1.0) does(0.38) the(0.12) dishwasher.(0.12) [0.07]
+Go(1.0) to(1.0) the(1.0) table(1.0) grab(1.0) the(1.0) green(1.0) top(0.11) ten(0.0) and(1.0) go(1.0) to(1.0) the(1.0) dishwasher.(0.12) If(0.12) it(0.12) is(0.15) closed(0.11) please(0.34) of(0.18) let's(0.09) find(0.37) a(0.31) free(0.31) place(0.09) put(0.09) the(0.18) green(1.0) tap(0.23) into(0.4) it(1.0) and(1.0) does(0.38) the(0.12) dishwasher.(0.12) [0.07]
+Go(1.0) to(1.0) the(1.0) table(1.0) grab(1.0) the(1.0) green(1.0) top(0.11) turn(0.07) and(1.0) go(1.0) to(1.0) the(1.0) dishwasher.(0.12) If(0.12) it(0.12) is(0.15) closed(0.11) please(0.34) of(0.18) let's(0.09) find(0.37) a(0.31) free(0.31) play(0.05) put(0.09) the(0.18) green(1.0) tap(0.23) into(0.4) it(1.0) and(1.0) does(0.38) the(0.12) dishwasher.(0.12) [0.07]
+
+
+Output for file: P15S2-Version2.flac
+
+Go(1.0) to(1.0) disable(0.01) cryptic(0.02) cream(0.05) top(0.2) ten(0.15) and(0.14) go(0.27) to(1.0) the(0.21) dishwasher(0.21) open(0.37) it(0.37) if(1.0) it's(1.0) closed(1.0) for(1.0) the(0.15) day(0.15) and(1.0) put(1.0) the(0.15) green(0.15) copy(0.37) it.(0.3) [0.18]
+Go(1.0) to(1.0) the(0.14) table(0.14) cryptic(0.0) cream(0.05) top(0.2) ten(0.15) and(0.14) go(0.27) to(1.0) the(0.21) dishwasher(0.21) open(0.37) it(0.37) if(1.0) it's(1.0) closed(1.0) for(1.0) the(0.15) day(0.15) and(1.0) put(1.0) the(0.15) green(0.15) copy(0.37) it.(0.3) [0.09]
+Go(1.0) to(1.0) table(0.0) cryptic(0.02) cream(0.05) top(0.2) ten(0.15) and(0.14) go(0.27) to(1.0) the(0.21) dishwasher(0.21) open(0.37) it(0.37) if(1.0) it's(1.0) closed(1.0) for(1.0) the(0.15) day(0.15) and(1.0) put(1.0) the(0.15) green(0.15) copy(0.37) it.(0.3) [0.09]
+Go(1.0) to(1.0) disable(0.01) cryptic(0.02) cream(0.05) top(0.2) ten(0.15) and(0.14) go(0.27) to(1.0) the(0.21) dishwasher(0.21) open(0.37) it(0.37) if(1.0) it's(1.0) closed(1.0) for(1.0) three(0.02) days(0.02) and(1.0) put(1.0) the(0.15) green(0.15) copy(0.37) it.(0.3) [0.09]
+Go(1.0) to(1.0) the(0.14) table(0.14) cryptic(0.0) cream(0.05) top(0.2) ten(0.15) and(0.14) go(0.27) to(1.0) the(0.21) dishwasher(0.21) open(0.37) it(0.37) if(1.0) it's(1.0) closed(1.0) for(1.0) three(0.02) days(0.02) and(1.0) put(1.0) the(0.15) green(0.15) copy(0.37) it.(0.3) [0.08]
+Go(1.0) to(1.0) disable(0.01) cryptic(0.02) cream(0.05) top(0.2) ten(0.15) and(0.14) go(0.27) to(1.0) dishwasher(0.0) open(0.0) it(0.37) if(1.0) it's(1.0) closed(1.0) for(1.0) the(0.15) day(0.15) and(1.0) put(1.0) the(0.15) green(0.15) copy(0.37) it.(0.3) [0.08]
+Go(1.0) to(1.0) the(0.14) table(0.14) cryptic(0.0) cream(0.05) top(0.2) ten(0.15) and(0.14) go(0.27) to(1.0) dishwasher(0.0) open(0.0) it(0.37) if(1.0) it's(1.0) closed(1.0) for(1.0) the(0.15) day(0.15) and(1.0) put(1.0) the(0.15) green(0.15) copy(0.37) it.(0.3) [0.07]
+Go(1.0) to(1.0) table(0.0) cryptic(0.02) cream(0.05) top(0.2) ten(0.15) and(0.14) go(0.27) to(1.0) the(0.21) dishwasher(0.21) open(0.37) it(0.37) if(1.0) it's(1.0) closed(1.0) for(1.0) three(0.02) days(0.02) and(1.0) put(1.0) the(0.15) green(0.15) copy(0.37) it.(0.3) [0.07]
+Go(1.0) to(1.0) disable(0.01) cryptic(0.02) cream(0.05) top(0.2) ten(0.15) and(0.14) go(0.27) to(1.0) the(0.21) dishwasher(0.21) open(0.37) it(0.37) if(1.0) it's(1.0) closed(1.0) for(1.0) the(0.15) day(0.15) and(1.0) put(1.0) a(0.02) clean(0.02) copy(0.37) it.(0.3) [0.07]
+Go(1.0) to(1.0) table(0.0) cryptic(0.02) cream(0.05) top(0.2) ten(0.15) and(0.14) go(0.27) to(1.0) dishwasher(0.0) open(0.0) it(0.37) if(1.0) it's(1.0) closed(1.0) for(1.0) the(0.15) day(0.15) and(1.0) put(1.0) the(0.15) green(0.15) copy(0.37) it.(0.3) [0.07]
+
+
+Output for file: P15S3.flac
+
+Go(1.0) to(1.0) the(0.17) french(0.17) open(0.17) and(1.0) does(0.02) search(0.03) the(0.1) the(0.28) orange(0.36) juice(1.0) and(1.0) grab(0.18) it(0.18) close(0.15) it(0.18) out(1.0) of(1.0) to(1.0) french(0.27) toast(0.21) or.(0.27) [0.18]
+Go(1.0) to(1.0) the(0.17) french(0.17) open(0.17) and(1.0) closed(0.0) search(0.03) the(0.1) the(0.28) orange(0.36) juice(1.0) and(1.0) grab(0.18) it(0.18) close(0.15) it(0.18) out(1.0) of(1.0) to(1.0) french(0.27) toast(0.21) or.(0.27) [0.17]
+Go(1.0) to(1.0) the(0.17) french(0.17) open(0.17) and(1.0) if(0.02) it's(0.0) coast(0.05) search(0.0) the(0.1) the(0.28) orange(0.36) juice(1.0) and(1.0) grab(0.18) it(0.18) close(0.15) it(0.18) out(1.0) of(1.0) to(1.0) french(0.27) toast(0.21) or.(0.27) [0.04]
+Go(1.0) to(1.0) the(0.17) french(0.17) open(0.17) and(1.0) its(0.01) coast(0.05) search.(0.0) The(0.1) the(0.28) orange(0.36) juice(1.0) and(1.0) grab(0.18) it(0.18) close(0.15) it(0.18) out(1.0) of(1.0) to(1.0) french(0.27) toast(0.21) or.(0.27) [0.04]
+Go(1.0) to(1.0) the(0.17) french(0.17) open(0.17) and(1.0) it's(0.01) coast(0.05) search(0.0) the(0.1) the(0.28) orange(0.36) juice(1.0) and(1.0) grab(0.18) it(0.18) close(0.15) it(0.18) out(1.0) of(1.0) to(1.0) french(0.27) toast(0.21) or.(0.27) [0.04]
+Go(1.0) to(1.0) the(0.17) french(0.17) open(0.17) and(1.0) does(0.02) search(0.03) the(0.1) the(0.28) orange(0.36) juice(1.0) and(1.0) gravatt(0.01) couldn't(0.0) get(0.01) out(1.0) of(1.0) to(1.0) french(0.27) toast(0.21) or.(0.27) [0.04]
+Go(1.0) to(1.0) french(0.02) open(0.02) and(0.02) does(0.02) search(0.03) the(0.1) the(0.28) orange(0.36) juice(1.0) and(1.0) grab(0.18) it(0.18) close(0.15) it(0.18) out(1.0) of(1.0) to(1.0) french(0.27) toast(0.21) or.(0.27) [0.04]
+Go(1.0) to(1.0) the(0.17) french(0.17) open(0.17) and(1.0) it's(0.01) closed(0.0) search(0.03) the(0.1) the(0.28) orange(0.36) juice(1.0) and(1.0) grab(0.18) it(0.18) close(0.15) it(0.18) out(1.0) of(1.0) to(1.0) french(0.27) toast(0.21) or.(0.27) [0.04]
+Go(1.0) to(1.0) the(0.17) french(0.17) open(0.17) and(1.0) closed(0.0) search(0.03) the(0.1) the(0.28) orange(0.36) juice(1.0) and(1.0) gravatt(0.01) couldn't(0.0) get(0.01) out(1.0) of(1.0) to(1.0) french(0.27) toast(0.21) or.(0.27) [0.04]
+Go(1.0) to(1.0) the(0.17) french(0.17) open(0.17) and(1.0) if(0.02) it's(0.0) coast(0.05) search(0.0) the(0.1) the(0.28) orange(0.36) juice(1.0) and(1.0) gravatt(0.01) couldn't(0.0) get(0.01) out(1.0) of(1.0) to(1.0) french(0.27) toast(0.21) or.(0.27) [0.03]
+
+
+Output for file: P16S1.flac
+
+I'm(0.33) gonna(0.07) go(0.33) to(1.0) the(1.0) temple(0.07) of(0.07) come(0.36) back.(1.0) [0.18]
+I'm(0.33) a(0.07) go(0.33) to(1.0) the(1.0) temple(0.07) of(0.07) come(0.36) back.(1.0) [0.18]
+I'm(0.33) gonna(0.07) go(0.33) to(1.0) the(1.0) table(0.07) and(0.07) come(0.36) back.(1.0) [0.17]
+I'ma(0.0) go(0.0) to(0.0) the(1.0) temple(0.07) of(0.07) come(0.36) back.(1.0) [0.04]
+I'm(0.33) a(0.07) go(0.33) to(1.0) the(1.0) table(0.07) and(0.07) come(0.36) back.(1.0) [0.04]
+I'ma(0.0) go(0.0) to(0.0) the(1.0) table(0.07) and(0.07) come(0.36) back.(1.0) [0.04]
+I'm(0.33) gonna(0.07) go(0.33) to(1.0) the(1.0) temple(0.07) and(0.07) come(0.36) back.(1.0) [0.04]
+I'm(0.33) gonna(0.07) go(0.33) to(1.0) the(1.0) table(0.07) come(0.0) back.(0.0) [0.04]
+
+
+Output for file: P16S2.flac
+
+Comma(1.0) go(1.0) to(1.0) take(0.1) take(0.07) a(0.03) teen(0.01) cock(0.03) put(0.43) into(0.31) the(0.15) day(0.09) spa(0.09) song(0.05) tilted(0.41) awesome.(0.15) [0.11]
+Comma(1.0) go(1.0) to(1.0) take(0.1) tickets(0.0) in(0.0) cops(0.0) put(0.43) into(0.31) the(0.15) day(0.09) spa(0.09) song(0.05) tilted(0.41) awesome.(0.15) [0.07]
+Comma(1.0) go(1.0) to(1.0) the(0.05) table(0.05) take(0.05) it(0.0) in(0.01) cops(0.07) put(0.43) into(0.31) the(0.15) day(0.09) spa(0.09) song(0.05) tilted(0.41) awesome.(0.15) [0.04]
+Comma(1.0) go(1.0) to(1.0) take(0.1) take(0.07) a(0.03) teen(0.01) cock(0.03) put(0.43) into(0.31) this(0.0) pasta(0.03) tilted(0.41) awesome.(0.15) [0.04]
+Comma(1.0) go(1.0) to(1.0) take(0.1) take(0.07) to(0.0) clean(0.0) cops(0.0) put(0.43) into(0.31) the(0.15) day(0.09) spa(0.09) song(0.05) tilted(0.41) awesome.(0.15) [0.03]
+Comma(1.0) go(1.0) to(1.0) take(0.1) take(0.07) a(0.03) teen(0.01) cock(0.03) put(0.43) into(0.31) that(0.0) this(0.0) pasta(0.03) tilted(0.41) awesome.(0.15) [0.03]
+Comma(1.0) go(1.0) to(1.0) take(0.1) take(0.07) it(0.0) in(0.01) cops(0.07) put(0.43) into(0.31) the(0.15) day(0.09) spa(0.09) song(0.05) tilted(0.41) awesome.(0.15) [0.03]
+Comma(1.0) go(1.0) to(1.0) take(0.1) tickets(0.0) in(0.0) cops(0.0) put(0.43) into(0.31) this(0.0) pasta(0.03) tilted(0.41) awesome.(0.15) [0.03]
+Comma(1.0) go(1.0) to(1.0) take(0.1) take(0.07) a(0.03) teen(0.01) cock(0.03) put(0.43) into(0.31) the(0.15) disposla(0.0) tilted(0.0) awesome.(0.15) [0.03]
+Comma(1.0) go(1.0) to(1.0) take(0.1) take(0.07) a(0.03) teen(0.01) cops(0.07) put(0.43) into(0.31) the(0.15) day(0.09) spa(0.09) song(0.05) tilted(0.41) awesome.(0.15) [0.03]
+
+
+Output for file: P16S3.flac
+
+I'm(0.2) on(0.07) go(1.0) to(1.0) fix(0.01) ...(0.01) take(0.01) the(0.09) orange(0.27) suit(0.05) from(1.0) it(1.0) and(1.0) give(0.14) it(0.15) to(1.0) me.(1.0) [0.11]
+I'm(0.2) on(0.07) go(1.0) to(1.0) the(0.2) fixed(0.11) ...(0.18) take(0.0) the(0.09) orange(0.27) suit(0.05) from(1.0) it(1.0) and(1.0) give(0.14) it(0.15) to(1.0) me.(1.0) [0.06]
+I(0.01) might(0.0) go(1.0) to(1.0) the(0.2) fixed(0.11) ...(0.18) take(0.0) the(0.09) orange(0.27) suit(0.05) from(1.0) it(1.0) and(1.0) give(0.14) it(0.15) to(1.0) me.(1.0) [0.05]
+I'm(0.2) on(0.07) go(1.0) to(1.0) fix(0.01) ...(0.01) take(0.01) the(0.09) orange(0.27) suit(0.05) from(1.0) it(1.0) and(1.0) given(0.0) to(1.0) me.(1.0) [0.05]
+I'm(0.2) on(0.07) go(1.0) to(1.0) fix(0.01) ...(0.01) take(0.01) the(0.09) orange(0.27) juice(0.07) from(1.0) it(1.0) and(1.0) give(0.14) it(0.15) to(1.0) me.(1.0) [0.05]
+I'm(0.2) on(0.07) go(1.0) to(1.0) the(0.2) fixed(0.11) ...(0.18) take(0.0) the(0.09) orange(0.27) suit(0.05) from(1.0) it(1.0) and(1.0) given(0.0) to(1.0) me.(1.0) [0.05]
+I'm(0.2) on(0.07) go(1.0) to(1.0) the(0.2) fruits(0.0) ...(0.18) take(0.0) the(0.09) orange(0.27) suit(0.05) from(1.0) it(1.0) and(1.0) give(0.14) it(0.15) to(1.0) me.(1.0) [0.05]
+I'm(0.2) on(0.07) go(1.0) to(1.0) the(0.2) fixed(0.11) ...(0.18) take(0.0) the(0.09) orange(0.27) juice(0.07) from(1.0) it(1.0) and(1.0) give(0.14) it(0.15) to(1.0) me.(1.0) [0.05]
+I(0.01) might(0.0) go(1.0) to(1.0) the(0.2) fixed(0.11) ...(0.18) take(0.0) the(0.09) orange(0.27) suit(0.05) from(1.0) it(1.0) and(1.0) given(0.0) to(1.0) me.(1.0) [0.04]
+I(0.01) might(0.0) go(1.0) to(1.0) the(0.2) fruits(0.0) ...(0.18) take(0.0) the(0.09) orange(0.27) suit(0.05) from(1.0) it(1.0) and(1.0) give(0.14) it(0.15) to(1.0) me.(1.0) [0.04]
+
+
+Output for file: P17S1.flac
+
+Comma(1.0) would(1.0) you(1.0) please(1.0) pass(0.25) new(0.03) the(0.63) popcorn.(0.15) [0.2]
+Comma(1.0) would(1.0) you(1.0) please(1.0) pass(0.25) me(0.07) the(0.63) popcorn.(0.15) [0.2]
+Comma(1.0) would(1.0) you(1.0) please(1.0) pass(0.25) near(0.0) the(0.63) popcorn.(0.15) [0.15]
+Comma(1.0) would(1.0) you(1.0) please(1.0) text(0.0) me(0.07) the(0.63) popcorn.(0.15) [0.12]
+Comma(1.0) would(1.0) you(1.0) please(1.0) pass(0.25) new(0.03) the(0.63) pop(0.02) corn.(0.0) [0.02]
+Comma(1.0) would(1.0) you(1.0) please(1.0) fax(0.0) me(0.07) the(0.63) popcorn.(0.15) [0.02]
+Comma(1.0) would(1.0) you(1.0) please(1.0) pass(0.25) me(0.07) the(0.63) pop(0.02) corn.(0.0) [0.02]
+Comma(1.0) would(1.0) you(1.0) please(1.0) give(0.0) the(0.0) popcorn.(0.15) [0.02]
+
+
+Output for file: P17S2.flac
+
+...(1.0) could(1.0) you(1.0) please(1.0) clean(1.0) up(1.0) the(1.0) table(1.0) and(1.0) put(1.0) the(1.0) green(0.87) copy(0.14) on(0.14) the(1.0) dishwasher.(0.25) [0.35]
+...(1.0) could(1.0) you(1.0) please(1.0) clean(1.0) up(1.0) the(1.0) table(1.0) and(1.0) put(1.0) the(1.0) green(0.87) cap(0.03) in(0.03) the(1.0) dishwasher.(0.25) [0.23]
+...(1.0) could(1.0) you(1.0) please(1.0) clean(1.0) up(1.0) the(1.0) table(1.0) and(1.0) put(1.0) the(1.0) green(0.87) copy(0.14) on(0.14) the(1.0) dish(0.0) washer.(0.0) [0.06]
+
+
+Output for file: P17S3.flac
+
+Ok(0.05) so(0.09) you're(0.18) interested(0.2) stored(0.09) in(0.23) the(0.2) fridge.(0.2) [0.13]
+Okay(0.0) so(0.09) you're(0.18) interested(0.2) stored(0.09) in(0.23) the(0.2) fridge.(0.2) [0.1]
+Walgreens(0.05) in(0.05) you're(0.18) interested(0.2) stored(0.09) in(0.23) the(0.2) fridge.(0.2) [0.1]
+Call(0.0) tiffany(0.0) jones(0.0) this(0.0) is(0.0) stored(0.09) in(0.23) the(0.2) fridge.(0.2) [0.01]
+Ok(0.05) so(0.09) you're(0.18) interested.(0.2) So(0.01) in(0.23) french.(0.0) [0.01]
+Walgreens(0.05) in(0.05) your(0.0) interests(0.0) is(0.0) stored(0.09) in(0.23) the(0.2) fridge.(0.2) [0.01]
+Walgreens(0.05) in(0.05) your(0.0) interested(0.2) stored(0.09) in(0.23) the(0.2) fridge.(0.2) [0.01]
+Ok(0.05) so(0.09) you're(0.18) interested(0.2) store(0.0) in(0.23) the(0.2) fridge.(0.2) [0.01]
+Ok(0.05) so(0.09) you're(0.18) interested(0.2) sword(0.0) in(0.23) french.(0.0) [0.01]
+Okay(0.0) so(0.09) you're(0.18) interested.(0.2) So(0.01) in(0.23) french.(0.0) [0.01]
+
+
+Output for file: P18S1.flac
+
+Go(1.0) to(1.0) the(0.31) table(0.31) take(0.31) to(1.0) pop(1.0) on(0.25) give(1.0) it(1.0) to(1.0) me.(1.0) [0.42]
+Go(1.0) to(1.0) the(0.31) table(0.31) take(0.31) to(1.0) pop(1.0) corn(0.0) give(1.0) it(1.0) to(1.0) me.(1.0) [0.2]
+Go(1.0) to(1.0) detain(0.0) take(0.0) to(0.0) pop(1.0) on(0.25) give(1.0) it(1.0) to(1.0) me.(1.0) [0.07]
+Go(1.0) to(1.0) take(0.0) take(0.0) to(0.0) pop(1.0) on(0.25) give(1.0) it(1.0) to(1.0) me.(1.0) [0.06]
+
+
+Output for file: P18S2.flac
+
+Hello(1.0) I'm(0.23) a(0.46) quick(0.21) to(0.31) go(1.0) to(1.0) the(1.0) table(1.0) and(0.15) take(0.28) to(0.31) queen(0.12) cop(0.14) piece(0.11) put(0.47) it(0.47) in(1.0) the(1.0) dishwasher(1.0) and(0.18) close(0.17) it.(1.0) [0.27]
+Hello(1.0) I'm(0.23) a(0.46) quick(0.21) to(0.31) go(1.0) to(1.0) the(1.0) table(1.0) and(0.15) take(0.28) to(0.31) clean(0.03) cop(0.14) piece(0.11) put(0.47) it(0.47) in(1.0) the(1.0) dishwasher(1.0) and(0.18) close(0.17) it.(1.0) [0.24]
+Hello(1.0) I'm(0.23) a(0.46) quick(0.21) to(0.31) go(1.0) to(1.0) the(1.0) table(1.0) and(0.15) take(0.28) to(0.31) clean(0.03) cup(0.02) peas(0.0) put(0.47) it(0.47) in(1.0) the(1.0) dishwasher(1.0) and(0.18) close(0.17) it.(1.0) [0.17]
+Hello(1.0) I'm(0.23) a(0.46) quick(0.21) to(0.31) go(1.0) to(1.0) the(1.0) table(1.0) and(0.15) take(0.28) to(0.31) queen(0.12) cop(0.14) peace(0.01) put(0.47) it(0.47) in(1.0) the(1.0) dishwasher(1.0) and(0.18) close(0.17) it.(1.0) [0.17]
+Hello(1.0) ahm(0.0) a(0.46) quick(0.21) to(0.31) go(1.0) to(1.0) the(1.0) table(1.0) and(0.15) take(0.28) to(0.31) queen(0.12) cop(0.14) piece(0.11) put(0.47) it(0.47) in(1.0) the(1.0) dishwasher(1.0) and(0.18) close(0.17) it.(1.0) [0.17]
+Hello(1.0) ahm(0.0) ...(0.0) Could(0.0) you(0.0) go(1.0) to(1.0) the(1.0) table(1.0) and(0.15) take(0.28) to(0.31) queen(0.12) cop(0.14) piece(0.11) put(0.47) it(0.47) in(1.0) the(1.0) dishwasher(1.0) and(0.18) close(0.17) it.(1.0) [0.09]
+Hello(1.0) I'm(0.23) a(0.46) quick(0.21) to(0.31) go(1.0) to(1.0) the(1.0) table(1.0) and(0.15) take(0.28) to(0.31) clean(0.03) cup(0.02) peace(0.01) put(0.47) it(0.47) in(1.0) the(1.0) dishwasher(1.0) and(0.18) close(0.17) it.(1.0) [0.09]
+Hello(1.0) I'm(0.23) a(0.46) quick(0.21) to(0.31) go(1.0) to(1.0) the(1.0) table(1.0) and(0.15) take(0.28) to(0.31) queen(0.12) cop(0.14) piece(0.11) put(0.47) it(0.47) in(1.0) the(1.0) dishwasher(1.0) out(0.0) and(0.18) close(0.17) it.(1.0) [0.09]
+Hello(1.0) I'm(0.23) a(0.46) quick(0.21) to(0.31) go(1.0) to(1.0) the(1.0) table(1.0) in(0.0) take(0.28) to(0.31) queen(0.12) cop(0.14) piece(0.11) put(0.47) it(0.47) in(1.0) the(1.0) dishwasher(1.0) and(0.18) close(0.17) it.(1.0) [0.09]
+Hello(1.0) I'm(0.23) a(0.46) quick(0.21) to(0.31) go(1.0) to(1.0) the(1.0) table(1.0) and(0.15) take(0.28) to(0.31) clean(0.03) cop(0.14) peace(0.01) put(0.47) it(0.47) in(1.0) the(1.0) dishwasher(1.0) and(0.18) close(0.17) it.(1.0) [0.09]
+
+
+Output for file: P18S3.flac
+
+Comma(0.37) go(0.37) to(0.37) the(0.2) french(0.0) open(0.01) the(0.2) door.(0.05) I'll(0.09) take(0.09) a(0.28) punch(0.02) jones(0.05) close(1.0) to(0.14) go(0.12) out(0.11) and(1.0) take(1.0) it(0.63) to(1.0) me.(1.0) [0.11]
+Comma(0.37) go(0.37) to(0.37) french(0.0) open(0.0) the(0.0) door.(0.05) I'll(0.09) take(0.09) a(0.28) punch(0.02) jones(0.05) close(1.0) to(0.14) go(0.12) out(0.11) and(1.0) take(1.0) it(0.63) to(1.0) me.(1.0) [0.08]
+Comma(0.37) go(0.37) to(0.37) the(0.2) fridge(0.14) all(0.12) the(0.2) block(0.02) take(0.07) a(0.03) punch(0.02) jones(0.05) close(1.0) to(0.14) go(0.12) out(0.11) and(1.0) take(1.0) it(0.63) to(1.0) me.(1.0) [0.08]
+Comma(0.37) go(0.37) to(0.37) the(0.2) fridge(0.14) open(0.01) the(0.2) door.(0.05) I'll(0.09) take(0.09) a(0.28) punch(0.02) jones(0.05) close(1.0) to(0.14) go(0.12) out(0.11) and(1.0) take(1.0) it(0.63) to(1.0) me.(1.0) [0.08]
+Comma(0.37) go(0.37) to(0.37) the(0.2) fridge(0.14) all(0.12) that(0.01) well(0.0) take(0.07) a(0.03) punch(0.02) jones(0.05) close(1.0) to(0.14) go(0.12) out(0.11) and(1.0) take(1.0) it(0.63) to(1.0) me.(1.0) [0.08]
+Comma(0.37) go(0.37) to(0.37) the(0.2) french(0.0) open(0.01) the(0.2) door.(0.05) I'll(0.09) take(0.09) a(0.28) punch(0.02) jones(0.05) close(1.0) the(0.03) door(0.0) and(1.0) take(1.0) it(0.63) to(1.0) me.(1.0) [0.08]
+Comma(0.37) go(0.37) to(0.37) french(0.0) open(0.0) the(0.0) door.(0.05) I'll(0.09) take(0.09) a(0.28) punch(0.02) jones(0.05) close(1.0) the(0.03) door(0.0) and(1.0) take(1.0) it(0.63) to(1.0) me.(1.0) [0.07]
+Comma(0.37) go(0.37) to(0.37) the(0.2) fridge(0.14) all(0.12) the(0.2) block(0.02) take(0.07) a(0.03) punch(0.02) jones(0.05) close(1.0) the(0.03) door(0.0) and(1.0) take(1.0) it(0.63) to(1.0) me.(1.0) [0.07]
+Comma(0.37) go(0.37) to(0.37) the(0.2) fridge(0.14) all(0.12) that(0.01) will(0.0) take(0.07) a(0.03) punch(0.02) jones(0.05) close(1.0) to(0.14) go(0.12) out(0.11) and(1.0) take(1.0) it(0.63) to(1.0) me.(1.0) [0.07]
+Comma(0.37) go(0.37) to(0.37) the(0.2) french(0.0) open(0.01) the(0.2) door.(0.05) I'll(0.09) take(0.09) a(0.28) orange(0.11) julius(0.05) close(1.0) to(0.14) go(0.12) out(0.11) and(1.0) take(1.0) it(0.63) to(1.0) me.(1.0) [0.07]
+
+
+Output for file: P19s1.flac
+
+Kidney(0.01) the(0.05) popcorn(0.01) is(0.1) an(0.18) infraction(0.09) tampa.(0.23) [0.06]
+Disney(0.01) the(0.05) popcorn(0.01) is(0.1) an(0.18) infraction(0.09) tampa.(0.23) [0.06]
+Can(0.05) you(0.05) give(0.0) me(0.0) the(0.0) popcorn(0.01) is(0.1) an(0.18) infraction(0.09) tampa.(0.23) [0.0]
+Who(0.0) is(0.0) disney(0.01) the(0.05) popcorn(0.01) is(0.1) an(0.18) infraction(0.09) tampa.(0.23) [0.0]
+Can(0.05) you(0.05) get(0.0) me(0.0) the(0.0) popcorn(0.01) is(0.1) an(0.18) infraction(0.09) tampa.(0.23) [0.0]
+Kidney(0.01) the(0.05) popcorn(0.01) is(0.1) am(0.0) in(0.0) front(0.0) of(0.0) him(0.0) tampa.(0.23) [0.0]
+Disney(0.01) the(0.05) popcorn(0.01) is(0.1) am(0.0) in(0.0) front(0.0) of(0.0) him(0.0) tampa.(0.23) [0.0]
+Can(0.05) you(0.05) please(0.0) give(0.0) me(0.0) the(0.0) popcorn(0.01) is(0.1) an(0.18) infraction(0.09) tampa.(0.23) [0.0]
+Can(0.05) you(0.05) give(0.0) me(0.0) the(0.0) popcorn(0.01) is(0.1) am(0.0) in(0.0) front(0.0) of(0.0) him(0.0) tampa.(0.23) [0.0]
+Who(0.0) is(0.0) disney(0.01) the(0.05) popcorn(0.01) is(0.1) am(0.0) in(0.0) front(0.0) of(0.0) him(0.0) tampa.(0.23) [0.0]
+
+
+Output for file: P19S2.flac
+
+Can(1.0) you(1.0) please(0.31) take(0.31) to(1.0) recover(1.0) from(1.0) the(1.0) tenth(1.0) president(0.18) of(0.18) discussion.(0.15) [0.31]
+Can(1.0) you(1.0) please(0.31) take(0.31) to(1.0) recover(1.0) from(1.0) the(1.0) tenth(1.0) president(0.18) of(0.18) dissolution.(0.01) [0.21]
+Can(1.0) you(1.0) please(0.31) take(0.31) to(1.0) recover(1.0) from(1.0) the(1.0) tenth(1.0) president(0.0) discussion.(0.15) [0.14]
+Can(1.0) you(1.0) take(0.0) to(0.0) recover(1.0) from(1.0) the(1.0) tenth(1.0) president(0.18) of(0.18) discussion.(0.15) [0.1]
+Can(1.0) you(1.0) please(0.31) take(0.31) to(1.0) recover(1.0) from(1.0) the(1.0) tenth(1.0) president(0.18) of(0.18) destruction.(0.0) [0.1]
+Can(1.0) you(1.0) please(0.31) take(0.31) to(1.0) recover(1.0) from(1.0) the(1.0) tenth(1.0) president(0.18) of(0.18) disruption.(0.0) [0.1]
+
+
+Output for file: P19S3.flac
+
+Please(0.27) send(0.27) me(0.27) that(0.1) orange(0.1) juice(0.15) from(1.0) a(0.02) french.(0.18) [0.14]
+Please(0.27) send(0.27) me(0.27) that(0.1) orange(0.1) juice(0.15) from(1.0) the(0.12) french.(0.18) [0.14]
+Please(0.27) send(0.27) me(0.27) that(0.1) orange(0.1) juice(0.15) from(1.0) the(0.12) fridge.(0.01) [0.13]
+Can(0.0) you(0.0) send(0.27) me(0.27) that(0.1) orange(0.1) juice(0.15) from(1.0) a(0.02) french.(0.18) [0.02]
+Can(0.0) you(0.0) send(0.27) me(0.27) that(0.1) orange(0.1) juice(0.15) from(1.0) the(0.12) french.(0.18) [0.02]
+Please(0.27) send(0.27) me(0.27) in(0.0) that(0.1) orange(0.1) juice(0.15) from(1.0) a(0.02) french.(0.18) [0.02]
+Please(0.27) send(0.27) me(0.27) in(0.0) that(0.1) orange(0.1) juice(0.15) from(1.0) the(0.12) french.(0.18) [0.02]
+Please(0.27) send(0.27) me(0.27) is(0.0) that(0.1) orange(0.1) juice(0.15) from(1.0) a(0.02) french.(0.18) [0.02]
+Please(0.27) send(0.27) me(0.27) is(0.0) that(0.1) orange(0.1) juice(0.15) from(1.0) the(0.12) french.(0.18) [0.02]
+Please(0.27) send(0.27) me(0.27) and(0.0) that(0.1) orange(0.1) juice(0.15) from(1.0) a(0.02) french.(0.18) [0.02]
+
+
+Output for file: P20S1.flac
+
+Hey(0.16) I'm(0.16) I'm(0.16) going(0.16) get(0.16) the(0.16) popcorn(0.16) back(0.16) for(0.16) me(0.16) please.(0.16) [0.14]
+Hey(0.11) I'm(0.11) I'm(0.11) going(0.11) get(0.11) the(0.11) popcorn(0.11) text(0.11) me(0.11) please.(0.11) [0.09]
+Hey(1.0) am(0.02) I(0.02) going(0.15) get(0.17) the(0.28) popcorn(0.2) back(0.11) for(0.07) me(0.18) please.(0.21) [0.09]
+Hey(1.0) am(0.02) I(0.02) going(0.15) get(0.17) the(0.28) popcorn(0.2) text(0.0) me(0.01) please.(0.21) [0.07]
+Hey(0.04) I'm(0.04) I'm(0.04) going(0.04) get(0.04) the(0.04) popcorn(0.04) back(0.04) from(0.04) case.(0.04) [0.07]
+Hey(0.16) I'm(0.16) I'm(0.16) going(0.16) get(0.16) the(0.16) popcorn(0.16) back(0.16) from(0.16) me(0.16) please.(0.16) [0.07]
+Hey(1.0) I'm(0.12) going(0.02) get(0.0) the(0.28) popcorn(0.2) back(0.11) for(0.07) me(0.18) please.(0.21) [0.07]
+Hey(1.0) I'm(0.12) going(0.02) get(0.0) the(0.28) popcorn(0.2) text(0.0) me(0.01) please.(0.21) [0.05]
+Hey(0.12) I'm(0.12) I'm(0.12) going(0.12) get(0.12) the(0.12) popcorn(0.12) back(0.12) from(0.12) please.(0.12) [0.05]
+Hey(1.0) am(0.02) I(0.02) going(0.15) get(0.17) the(0.28) popcorn(0.2) back(0.11) from(0.05) case.(0.0) [0.05]
+
+
+Output for file: P20S2.flac
+
+I'm(1.0) a(1.0) put(1.0) the(1.0) cream(0.68) come(0.05) into(0.27) the(0.4) dishwasher.(0.25) [0.24]
+I'm(1.0) a(1.0) put(1.0) the(1.0) cream(0.68) tap(0.01) into(0.27) the(0.4) dishwasher.(0.25) [0.19]
+I'm(1.0) a(1.0) put(1.0) the(1.0) cream(0.68) pop(0.0) into(0.27) the(0.4) dishwasher.(0.25) [0.17]
+I'm(1.0) a(1.0) put(1.0) the(1.0) cream(0.68) called(0.01) into(0.27) the(0.4) dishwasher.(0.25) [0.17]
+I'm(1.0) a(1.0) put(1.0) the(1.0) cream(0.68) topping(0.0) to(0.0) the(0.4) dishwasher.(0.25) [0.08]
+I'm(1.0) a(1.0) put(1.0) the(1.0) cream(0.68) type(0.0) into(0.27) the(0.4) dishwasher.(0.25) [0.08]
+I'm(1.0) a(1.0) put(1.0) the(1.0) cream(0.68) talk(0.0) into(0.27) the(0.4) dishwasher.(0.25) [0.08]
+I'm(1.0) a(1.0) put(1.0) the(1.0) cream(0.68) come(0.05) into(0.27) the(0.4) dish(0.0) washer.(0.0) [0.03]
+
+
+Output for file: P20S3.flac
+
+I(1.0) wanna(1.0) go(1.0) to(1.0) the(1.0) church(0.02) and(0.25) get(1.0) me(1.0) orange(1.0) juice.(1.0) [0.24]
+I(1.0) wanna(1.0) go(1.0) to(1.0) the(1.0) fish(0.07) in(0.0) get(1.0) me(1.0) orange(1.0) juice.(1.0) [0.17]
+I(1.0) wanna(1.0) go(1.0) to(1.0) the(1.0) fridge(0.02) and(0.25) get(1.0) me(1.0) orange(1.0) juice.(1.0) [0.17]
+I(1.0) wanna(1.0) go(1.0) to(1.0) the(1.0) fish(0.07) and(0.25) get(1.0) me(1.0) orange(1.0) juice.(1.0) [0.17]
+
+
+Output for file: P21s1.flac
+
+Can(1.0) you(1.0) bring(1.0) the(0.1) popcorn(0.12) from(0.41) the(0.41) taylor.(0.1) [0.21]
+Can(1.0) you(1.0) bring(1.0) popcorn(0.0) from(0.0) the(0.41) taylor.(0.1) [0.08]
+Can(1.0) you(1.0) bring(1.0) the(0.1) popcorn(0.12) from(0.41) the(0.41) tailor.(0.05) [0.08]
+Can(1.0) you(1.0) bring(1.0) me(0.0) the(0.1) popcorn(0.12) from(0.41) the(0.41) taylor.(0.1) [0.03]
+Can(1.0) you(1.0) bring(1.0) popcorn(0.0) from(0.0) the(0.41) tailor.(0.05) [0.03]
+Can(1.0) you(1.0) bring(1.0) me(0.0) the(0.1) popcorn(0.12) from(0.41) the(0.41) tailor.(0.05) [0.03]
+Can(1.0) you(1.0) bring(1.0) me(0.0) the(0.1) pop(0.0) corn(0.0) from(0.0) the(0.41) taylor.(0.1) [0.0]
+
+
+Output for file: P21s2.flac
+
+Can(1.0) you(1.0) put(1.0) the(0.36) green(1.0) tub(0.1) in(1.0) to(0.43) read(0.43) this(1.0) russia.(1.0) [0.35]
+Can(1.0) you(1.0) put(1.0) a(0.0) green(1.0) tub(0.1) in(1.0) to(0.43) read(0.43) this(1.0) russia.(1.0) [0.15]
+Can(1.0) you(1.0) put(1.0) the(0.36) green(1.0) card(0.05) in(1.0) to(0.43) read(0.43) this(1.0) russia.(1.0) [0.15]
+Can(1.0) you(1.0) put(1.0) the(0.36) green(1.0) tub(0.1) in(1.0) twitter(0.0) this(0.0) russia.(1.0) [0.07]
+
+
+Output for file: P21s3.flac
+
+Can(1.0) you(1.0) bring(1.0) the(0.25) orange(0.25) juice(0.27) from(1.0) the(0.33) facts.(0.14) [0.29]
+Can(1.0) you(1.0) bring(1.0) the(0.25) orange(0.25) juice(0.27) from(1.0) the(0.33) fruit.(0.0) [0.17]
+Can(1.0) you(1.0) bring(1.0) the(0.25) orange(0.25) juice(0.27) from(1.0) effects.(0.0) [0.07]
+Can(1.0) you(1.0) bring(1.0) the(0.25) orange(0.25) juice(0.27) from(1.0) the(0.33) fate.(0.0) [0.07]
+Can(1.0) you(1.0) bring(1.0) me(0.0) the(0.25) orange(0.25) juice(0.27) from(1.0) the(0.33) facts.(0.14) [0.04]
+
+
+Output for file: P22S1.flac
+
+Hello(1.0) babe(0.43) I(0.21) need(0.21) some(0.21) popcorn.(0.1) Can(0.18) you(0.18) please(0.18) go(0.18) to(0.2) they(0.34) will(0.34) grab(1.0) the(0.18) book(1.0) on(1.0) bugs(0.37) turn(0.31) to(0.23) turn(1.0) to(0.38) me(0.38) and(1.0) then(1.0) come(1.0) back(1.0) and(0.18) the(0.05) man.(0.05) [0.22]
+Hello(1.0) babe(0.43) I(0.21) need(0.21) some(0.21) popcorn.(0.1) Can(0.18) you(0.18) please(0.18) go(0.18) to(0.2) they(0.34) will(0.34) grab(1.0) the(0.18) book(1.0) on(1.0) bugs(0.37) turn(0.31) to(0.23) turn(1.0) to(0.38) me(0.38) and(1.0) then(1.0) come(1.0) back(1.0) to(0.0) me.(0.0) [0.09]
+Hello(1.0) babe(0.43) I(0.21) need(0.21) some(0.21) popcorn.(0.1) Can(0.18) you(0.18) please(0.18) go(0.18) to(0.2) they(0.34) will(0.34) grab(1.0) the(0.18) book(1.0) on(1.0) bugs(0.37) turn(0.31) to(0.23) turn(1.0) to(0.38) me(0.38) and(1.0) then(1.0) come(1.0) back(1.0) and(0.18) finish.(0.0) [0.09]
+Hello(1.0) babe(0.43) I(0.21) need(0.21) some(0.21) popcorn.(0.1) Can(0.18) you(0.18) please(0.18) go(0.18) to(0.2) they(0.34) will(0.34) grab(1.0) the(0.18) book(1.0) on(1.0) bugs(0.37) turn(0.31) to(0.23) turn(1.0) to(0.38) me(0.38) and(1.0) then(1.0) come(1.0) back(1.0) and(0.18) visit.(0.0) [0.09]
+Hello(1.0) babe(0.43) I(0.21) need(0.21) some(0.21) popcorn.(0.1) Can(0.18) you(0.18) please(0.18) go(0.18) to(0.2) they(0.34) will(0.34) grab(1.0) that(0.01) book(1.0) on(1.0) bugs(0.37) turn(0.31) to(0.23) turn(1.0) to(0.38) me(0.38) and(1.0) then(1.0) come(1.0) back(1.0) and(0.18) the(0.05) man.(0.05) [0.09]
+Hello(1.0) babe(0.43) a(0.0) some(0.01) poker(0.0) and(0.01) could(0.0) you(0.18) please(0.18) go(0.18) to(0.2) they(0.34) will(0.34) grab(1.0) the(0.18) book(1.0) on(1.0) bugs(0.37) turn(0.31) to(0.23) turn(1.0) to(0.38) me(0.38) and(1.0) then(1.0) come(1.0) back(1.0) and(0.18) the(0.05) man.(0.05) [0.06]
+Hello(1.0) babe(0.43) I(0.21) need(0.21) some(0.21) popcorn.(0.1) Can(0.18) you(0.18) please(0.18) go(0.18) to(0.2) they(0.34) will(0.34) grab(1.0) that(0.01) book(1.0) on(1.0) bugs(0.37) turn(0.31) to(0.23) turn(1.0) to(0.38) me(0.38) and(1.0) then(1.0) come(1.0) back(1.0) to(0.0) me.(0.0) [0.06]
+Hello(1.0) babe(0.43) I(0.21) need(0.21) some(0.21) popcorn.(0.1) Can(0.18) you(0.18) please(0.18) go(0.18) to(0.2) they(0.34) will(0.34) grab(1.0) the(0.18) book(1.0) on(1.0) bugs(0.37) turn(0.31) to(0.23) turn(1.0) to(0.38) me(0.38) and(1.0) then(1.0) come(1.0) back(1.0) and(0.18) tune.(0.0) [0.06]
+Hello(1.0) babe(0.43) babe(0.0) some(0.01) poker(0.0) and(0.01) could(0.0) you(0.18) please(0.18) go(0.18) to(0.2) they(0.34) will(0.34) grab(1.0) the(0.18) book(1.0) on(1.0) bugs(0.37) turn(0.31) to(0.23) turn(1.0) to(0.38) me(0.38) and(1.0) then(1.0) come(1.0) back(1.0) and(0.18) the(0.05) man.(0.05) [0.06]
+Hello(1.0) babe(0.43) a(0.0) some(0.01) poker.(0.0) Can(0.18) you(0.18) please(0.18) go(0.18) to(0.2) they(0.34) will(0.34) grab(1.0) the(0.18) book(1.0) on(1.0) bugs(0.37) turn(0.31) to(0.23) turn(1.0) to(0.38) me(0.38) and(1.0) then(1.0) come(1.0) back(1.0) and(0.18) the(0.05) man.(0.05) [0.06]
+
+
+Output for file: P22S2-Version1.flac
+
+I'm(0.14) on(0.01) it(0.28) please(0.28) go(1.0) to(1.0) the(1.0) table(1.0) friends(0.15) a(0.23) green(1.0) cap.(1.0) The(0.43) litter(0.01) boxes(0.02) then(0.1) grab(0.12) it(0.17) go(0.18) to(1.0) the(0.46) dishwasher(0.46) and(1.0) put(1.0) their(0.1) cup(0.05) inside(0.18) and(0.23) then(0.34) a(1.0) closet(0.11) dishwasher(1.0) and(1.0) turn(1.0) it(0.34) on.(1.0) [0.17]
+I'm(0.14) on(0.01) it(0.28) please(0.28) go(1.0) to(1.0) the(1.0) table(1.0) friends(0.15) a(0.23) green(1.0) cap.(1.0) The(0.43) litter(0.01) boxes(0.02) then(0.1) grab(0.12) it(0.17) go(0.18) to(1.0) the(0.46) dishwasher(0.46) and(1.0) put(1.0) the(0.05) stuff(0.03) inside(0.18) and(0.23) then(0.34) a(1.0) closet(0.11) dishwasher(1.0) and(1.0) turn(1.0) it(0.34) on.(1.0) [0.17]
+I'm(0.14) a(0.07) it(0.28) please(0.28) go(1.0) to(1.0) the(1.0) table(1.0) friends(0.15) a(0.23) green(1.0) cap.(1.0) The(0.43) litter(0.01) boxes(0.02) then(0.1) grab(0.12) it(0.17) go(0.18) to(1.0) the(0.46) dishwasher(0.46) and(1.0) put(1.0) their(0.1) cup(0.05) inside(0.18) and(0.23) then(0.34) a(1.0) closet(0.11) dishwasher(1.0) and(1.0) turn(1.0) it(0.34) on.(1.0) [0.17]
+I'm(0.14) on(0.01) it(0.28) please(0.28) go(1.0) to(1.0) the(1.0) table(1.0) friends(0.15) a(0.23) green(1.0) cap.(1.0) The(0.43) the(0.02) new(0.0) boxes(0.02) then(0.1) grab(0.12) it(0.17) go(0.18) to(1.0) the(0.46) dishwasher(0.46) and(1.0) put(1.0) their(0.1) cup(0.05) inside(0.18) and(0.23) then(0.34) a(1.0) closet(0.11) dishwasher(1.0) and(1.0) turn(1.0) it(0.34) on.(1.0) [0.1]
+I'm(0.14) a(0.07) it(0.28) please(0.28) go(1.0) to(1.0) the(1.0) table(1.0) friends(0.15) a(0.23) green(1.0) cap.(1.0) The(0.43) litter(0.01) boxes(0.02) then(0.1) grab(0.12) it(0.17) go(0.18) to(1.0) the(0.46) dishwasher(0.46) and(1.0) put(1.0) the(0.05) stuff(0.03) inside(0.18) and(0.23) then(0.34) a(1.0) closet(0.11) dishwasher(1.0) and(1.0) turn(1.0) it(0.34) on.(1.0) [0.1]
+I(0.03) want(0.03) it(0.28) please(0.28) go(1.0) to(1.0) the(1.0) table(1.0) friends(0.15) a(0.23) green(1.0) cap.(1.0) The(0.43) litter(0.01) boxes(0.02) then(0.1) grab(0.12) it(0.17) go(0.18) to(1.0) the(0.46) dishwasher(0.46) and(1.0) put(1.0) their(0.1) cup(0.05) inside(0.18) and(0.23) then(0.34) a(1.0) closet(0.11) dishwasher(1.0) and(1.0) turn(1.0) it(0.34) on.(1.0) [0.1]
+I'm(0.14) on(0.01) it(0.28) please(0.28) go(1.0) to(1.0) the(1.0) table(1.0) friends(0.15) a(0.23) green(1.0) cap.(1.0) The(0.43) boombox(0.02) and(0.03) then(0.1) grab(0.12) it(0.17) go(0.18) to(1.0) the(0.46) dishwasher(0.46) and(1.0) put(1.0) their(0.1) cup(0.05) inside(0.18) and(0.23) then(0.34) a(1.0) closet(0.11) dishwasher(1.0) and(1.0) turn(1.0) it(0.34) on.(1.0) [0.1]
+I'm(0.14) on(0.01) it(0.28) please(0.28) go(1.0) to(1.0) the(1.0) table(1.0) friends(0.15) a(0.23) green(1.0) cap.(1.0) The(0.43) litter(0.01) boxes(0.02) then(0.1) grab(0.12) it(0.17) go(0.18) to(1.0) the(0.46) dishwasher(0.46) and(1.0) put(1.0) their(0.1) cup(0.05) in(0.0) size(0.0) and(0.23) then(0.34) a(1.0) closet(0.11) dishwasher(1.0) and(1.0) turn(1.0) it(0.34) on.(1.0) [0.09]
+I'm(0.14) on(0.01) it(0.28) please(0.28) go(1.0) to(1.0) the(1.0) table(1.0) friends(0.15) a(0.23) green(1.0) cap.(1.0) The(0.43) the(0.02) new(0.0) boxes(0.02) then(0.1) grab(0.12) it(0.17) go(0.18) to(1.0) the(0.46) dishwasher(0.46) and(1.0) put(1.0) the(0.05) stuff(0.03) inside(0.18) and(0.23) then(0.34) a(1.0) closet(0.11) dishwasher(1.0) and(1.0) turn(1.0) it(0.34) on.(1.0) [0.09]
+I'm(0.14) a(0.07) it(0.28) please(0.28) go(1.0) to(1.0) the(1.0) table(1.0) friends(0.15) a(0.23) green(1.0) cap.(1.0) The(0.43) the(0.02) new(0.0) boxes(0.02) then(0.1) grab(0.12) it(0.17) go(0.18) to(1.0) the(0.46) dishwasher(0.46) and(1.0) put(1.0) their(0.1) cup(0.05) inside(0.18) and(0.23) then(0.34) a(1.0) closet(0.11) dishwasher(1.0) and(1.0) turn(1.0) it(0.34) on.(1.0) [0.09]
+
+
+Output for file: P22S2-Version2.flac
+
+Hi(1.0) I'm(1.0) out(1.0) to(0.07) go(0.2) to(0.2) the(0.0) table(0.03) and(1.0) find(0.43) the(0.07) green(1.0) cap(0.31) switch(0.09) in(0.09) the(0.18) boxes(0.1) then(0.15) please(1.0) go(1.0) grab(1.0) grab(1.0) a(1.0) drink(1.0) and(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) it(1.0) inside(1.0) the(1.0) big(1.0) apple(0.3) book(0.14) did(0.12) are(0.11) within(0.05) upside(0.3) down(1.0) because(1.0) otherwise(0.02) it(0.0) will(0.07) be(0.05) great.(0.02) And(0.25) then(0.25) ...(0.25) close(0.34) the(0.15) dishwasher(0.12) and(1.0) turn(1.0) it(1.0) on.(1.0) [0.12]
+Hi(1.0) I'm(1.0) out(1.0) to(0.07) go(0.2) to(0.2) the(0.0) table(0.03) and(1.0) find(0.43) the(0.07) green(1.0) cap(0.31) switch(0.09) in(0.09) the(0.18) boxes(0.1) then(0.15) please(1.0) go(1.0) grab(1.0) grab(1.0) a(1.0) drink(1.0) and(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) it(1.0) inside(1.0) the(1.0) big(1.0) apple(0.3) book(0.14) did(0.12) are(0.11) within(0.05) upside(0.3) down(1.0) because(1.0) of(0.15) the(0.0) weather(0.0) will(0.07) be(0.05) great.(0.02) And(0.25) then(0.25) ...(0.25) close(0.34) the(0.15) dishwasher(0.12) and(1.0) turn(1.0) it(1.0) on.(1.0) [0.09]
+Hi(1.0) I'm(1.0) out(1.0) to(0.07) go(0.2) to(0.2) the(0.0) table(0.03) and(1.0) find(0.43) the(0.07) green(1.0) cap(0.31) switch(0.09) in(0.09) the(0.18) boxes(0.1) then(0.15) please(1.0) go(1.0) grab(1.0) grab(1.0) a(1.0) drink(1.0) and(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) it(1.0) inside(1.0) the(1.0) big(1.0) apple(0.3) book(0.14) did(0.12) are(0.11) within(0.05) upside(0.3) down(1.0) because(1.0) otherwise(0.02) it(0.0) will(0.07) be(0.05) clean.(0.02) And(0.25) then(0.25) ...(0.25) close(0.34) the(0.15) dishwasher(0.12) and(1.0) turn(1.0) it(1.0) on.(1.0) [0.09]
+Hi(1.0) I'm(1.0) out(1.0) to(0.07) go(0.2) to(0.2) the(0.0) table(0.03) and(1.0) find(0.43) the(0.07) green(1.0) cap(0.31) switch(0.09) in(0.09) the(0.18) boxes(0.1) then(0.15) please(1.0) go(1.0) grab(1.0) grab(1.0) a(1.0) drink(1.0) and(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) it(1.0) inside(1.0) the(1.0) big(1.0) apple(0.3) but(0.03) they(0.03) are(0.11) limited(0.01) upside(0.3) down(1.0) because(1.0) otherwise(0.02) it(0.0) will(0.07) be(0.05) great.(0.02) And(0.25) then(0.25) ...(0.25) close(0.34) the(0.15) dishwasher(0.12) and(1.0) turn(1.0) it(1.0) on.(1.0) [0.09]
+Hi(1.0) I'm(1.0) out(1.0) to(0.07) go(0.2) to(0.2) the(0.0) table(0.03) and(1.0) find(0.43) the(0.07) green(1.0) cap(0.31) switch(0.09) in(0.09) the(0.18) boxes(0.1) then(0.15) please(1.0) go(1.0) grab(1.0) grab(1.0) a(1.0) drink(1.0) and(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) it(1.0) inside(1.0) the(1.0) big(1.0) apple(0.3) but(0.03) they(0.03) are(0.11) limited(0.01) upside(0.3) down(1.0) because(1.0) of(0.15) the(0.0) weather(0.0) will(0.07) be(0.05) great.(0.02) And(0.25) then(0.25) ...(0.25) close(0.34) the(0.15) dishwasher(0.12) and(1.0) turn(1.0) it(1.0) on.(1.0) [0.08]
+Hi(1.0) I'm(1.0) out(1.0) to(0.07) go(0.2) to(0.2) the(0.0) table(0.03) and(1.0) find(0.43) the(0.07) green(1.0) cap(0.31) switch(0.09) in(0.09) the(0.18) boxes(0.1) then(0.15) please(1.0) go(1.0) grab(1.0) grab(1.0) a(1.0) drink(1.0) and(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) it(1.0) inside(1.0) the(1.0) big(1.0) apple(0.3) but(0.03) they(0.03) are(0.11) limited(0.01) upside(0.3) down(1.0) because(1.0) otherwise(0.02) it(0.0) will(0.07) be(0.05) clean.(0.02) And(0.25) then(0.25) ...(0.25) close(0.34) the(0.15) dishwasher(0.12) and(1.0) turn(1.0) it(1.0) on.(1.0) [0.08]
+Hi(1.0) I'm(1.0) out(1.0) to(0.07) go(0.2) to(0.2) the(0.0) table(0.03) and(1.0) find(0.43) a(0.07) green(1.0) cap(0.31) switch(0.09) in(0.09) the(0.18) boxes(0.1) then(0.15) please(1.0) go(1.0) grab(1.0) grab(1.0) a(1.0) drink(1.0) and(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) it(1.0) inside(1.0) the(1.0) big(1.0) apple(0.3) book(0.14) did(0.12) are(0.11) within(0.05) upside(0.3) down(1.0) because(1.0) otherwise(0.02) it(0.0) will(0.07) be(0.05) great.(0.02) And(0.25) then(0.25) ...(0.25) close(0.34) the(0.15) dishwasher(0.12) and(1.0) turn(1.0) it(1.0) on.(1.0) [0.08]
+Hi(1.0) I'm(1.0) out(1.0) to(0.07) go(0.2) to(0.2) the(0.0) table(0.03) and(1.0) find(0.43) a(0.07) green(1.0) cap(0.31) switch(0.09) in(0.09) the(0.18) boxes(0.1) then(0.15) please(1.0) go(1.0) grab(1.0) grab(1.0) a(1.0) drink(1.0) and(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) it(1.0) inside(1.0) the(1.0) big(1.0) apple(0.3) book(0.14) did(0.12) are(0.11) within(0.05) upside(0.3) down(1.0) because(1.0) of(0.15) the(0.0) weather(0.0) will(0.07) be(0.05) great.(0.02) And(0.25) then(0.25) ...(0.25) close(0.34) the(0.15) dishwasher(0.12) and(1.0) turn(1.0) it(1.0) on.(1.0) [0.08]
+Hi(1.0) I'm(1.0) out(1.0) to(0.07) go(0.2) to(0.2) the(0.0) table(0.03) and(1.0) find(0.43) a(0.07) green(1.0) cap.(0.31) It(0.01) within(0.02) the(0.18) boxes(0.1) then(0.15) please(1.0) go(1.0) grab(1.0) grab(1.0) a(1.0) drink(1.0) and(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) it(1.0) inside(1.0) the(1.0) big(1.0) apple(0.3) book(0.14) did(0.12) are(0.11) within(0.05) upside(0.3) down(1.0) because(1.0) otherwise(0.02) it(0.0) will(0.07) be(0.05) great.(0.02) And(0.25) then(0.25) ...(0.25) close(0.34) the(0.15) dishwasher(0.12) and(1.0) turn(1.0) it(1.0) on.(1.0) [0.08]
+Hi(1.0) I'm(1.0) out(1.0) babe(0.01) ruth(0.0) go(0.2) to(0.2) the(0.0) table(0.03) and(1.0) find(0.43) the(0.07) green(1.0) cap(0.31) switch(0.09) in(0.09) the(0.18) boxes(0.1) then(0.15) please(1.0) go(1.0) grab(1.0) grab(1.0) a(1.0) drink(1.0) and(1.0) then(1.0) go(1.0) to(1.0) the(1.0) dishwasher(1.0) and(1.0) put(1.0) it(1.0) inside(1.0) the(1.0) big(1.0) apple(0.3) book(0.14) did(0.12) are(0.11) within(0.05) upside(0.3) down(1.0) because(1.0) otherwise(0.02) it(0.0) will(0.07) be(0.05) great.(0.02) And(0.25) then(0.25) ...(0.25) close(0.34) the(0.15) dishwasher(0.12) and(1.0) turn(1.0) it(1.0) on.(1.0) [0.08]
+
+
+Output for file: P22S3.flac
+
+I'm(1.0) a(0.23) ...(1.0) thirty(0.18) please(1.0) go(1.0) to(1.0) the(1.0) french(0.37) open(0.81) in(0.09) the(0.46) and(0.23) it(0.01) got(0.05) for(1.0) there(0.1) arranged(0.1) is(0.03) it(0.11) should(0.15) be(0.25) in(0.3) front(0.3) of(0.3) you(0.3) then(0.23) drive(0.23) it(0.1) then(0.1) close(0.3) the(1.0) fridge(1.0) and(0.15) a(0.15) turnover(0.28) go(0.02) here(0.1) and(1.0) hand(0.09) it(0.1) to(1.0) me.(1.0) [0.16]
+I'm(1.0) a(0.23) ...(1.0) thirty(0.18) please(1.0) go(1.0) to(1.0) the(1.0) french(0.37) open(0.81) in(0.09) the(0.46) and(0.23) the(0.1) guy(0.03) for(1.0) the(0.03) orange(0.03) juice(0.0) into(0.0) been(0.0) from(0.0) a(0.0) rose(0.0) garden(0.0) lynn(0.0) close(0.0) the(0.0) fridge(1.0) and(0.15) a(0.15) turnover(0.28) go(0.02) here(0.1) and(1.0) hand(0.09) it(0.1) to(1.0) me.(1.0) [0.05]
+I'm(1.0) a(0.23) ...(1.0) thirty(0.18) please(1.0) go(1.0) to(1.0) the(1.0) french(0.37) open(0.81) in(0.09) the(0.46) am(0.0) the(0.1) guy(0.03) for(1.0) the(0.03) orange(0.03) juice(0.0) into(0.0) been(0.0) from(0.0) a(0.0) rose(0.0) garden(0.0) lynn(0.0) close(0.0) the(0.0) fridge(1.0) and(0.15) a(0.15) turnover(0.28) go(0.02) here(0.1) and(1.0) hand(0.09) it(0.1) to(1.0) me.(1.0) [0.04]
+I'm(1.0) a(0.23) ...(1.0) thirty(0.18) please(1.0) go(1.0) to(1.0) the(1.0) french(0.37) open(0.81) in(0.09) the(0.46) and(0.23) it(0.01) got(0.05) for(1.0) there(0.1) arranged(0.1) is(0.03) it(0.11) should(0.15) be(0.25) in(0.3) front(0.3) of(0.3) you(0.3) been(0.0) driving(0.0) then(0.1) close(0.3) the(1.0) fridge(1.0) and(0.15) a(0.15) turnover(0.28) go(0.02) here(0.1) and(1.0) hand(0.09) it(0.1) to(1.0) me.(1.0) [0.04]
+I'm(1.0) a(0.23) ...(1.0) thirty(0.18) please(1.0) go(1.0) to(1.0) the(1.0) french(0.37) open(0.81) in(0.09) the(0.46) and(0.23) it(0.01) got(0.05) for(1.0) there(0.1) arranged(0.1) is(0.03) it(0.11) should(0.15) be(0.25) in(0.3) front(0.3) of(0.3) you(0.3) then(0.23) drive(0.23) it(0.1) then(0.1) close(0.3) the(1.0) fridge(1.0) and(0.15) a(0.15) turnover(0.28) and(0.05) go(0.0) here(0.1) and(1.0) hand(0.09) it(0.1) to(1.0) me.(1.0) [0.04]
+I'm(1.0) a(0.23) ...(1.0) thirty(0.18) please(1.0) go(1.0) to(1.0) the(1.0) french(0.37) open(0.81) in(0.09) the(0.46) and(0.23) it(0.01) got(0.05) for(1.0) there(0.1) arranged(0.1) is(0.03) it(0.11) should(0.15) be(0.25) in(0.3) front(0.3) of(0.3) you(0.3) then(0.23) drive(0.23) it(0.1) that(0.03) close(0.3) the(1.0) fridge(1.0) and(0.15) a(0.15) turnover(0.28) go(0.02) here(0.1) and(1.0) hand(0.09) it(0.1) to(1.0) me.(1.0) [0.04]
+I'm(1.0) a(0.23) ...(1.0) thirty(0.18) please(1.0) go(1.0) to(1.0) the(1.0) french(0.37) open(0.81) and(0.03) the(0.46) and(0.23) it(0.01) got(0.05) for(1.0) there(0.1) arranged(0.1) is(0.03) it(0.11) should(0.15) be(0.25) in(0.3) front(0.3) of(0.3) you(0.3) then(0.23) drive(0.23) it(0.1) then(0.1) close(0.3) the(1.0) fridge(1.0) and(0.15) a(0.15) turnover(0.28) go(0.02) here(0.1) and(1.0) hand(0.09) it(0.1) to(1.0) me.(1.0) [0.04]
+I'm(1.0) a(0.23) ...(1.0) thirty(0.18) please(1.0) go(1.0) to(1.0) the(1.0) french(0.37) open(0.81) and(0.03) the(0.46) and(0.23) the(0.1) guy(0.03) for(1.0) the(0.03) orange(0.03) juice(0.0) into(0.0) been(0.0) from(0.0) a(0.0) rose(0.0) garden(0.0) lynn(0.0) close(0.0) the(0.0) fridge(1.0) and(0.15) a(0.15) turnover(0.28) go(0.02) here(0.1) and(1.0) hand(0.09) it(0.1) to(1.0) me.(1.0) [0.04]
+I'm(1.0) a(0.23) ...(1.0) thirty(0.18) please(1.0) go(1.0) to(1.0) the(1.0) french(0.37) open(0.81) in(0.09) the(0.46) and(0.23) the(0.1) guy(0.03) for(1.0) the(0.03) orange(0.03) juice(0.0) into(0.0) been(0.0) from(0.0) a(0.0) rose(0.0) garden(0.0) lynn(0.0) close(0.0) the(0.0) fridge(1.0) and(0.15) a(0.15) turnover(0.28) and(0.05) go(0.0) here(0.1) and(1.0) hand(0.09) it(0.1) to(1.0) me.(1.0) [0.03]
+I'm(1.0) a(0.23) ...(1.0) thirty(0.18) please(1.0) go(1.0) to(1.0) the(1.0) french(0.37) open(0.81) in(0.09) the(0.46) and(0.23) it(0.01) got(0.05) for(1.0) there(0.1) arranged(0.1) is(0.03) it(0.11) should(0.15) be(0.25) in(0.3) front(0.3) of(0.3) you(0.3) then(0.23) drive(0.23) and(0.02) then(0.1) close(0.3) the(1.0) fridge(1.0) and(0.15) a(0.15) turnover(0.28) go(0.02) here(0.1) and(1.0) hand(0.09) it(0.1) to(1.0) me.(1.0) [0.03]
+

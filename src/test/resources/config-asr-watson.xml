@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<config>
+	<client>
+		<username>0b7bd748-ef90-49e1-9050-b7c44aa3c1ce</username>
+		<password>qZTFEv1Tnsi7</password>
+		<language>en-US</language>
+		<api>https://stream.watsonplatform.net/speech-to-text/api</api>
+	</client>
+</config>
