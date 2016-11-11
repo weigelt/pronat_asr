@@ -101,12 +101,6 @@
 			<version>19.0</version>
 		</dependency>
 		<dependency>
-			<groupId>com.pwnetics.metric</groupId>
-			<artifactId>wsa</artifactId>
-			<scope>compile</scope>
-			<version>1.0.0</version>
-		</dependency>
-		<dependency>
 			<groupId>edu.kit.ipd.parse</groupId>
 			<artifactId>ShallowNLP</artifactId>
 		</dependency>
