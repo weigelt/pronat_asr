@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
-<config>
-	<ffmpeg>
-		<path>/usr/bin/ffmpeg</path>
-	</ffmpeg>
-	<ffprobe>
-		<path>/usr/bin/ffprobe</path>
-	</ffprobe>
-</config>
