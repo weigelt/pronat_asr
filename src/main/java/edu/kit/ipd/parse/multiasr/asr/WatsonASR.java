@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
+import java.util.Properties;
 import java.util.Set;
 import java.util.concurrent.CopyOnWriteArraySet;
 import java.util.regex.Matcher;
@@ -24,6 +25,7 @@ import com.ibm.watson.developer_cloud.speech_to_text.v1.model.Transcript;
 import edu.kit.ipd.parse.audio.AudioFormat;
 import edu.kit.ipd.parse.luna.data.token.HypothesisToken;
 import edu.kit.ipd.parse.luna.data.token.HypothesisTokenType;
+import edu.kit.ipd.parse.luna.tools.ConfigManager;
 import edu.kit.ipd.parse.multiasr.asr.spi.IASR;
 
 /**
@@ -32,9 +34,18 @@ import edu.kit.ipd.parse.multiasr.asr.spi.IASR;
 @MetaInfServices(IASR.class)
 public class WatsonASR extends AbstractASR {
 	//TODO: migrate to 3.5.0 or higher
+	Properties props;
+
 	private final String ID = "IBM-WATSON";
 
 	private static Pattern HESITATION_PATTERN = Pattern.compile("%HESITATION", Pattern.CASE_INSENSITIVE);
+
+	//Property constants
+	private final String USERNAME_PROP = "USERNAME";
+	private final String PASSWORD_PROP = "PASSWORD";
+	private final String LANGUAGE_PROP = "LANGUAGE";
+	private final String API_PROP = "API";
+	private final String ENDPOINT_PROP = "ENDPOINT";
 
 	private static Set<String> capabilities = Capability.toCapabilites(Capability.N_BEST, Capability.CONFUSION_NETWORK, Capability.TIMINGS, Capability.WORD_CONFIDENCE);
 	private static Set<AudioFormat> formats = new CopyOnWriteArraySet<>(Arrays.asList(new AudioFormat() {
@@ -53,11 +64,11 @@ public class WatsonASR extends AbstractASR {
 	private final SpeechToText service;
 
 	public WatsonASR() {
-		super("config-asr-watson-master.xml");
 		super.setIdentifier(ID);
 		this.service = new SpeechToText();
-		service.setEndPoint("https://stream.watsonplatform.net/speech-to-text/api");
-		service.setUsernameAndPassword(this.getConfig().getString("client.username"), this.getConfig().getString("client.password"));
+		props = ConfigManager.getConfiguration(getClass());
+		service.setEndPoint(props.getProperty(ENDPOINT_PROP));
+		service.setUsernameAndPassword(props.getProperty(USERNAME_PROP), props.getProperty(PASSWORD_PROP));
 	}
 
 	@Override
