@@ -42,8 +42,3 @@ public class TestWatson extends BasicTest {
 		final List<ASROutput> results = super.test(asr, capabilities);
 	}
 }
-//{
-//	  "url": "https://stream.watsonplatform.net/speech-to-text/api",
-//	  "password": "qZTFEv1Tnsi7",
-//	  "username": "0b7bd748-ef90-49e1-9050-b7c44aa3c1ce"
-//	}
