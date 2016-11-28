@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
+import java.util.Properties;
 import java.util.Set;
 import java.util.concurrent.CopyOnWriteArraySet;
 import java.util.regex.Matcher;
@@ -21,6 +22,7 @@ import com.google.common.base.Strings;
 import edu.kit.ipd.parse.audio.AudioFormat;
 import edu.kit.ipd.parse.luna.data.token.HypothesisToken;
 import edu.kit.ipd.parse.luna.data.token.HypothesisTokenType;
+import edu.kit.ipd.parse.luna.tools.ConfigManager;
 import edu.kit.ipd.parse.multiasr.asr.spi.IASR;
 
 /**
@@ -29,7 +31,11 @@ import edu.kit.ipd.parse.multiasr.asr.spi.IASR;
 @MetaInfServices(IASR.class)
 public class GoogleASR extends AbstractASR {
 
+	Properties props;
+
 	private final String ID = "Google";
+
+	private static final String API_KEY_PROP = "APIKEY";
 
 	private static Set<String> capabilities = Capability.toCapabilites(Capability.N_BEST);
 
@@ -56,8 +62,9 @@ public class GoogleASR extends AbstractASR {
 	}));
 
 	public GoogleASR() {
-		super("config-asr-google-master.xml");
+		super();
 		super.setIdentifier(ID);
+		props = ConfigManager.getConfiguration(getClass());
 	}
 
 	@Override
@@ -66,19 +73,21 @@ public class GoogleASR extends AbstractASR {
 
 			final StringBuilder sb = new StringBuilder();
 
-			capabilites.forEach((k,v) -> sb.append(k + "!" + v + "+"));
+			capabilites.forEach((k, v) -> sb.append(k + "!" + v + "+"));
 
 			GoogleResponse response;
 
 			Recognizer recognizer;
-			final String apiKey = this.getConfig().getString("client.apikey");
-			if(Strings.isNullOrEmpty(apiKey)) {
+			//TODO: creat init method for ASRs and move stuff like that
+			final String apiKey = props.getProperty(API_KEY_PROP);
+			if (Strings.isNullOrEmpty(apiKey)) {
 				throw new RuntimeException("ApiKey not set");
 			}
 			recognizer = new Recognizer(Recognizer.Languages.AUTO_DETECT, apiKey);
 
 			if (capabilites.containsKey(Capability.identifiers.N_BEST)) {
-				response = recognizer.getRecognizedDataForFlac(audio.toFile(), Integer.valueOf(capabilites.get(Capability.identifiers.N_BEST)), SAMPLE_RATE);
+				response = recognizer.getRecognizedDataForFlac(audio.toFile(),
+						Integer.valueOf(capabilites.get(Capability.identifiers.N_BEST)), SAMPLE_RATE);
 			} else {
 				response = recognizer.getRecognizedDataForFlac(audio.toFile(), 1, SAMPLE_RATE);
 			}
@@ -87,11 +96,9 @@ public class GoogleASR extends AbstractASR {
 				logger().error("Could not get google response");
 			}
 
-
-
-			if(response != null) {
-				final List<ASROutput> output = new ArrayList<ASROutput>();
-				for(final String possibility : response.getAllPossibleResponses()) {
+			if (response != null) {
+				final List<ASROutput> output = new ArrayList<>();
+				for (final String possibility : response.getAllPossibleResponses()) {
 					final String confidence = response.getConfidence();
 					System.out.println(possibility);
 					this.parse(possibility, output, confidence);
@@ -106,7 +113,7 @@ public class GoogleASR extends AbstractASR {
 	}
 
 	private void parse(String transcript, List<ASROutput> output, String confidence) {
-		if(Strings.isNullOrEmpty(transcript)) {
+		if (Strings.isNullOrEmpty(transcript)) {
 			return;
 		}
 
@@ -124,17 +131,17 @@ public class GoogleASR extends AbstractASR {
 
 		int i = 0;
 
-		while(matcher.find()) {
+		while (matcher.find()) {
 			final String text = matcher.group(1);
 
-			if(!Strings.isNullOrEmpty(text)) {
+			if (!Strings.isNullOrEmpty(text)) {
 				out.add(new HypothesisToken(text, i, conf, HypothesisTokenType.WORD));
 			}
 
 			final String punctuation = matcher.group(2);
 
-			if(!Strings.isNullOrEmpty(punctuation)) {
-				if(punctuation.equalsIgnoreCase(",")) {
+			if (!Strings.isNullOrEmpty(punctuation)) {
+				if (punctuation.equalsIgnoreCase(",")) {
 					out.add(new HypothesisToken(text, i, conf, HypothesisTokenType.PUNCTUATION));
 				} else {
 					out.add(new HypothesisToken(text, i, conf, HypothesisTokenType.PUNCTUATION));
@@ -142,8 +149,6 @@ public class GoogleASR extends AbstractASR {
 			}
 			i++;
 		}
-
-
 
 		output.add(out);
 	}
