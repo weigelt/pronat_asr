@@ -14,17 +14,17 @@ import java.util.regex.Pattern;
 
 import org.kohsuke.MetaInfServices;
 
-import com.google.common.base.Strings;
 import com.ibm.watson.developer_cloud.http.HttpMediaType;
-import com.ibm.watson.developer_cloud.speech_to_text.v1.RecognizeOptions;
 import com.ibm.watson.developer_cloud.speech_to_text.v1.SpeechToText;
-import com.ibm.watson.developer_cloud.speech_to_text.v1.model.SpeechAlternative;
+import com.ibm.watson.developer_cloud.speech_to_text.v1.model.RecognizeOptions;
 import com.ibm.watson.developer_cloud.speech_to_text.v1.model.SpeechResults;
+import com.ibm.watson.developer_cloud.speech_to_text.v1.model.SpeechWordAlternatives;
 import com.ibm.watson.developer_cloud.speech_to_text.v1.model.Transcript;
 
 import edu.kit.ipd.parse.audio.AudioFormat;
-import edu.kit.ipd.parse.luna.data.token.HypothesisToken;
+import edu.kit.ipd.parse.luna.data.token.AlternativeHypothesisToken;
 import edu.kit.ipd.parse.luna.data.token.HypothesisTokenType;
+import edu.kit.ipd.parse.luna.data.token.MainHypothesisToken;
 import edu.kit.ipd.parse.luna.tools.ConfigManager;
 import edu.kit.ipd.parse.multiasr.asr.spi.IASR;
 
@@ -33,19 +33,23 @@ import edu.kit.ipd.parse.multiasr.asr.spi.IASR;
  */
 @MetaInfServices(IASR.class)
 public class WatsonASR extends AbstractASR {
-	//TODO: migrate to 3.5.0 or higher
 	Properties props;
 
 	private final String ID = "IBM-WATSON";
 
-	private static Pattern HESITATION_PATTERN = Pattern.compile("%HESITATION", Pattern.CASE_INSENSITIVE);
+	private static Pattern HESITATION_PATTERN = null;
+
+	private static final Pattern PUNCTUATION_PATTERN = Pattern.compile("(.*?)([,\\.])?(\\s|(?<!\\G)\\z)+");
+
+	private static final Pattern WORD_PATTERN = Pattern.compile("[a-zA-z|']+");
 
 	//Property constants
 	private final String USERNAME_PROP = "USERNAME";
 	private final String PASSWORD_PROP = "PASSWORD";
-	private final String LANGUAGE_PROP = "LANGUAGE";
-	private final String API_PROP = "API";
-	private final String ENDPOINT_PROP = "ENDPOINT";
+	private final String MODEL_PROP = "MODEL";
+	//	private final String API_PROP = "API";
+	//	private final String ENDPOINT_PROP = "ENDPOINT";
+	private final String HESITATION_PATTERN_PROP = "HESITATION_PATTERN";
 
 	private static Set<String> capabilities = Capability.toCapabilites(Capability.N_BEST, Capability.CONFUSION_NETWORK, Capability.TIMINGS, Capability.WORD_CONFIDENCE);
 	private static Set<AudioFormat> formats = new CopyOnWriteArraySet<>(Arrays.asList(new AudioFormat() {
@@ -64,124 +68,104 @@ public class WatsonASR extends AbstractASR {
 	private final SpeechToText service;
 
 	public WatsonASR() {
+		super();
 		super.setIdentifier(ID);
 		this.service = new SpeechToText();
 		props = ConfigManager.getConfiguration(getClass());
-		service.setEndPoint(props.getProperty(ENDPOINT_PROP));
 		service.setUsernameAndPassword(props.getProperty(USERNAME_PROP), props.getProperty(PASSWORD_PROP));
+		HESITATION_PATTERN = Pattern.compile(props.getProperty(HESITATION_PATTERN_PROP));
 	}
 
 	@Override
 	public List<ASROutput> recognize(URI uri, Path audio, Map<String, String> capabilites) {
+
+		final List<ASROutput> out = new ArrayList<ASROutput>();
+
 		final StringBuilder sb = new StringBuilder();
 
 		capabilites.forEach((k, v) -> sb.append(k).append("!").append(v).append("+"));
 
-		SpeechResults response;
+		final SpeechResults response;
 
-		final RecognizeOptions recognizeOptions = new RecognizeOptions();
-		recognizeOptions.continuous(true);
-		recognizeOptions.contentType(HttpMediaType.AUDIO_FLAC);
+		Integer nbest = 0;
+
+		Double CNthreshold = 0d;
+
+		boolean timestamps = false;
+
+		boolean wordConfidence = false;
+
 		if (capabilites.containsKey(Capability.identifiers.N_BEST)) {
 			try {
-				final Integer nbest = Integer.valueOf(capabilites.get(Capability.identifiers.N_BEST));
-				recognizeOptions.maxAlternatives(nbest);
+				nbest = Integer.valueOf(capabilites.get(Capability.identifiers.N_BEST));
 			} catch (final NumberFormatException e) {
 				this.logger().warn("Invalid NBEST count - using default value");
-				recognizeOptions.maxAlternatives(5);
+				nbest = 5;
 			}
 		}
-		if (capabilites.containsKey(Capability.identifiers.CONFUSION_NETWORK)) {
-			try {
-				recognizeOptions.wordAlternativesThreshold(Double.valueOf(capabilites.get(Capability.identifiers.CONFUSION_NETWORK)));
-			} catch (final NumberFormatException e) {
-				this.logger().warn("Invalid CN threshold - using default value");
-				recognizeOptions.wordAlternativesThreshold(0.2d);
-			}
-		}
+
 		if (capabilites.containsKey(Capability.identifiers.TIMINGS)) {
-			recognizeOptions.timestamps(true);
+			timestamps = true;
 		}
 		if (capabilites.containsKey(Capability.identifiers.WORD_CONFIDENCE)) {
-			recognizeOptions.wordConfidence(true);
+			wordConfidence = true;
 		}
-		//TODO: left out profanity filter because version 2.9.0 don't have it
-		//recognizeOptions.profanityFilter(false);
-		//recognizeOptions.model("en-UK_BroadbandModel");
-		//recognizeOptions.interimResults(true);
-		response = this.service.recognize(audio.toFile(), recognizeOptions);
+
+		if (capabilites.containsKey(Capability.identifiers.CONFUSION_NETWORK)) {
+			try {
+				CNthreshold = Double.valueOf(capabilites.get(Capability.identifiers.CONFUSION_NETWORK));
+			} catch (final NumberFormatException e) {
+				this.logger().warn("Invalid CN threshold - using default value");
+				CNthreshold = 0.2d;
+			}
+		}
+
+		//move all to config
+		final RecognizeOptions recognizeOptions = new RecognizeOptions.Builder().continuous(true).wordConfidence(true)
+				.profanityFilter(false).maxAlternatives(nbest).timestamps(timestamps).wordConfidence(wordConfidence)
+				.wordAlternativesThreshold(CNthreshold)
+				.model(props.getProperty(MODEL_PROP)).contentType(HttpMediaType.AUDIO_FLAC).build();
+
+		response = service.recognize(audio.toFile(), recognizeOptions).execute();
 
 		if (response != null) {
-			final List<ASROutput> output = new ArrayList<>();
-
-			int max = 0;
-
-			for (final Transcript transcript : response.getResults()) {
-				if (transcript.getAlternatives().size() > max) {
-					max = transcript.getAlternatives().size();
+			final Transcript transcript = response.getResults().get(0);
+			final ASROutput asrOut = new ASROutput(ID);
+			for (int i = 0; i < transcript.getWordAlternatives().size(); i++){
+				final SpeechWordAlternatives swa = transcript.getWordAlternatives().get(i);
+				final double currStart = swa.getStartTime();
+				final double currEnd = swa.getEndTime();
+				final MainHypothesisToken currMainHyp = new MainHypothesisToken(swa.getAlternatives().get(0).getWord(), i,
+						swa.getAlternatives().get(0).getConfidence(), checkType(swa.getAlternatives().get(0).getWord()), currStart,
+						currEnd);
+				for (int j = 1; j < swa.getAlternatives().size(); j++) {
+					currMainHyp.addAlternative(new AlternativeHypothesisToken(swa.getAlternatives().get(j).getWord(), i,
+							swa.getAlternatives().get(j).getConfidence(), checkType(swa.getAlternatives().get(0).getWord()), currStart,
+							currEnd));
 				}
+				asrOut.add(currMainHyp);
 			}
-
-			for (int i = 0; i < max; ++i) {
-				final ASROutput asrOutput = new ASROutput(ID);
-
-				for (final Transcript transcript : response.getResults()) {
-					final int size = transcript.getAlternatives().size();
-
-					asrOutput.addAll(parse(transcript.getAlternatives().get(i % size)));
-				}
-
-				output.add(asrOutput);
-			}
-
-			return output;
+			out.add(asrOut);
+		} else {
+			logger().warn("Could not get Watson ASR response!");
 		}
-
-		return null;
+		return out;
 	}
 
-	private List<HypothesisToken> parse(SpeechAlternative speechAlternative) {
-		final List<HypothesisToken> out = new ArrayList<HypothesisToken>();
-
-		final String transcript = speechAlternative.getTranscript();
-
-		final Matcher matcher = HESITATION_PATTERN.matcher(transcript);
-
-		int last = 0;
-
-		final float score = (float) (speechAlternative.getConfidence() != null ? speechAlternative.getConfidence() : 0);
-
-		int index = 0;
-
-		while (matcher.find()) {
-			System.out.println("Hello!");
-			final int start = matcher.start();
-			if (start > 0) {
-				final String current = transcript.substring(last, start).trim();
-				System.out.println("Current: " + current);
-				if(!Strings.isNullOrEmpty(current)) {
-					out.add(new HypothesisToken(current, index, score, HypothesisTokenType.WORD));
-				}
-			}
-
-			out.add(new HypothesisToken(HESITATION_PATTERN.pattern(), index, score, HypothesisTokenType.HESITATION));
-
-			last = matcher.end();
-			index++;
+	private HypothesisTokenType checkType(String token) {
+		final Matcher pm = PUNCTUATION_PATTERN.matcher(token);
+		final Matcher hm = HESITATION_PATTERN.matcher(token);
+		final Matcher wm = WORD_PATTERN.matcher(token);
+		if (pm.find()) {
+			return HypothesisTokenType.PUNCTUATION;
+		} else if (hm.find()) {
+			return HypothesisTokenType.HESITATION;
+		} else if (wm.find()) {
+			return HypothesisTokenType.WORD;
+		} else {
+			return HypothesisTokenType.MISC;
 		}
 
-		//		final Word token = new Word(null, transcript.substring(last).trim());
-		//		if (score != null) {
-		//			token.add(Score.class, score);
-		//		}
-		out.add(new HypothesisToken(transcript.substring(last).trim(), index, score, HypothesisTokenType.WORD));
-		//		final Delimiter delimiter = new Delimiter(null, Delimiter.Type.SENTENCE_END);
-		//		if (score != null) {
-		//			delimiter.add(Score.class, score);
-		//		}
-		out.add(new HypothesisToken(".", index, score, HypothesisTokenType.PUNCTUATION));
-
-		return out;
 	}
 
 	@Override
