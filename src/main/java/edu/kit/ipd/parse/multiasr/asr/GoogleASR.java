@@ -20,8 +20,8 @@ import com.darkprograms.speech.recognizer.Recognizer;
 import com.google.common.base.Strings;
 
 import edu.kit.ipd.parse.audio.AudioFormat;
-import edu.kit.ipd.parse.luna.data.token.HypothesisToken;
 import edu.kit.ipd.parse.luna.data.token.HypothesisTokenType;
+import edu.kit.ipd.parse.luna.data.token.MainHypothesisToken;
 import edu.kit.ipd.parse.luna.tools.ConfigManager;
 import edu.kit.ipd.parse.multiasr.asr.spi.IASR;
 
@@ -31,6 +31,7 @@ import edu.kit.ipd.parse.multiasr.asr.spi.IASR;
 @MetaInfServices(IASR.class)
 public class GoogleASR extends AbstractASR {
 
+	//TODO clean up --> Tokenizing --> Hypothesis creation
 	Properties props;
 
 	private final String ID = "Google";
@@ -135,16 +136,16 @@ public class GoogleASR extends AbstractASR {
 			final String text = matcher.group(1);
 
 			if (!Strings.isNullOrEmpty(text)) {
-				out.add(new HypothesisToken(text, i, conf, HypothesisTokenType.WORD));
+				out.add(new MainHypothesisToken(text, i, conf, HypothesisTokenType.WORD));
 			}
 
 			final String punctuation = matcher.group(2);
 
 			if (!Strings.isNullOrEmpty(punctuation)) {
 				if (punctuation.equalsIgnoreCase(",")) {
-					out.add(new HypothesisToken(text, i, conf, HypothesisTokenType.PUNCTUATION));
+					out.add(new MainHypothesisToken(text, i, conf, HypothesisTokenType.PUNCTUATION));
 				} else {
-					out.add(new HypothesisToken(text, i, conf, HypothesisTokenType.PUNCTUATION));
+					out.add(new MainHypothesisToken(text, i, conf, HypothesisTokenType.PUNCTUATION));
 				}
 			}
 			i++;

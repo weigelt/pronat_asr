@@ -4,10 +4,10 @@ import java.util.AbstractList;
 import java.util.ArrayList;
 import java.util.List;
 
-import edu.kit.ipd.parse.luna.data.token.HypothesisToken;
+import edu.kit.ipd.parse.luna.data.token.MainHypothesisToken;
 
-public class ASROutput extends AbstractList<HypothesisToken> implements List<HypothesisToken> {
-	private final List<HypothesisToken> hypothesis;
+public class ASROutput extends AbstractList<MainHypothesisToken> implements List<MainHypothesisToken> {
+	private final List<MainHypothesisToken> hypothesis;
 
 	private final String ASR_ID;
 
@@ -23,7 +23,7 @@ public class ASROutput extends AbstractList<HypothesisToken> implements List<Hyp
 	}
 
 	@Override
-	public HypothesisToken get(int index) {
+	public MainHypothesisToken get(int index) {
 		return hypothesis.get(index);
 	}
 
@@ -41,17 +41,17 @@ public class ASROutput extends AbstractList<HypothesisToken> implements List<Hyp
 	}
 
 	@Override
-	public void add(int index, HypothesisToken element) {
+	public void add(int index, MainHypothesisToken element) {
 		hypothesis.add(index, element);
 	}
 
 	@Override
-	public HypothesisToken remove(int index) {
+	public MainHypothesisToken remove(int index) {
 		return hypothesis.remove(index);
 	}
 
 	@Override
-	public HypothesisToken set(int index, HypothesisToken element) {
+	public MainHypothesisToken set(int index, MainHypothesisToken element) {
 		return hypothesis.set(index, element);
 	}
 }
