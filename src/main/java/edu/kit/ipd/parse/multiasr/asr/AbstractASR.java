@@ -1,7 +1,7 @@
 package edu.kit.ipd.parse.multiasr.asr;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import edu.kit.ipd.parse.multiasr.asr.spi.IASR;
 
@@ -10,7 +10,7 @@ import edu.kit.ipd.parse.multiasr.asr.spi.IASR;
  * subclasses
  */
 public abstract class AbstractASR implements IASR {
-	private final Logger logger = LogManager.getLogger();
+	private static final Logger logger = LoggerFactory.getLogger(AbstractASR.class);
 	private String id;
 	protected final static String SEPERATOR = ":/";
 
