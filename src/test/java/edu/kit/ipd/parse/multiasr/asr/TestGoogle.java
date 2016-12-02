@@ -28,14 +28,6 @@ public class TestGoogle extends BasicTest {
 		final HashMap<String, String> capabilities = new HashMap<>();
 		capabilities.put("NBEST", "5");
 		final List<ASROutput> results = super.test(asr, capabilities);
-		System.out.println(results.size());
-		for (final ASROutput asro : results) {
-			for (int i = 0; i < asro.size(); i++) {
-				System.out.print(asro.get(i).getWord() + ", ");
-			}
-			System.out.print(asro.get(0).getConfidence());
-			System.out.println();
-		}
 	}
 
 	@Test
