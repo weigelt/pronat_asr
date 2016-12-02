@@ -1,6 +1,5 @@
 package edu.kit.ipd.parse.multiasr.asr;
 
-import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.LinkOption;
@@ -11,20 +10,19 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.ListIterator;
 import java.util.Map;
+import java.util.Properties;
 import java.util.ServiceLoader;
 import java.util.TreeMap;
 
-import org.apache.commons.configuration.CombinedConfiguration;
-import org.apache.commons.configuration.ConfigurationException;
-import org.apache.commons.configuration.DefaultConfigurationBuilder;
 import org.apache.commons.io.FileUtils;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import com.google.common.base.Strings;
 
 import edu.kit.ipd.parse.audio.AudioFormat;
 import edu.kit.ipd.parse.audio.AudioFormatMatcher;
+import edu.kit.ipd.parse.luna.tools.ConfigManager;
 import edu.kit.ipd.parse.multiasr.asr.spi.IASR;
 import edu.kit.ipd.parse.multiasr.asr.spi.IPostProcessor;
 import edu.kit.ipd.parse.revise.support.EmptyMap;
@@ -38,8 +36,10 @@ import net.bramp.ffmpeg.job.FFmpegJob.State;
 import net.bramp.ffmpeg.probe.FFmpegProbeResult;
 
 public class MultiASR implements IMultiASR {
-	private final Logger logger = LogManager.getLogger();
-	private final CombinedConfiguration config;
+	Properties props;
+	private static final String FFMPEG_PROP = "FFMPEG";
+	private static final String FFPROBE_PROP = "FFPROBE";
+	private static final Logger logger = LoggerFactory.getLogger(MultiASR.class);
 	private final List<IASR> asrs = new ArrayList<>();
 	private final List<IPostProcessor> pps = new ArrayList<>();
 	private FFmpeg ffmpeg;
@@ -54,13 +54,7 @@ public class MultiASR implements IMultiASR {
 			&& (Strings.isNullOrEmpty(target.getCodec()) || source.getCodec().equals(target.getCodec()));
 
 			public MultiASR() {
-				final DefaultConfigurationBuilder cb = new DefaultConfigurationBuilder();
-				cb.setFile(new File("config-multiasr-master.xml"));
-				try {
-					this.config = cb.getConfiguration(true);
-				} catch (final ConfigurationException e) {
-					throw new MultiASRError(e);
-				}
+				props = ConfigManager.getConfiguration(getClass());
 
 				try {
 					this.tempFolder = Files.createTempDirectory("MultiASR");
@@ -76,16 +70,16 @@ public class MultiASR implements IMultiASR {
 						}
 					});
 
-					final Path ffmpegPath = Paths.get(config.getString("ffmpeg.path"));
-					if(!Files.isRegularFile(ffmpegPath) || !Files.isReadable(ffmpegPath) || !Files.isExecutable(ffmpegPath)) {
+					final Path ffmpegPath = Paths.get(props.getProperty(FFMPEG_PROP));
+					if (!Files.isRegularFile(ffmpegPath) || !Files.isReadable(ffmpegPath) || !Files.isExecutable(ffmpegPath)) {
 						throw new MultiASRError(ffmpegPath.toString() + " is not a valid path to ffmpeg");
 					}
 					this.ffmpeg = new FFmpeg(ffmpegPath.toString());
 				} catch (final IOException e) {
 					throw new MultiASRError(e);
 				}
-				final Path ffprobePath = Paths.get(config.getString("ffprobe.path"));
-				if(!Files.isRegularFile(ffprobePath) || !Files.isReadable(ffprobePath) || !Files.isExecutable(ffprobePath)) {
+				final Path ffprobePath = Paths.get(props.getProperty(FFPROBE_PROP));
+				if (!Files.isRegularFile(ffprobePath) || !Files.isReadable(ffprobePath) || !Files.isExecutable(ffprobePath)) {
 					throw new MultiASRError(ffprobePath.toString() + " is not a valid path to ffprobe");
 				}
 				this.ffprobe = new FFprobe(ffprobePath.toString());
@@ -154,13 +148,12 @@ public class MultiASR implements IMultiASR {
 				}
 				final List<ASROutput> results = new ArrayList<>(this.asrs.size());
 
-				if(requiredCapabilites == null) {
+				if (requiredCapabilites == null) {
 					requiredCapabilites = new EmptyMap<>();
 				}
-				if(optionalCapabilites == null) {
+				if (optionalCapabilites == null) {
 					optionalCapabilites = new EmptyMap<>();
 				}
-
 
 				FFmpegProbeResult probe;
 				try {
@@ -262,8 +255,8 @@ public class MultiASR implements IMultiASR {
 			public List<IASR> autoRegisterASRs() {
 				final ServiceLoader<IASR> sl = ServiceLoader.load(IASR.class);
 				final List<IASR> asrs = new ArrayList<>();
-				for(final IASR asr : sl) {
-					if(this.register(asr)) {
+				for (final IASR asr : sl) {
+					if (this.register(asr)) {
 						asrs.add(asr);
 					}
 				}
@@ -273,8 +266,8 @@ public class MultiASR implements IMultiASR {
 			public List<IPostProcessor> autoRegisterPostProcessors() {
 				final ServiceLoader<IPostProcessor> sl = ServiceLoader.load(IPostProcessor.class);
 				final List<IPostProcessor> pps = new ArrayList<>();
-				for(final IPostProcessor pp : sl) {
-					if(this.registerPostProcessor(pp)) {
+				for (final IPostProcessor pp : sl) {
+					if (this.registerPostProcessor(pp)) {
 						pps.add(pp);
 					}
 				}
