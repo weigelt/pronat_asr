@@ -26,12 +26,6 @@ public class TestWatson extends BasicTest {
 		final HashMap<String, String> capabilities = new HashMap<>();
 		capabilities.put("NBEST", "5");
 		final List<ASROutput> results = super.test(asr, capabilities);
-		for (final ASROutput asro : results) {
-			for (int i = 0; i < asro.size(); i++) {
-				System.out.print(asro.get(i).getWord() + ", " + asro.get(i).getConfidence());
-			}
-			System.out.println();
-		}
 	}
 
 	@Test
