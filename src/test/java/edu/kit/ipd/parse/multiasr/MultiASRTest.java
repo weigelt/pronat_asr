@@ -1,3 +1,4 @@
+package edu.kit.ipd.parse.multiasr;
 
 
 import static org.hamcrest.CoreMatchers.is;
@@ -10,7 +11,7 @@ import java.util.List;
 
 import org.junit.Test;
 
-import edu.kit.ipd.parse.luna.data.token.HypothesisToken;
+import edu.kit.ipd.parse.luna.data.token.MainHypothesisToken;
 import edu.kit.ipd.parse.multiasr.asr.ASROutput;
 import edu.kit.ipd.parse.multiasr.asr.MultiASR;
 
@@ -30,7 +31,7 @@ public class MultiASRTest {
 		multiASR.register(new ASRFasade());
 		final URI uri = this.getClass().getClassLoader().getResource("testaudio.flac").toURI();
 		final List<ASROutput> recognize = multiASR.recognize(Paths.get(uri));
-		final HypothesisToken token = recognize.get(0).get(0);
+		final MainHypothesisToken token = recognize.get(0).get(0);
 		/* TODO: new asserts */
 		//assertThat(token, instanceOf(Word.class));
 		//assertThat(URI.create(((Word) token).getWord()), equalTo(uri));
