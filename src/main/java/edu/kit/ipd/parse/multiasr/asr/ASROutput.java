@@ -34,7 +34,7 @@ public class ASROutput extends AbstractList<MainHypothesisToken> implements List
 
 
 	/**
-	 * @return the aSR_ID
+	 * @return the ASR_ID
 	 */
 	public String getASRid() {
 		return ASR_ID;
