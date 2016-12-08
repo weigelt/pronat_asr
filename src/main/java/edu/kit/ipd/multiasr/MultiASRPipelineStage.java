@@ -70,7 +70,7 @@ public class MultiASRPipelineStage implements IPipelineStage {
 		final List<ASROutput> recognize = multiASR.recognize(Paths.get(uri));
 		final Iterator<ASROutput> outIterator = recognize.iterator();
 		if (outIterator.hasNext()) {
-			prePipeData.setMainHypotheses(outIterator.next());
+			prePipeData.setMainHypothesis(outIterator.next());
 		} else {
 			logger.warn("No main Hypothesis!");
 		}
