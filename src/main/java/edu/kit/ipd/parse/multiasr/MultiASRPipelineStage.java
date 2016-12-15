@@ -1,4 +1,4 @@
-package edu.kit.ipd.multiasr;
+package edu.kit.ipd.parse.multiasr;
 
 import java.net.URI;
 import java.nio.file.Path;
