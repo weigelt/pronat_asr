@@ -10,12 +10,12 @@ import java.util.List;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import edu.kit.ipd.multiasr.MultiASRPipelineStage;
 import edu.kit.ipd.parse.luna.data.MissingDataException;
 import edu.kit.ipd.parse.luna.data.PrePipelineData;
 import edu.kit.ipd.parse.luna.data.token.AlternativeHypothesisToken;
 import edu.kit.ipd.parse.luna.data.token.MainHypothesisToken;
 import edu.kit.ipd.parse.luna.pipeline.PipelineStageException;
+import edu.kit.ipd.parse.multiasr.MultiASRPipelineStage;
 
 public class IntegrationTest {
 
