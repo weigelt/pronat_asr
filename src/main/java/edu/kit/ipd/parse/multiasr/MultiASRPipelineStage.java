@@ -7,6 +7,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 
+import org.kohsuke.MetaInfServices;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -20,6 +21,7 @@ import edu.kit.ipd.parse.multiasr.asr.ASROutput;
 import edu.kit.ipd.parse.multiasr.asr.MultiASR;
 import edu.kit.ipd.parse.multiasr.asr.WatsonASR;
 
+@MetaInfServices(IPipelineStage.class)
 public class MultiASRPipelineStage implements IPipelineStage {
 
 	private static final String ID = "multiasr";
@@ -35,6 +37,7 @@ public class MultiASRPipelineStage implements IPipelineStage {
 
 	@Override
 	public void init() {
+		logger.info("Initializing Multi ASR...");
 		multiASR = new MultiASR();
 		//googleASR = new GoogleASR();
 		watsonASR = new WatsonASR();
@@ -45,27 +48,26 @@ public class MultiASRPipelineStage implements IPipelineStage {
 		//		multiASR.register(googleASR);
 		multiASR.register(watsonASR);
 		multiASR.autoRegisterPostProcessors();
+		logger.info("...Done!");
 	}
 
 	@Override
 	public void exec(AbstractPipelineData data) throws PipelineStageException {
 		// try to get data as pre pipeline data. If this fails, return
+		logger.info("Running Multi ASR");
 		try {
 			prePipeData = data.asPrePipelineData();
 		} catch (final PipelineDataCastException e) {
 			logger.error("Cannot process on data - PipelineData unreadable", e);
 			throw new PipelineStageException(e);
 		}
-
 		Path inputFilePath;
-
-		try{
+		try {
 			inputFilePath = prePipeData.getInputFilePath();
-		}catch (final MissingDataException e) {
+		} catch (final MissingDataException e) {
 			logger.error("No input file defined... Aborting!", e);
 			throw new PipelineStageException(e);
 		}
-
 		final URI uri = inputFilePath.toUri();
 		final List<ASROutput> recognize = multiASR.recognize(Paths.get(uri));
 		final Iterator<ASROutput> outIterator = recognize.iterator();
@@ -77,12 +79,11 @@ public class MultiASRPipelineStage implements IPipelineStage {
 		while (outIterator.hasNext()) {
 			prePipeData.addAltHypothesis(outIterator.next());
 		}
-
+		logger.info("Terminating Multi ASR");
 	}
 
 	@Override
 	public String getID() {
 		return ID;
 	}
-
 }
