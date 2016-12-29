@@ -13,8 +13,6 @@ import java.util.concurrent.CopyOnWriteArraySet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.kohsuke.MetaInfServices;
-
 import com.darkprograms.speech.recognizer.GoogleResponse;
 import com.darkprograms.speech.recognizer.Recognizer;
 import com.google.common.base.Strings;
@@ -23,12 +21,10 @@ import edu.kit.ipd.parse.audio.AudioFormat;
 import edu.kit.ipd.parse.luna.data.token.HypothesisTokenType;
 import edu.kit.ipd.parse.luna.data.token.MainHypothesisToken;
 import edu.kit.ipd.parse.luna.tools.ConfigManager;
-import edu.kit.ipd.parse.multiasr.asr.spi.IASR;
 
 /**
  * Created by Me on 02.04.16.
  */
-@MetaInfServices(IASR.class)
 public class GoogleASR extends AbstractASR {
 
 	//TODO clean up --> Tokenizing --> Hypothesis creation

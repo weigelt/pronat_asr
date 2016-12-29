@@ -8,6 +8,9 @@ import java.util.List;
 
 import org.junit.Test;
 
+import edu.kit.ipd.parse.multiasr.asr.ASROutput;
+import edu.kit.ipd.parse.multiasr.asr.GoogleASR;
+
 /**
  * Created by Me on 31.03.16.
  */

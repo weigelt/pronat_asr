@@ -1,5 +1,6 @@
 package edu.kit.ipd.parse.multiasr.asr;
 
+import edu.kit.ipd.parse.multiasr.asr.ASROutput;
 import edu.kit.ipd.parse.multiasr.asr.spi.IASR;
 import edu.kit.ipd.parse.revise.support.EmptyMap;
 

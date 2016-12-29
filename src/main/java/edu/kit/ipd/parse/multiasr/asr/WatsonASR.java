@@ -12,8 +12,6 @@ import java.util.concurrent.CopyOnWriteArraySet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.kohsuke.MetaInfServices;
-
 import com.ibm.watson.developer_cloud.http.HttpMediaType;
 import com.ibm.watson.developer_cloud.speech_to_text.v1.SpeechToText;
 import com.ibm.watson.developer_cloud.speech_to_text.v1.model.RecognizeOptions;
@@ -26,12 +24,10 @@ import edu.kit.ipd.parse.luna.data.token.AlternativeHypothesisToken;
 import edu.kit.ipd.parse.luna.data.token.HypothesisTokenType;
 import edu.kit.ipd.parse.luna.data.token.MainHypothesisToken;
 import edu.kit.ipd.parse.luna.tools.ConfigManager;
-import edu.kit.ipd.parse.multiasr.asr.spi.IASR;
 
 /**
  * Created by Me on 17.03.16.
  */
-@MetaInfServices(IASR.class)
 public class WatsonASR extends AbstractASR {
 	Properties props;
 
@@ -51,7 +47,8 @@ public class WatsonASR extends AbstractASR {
 	//	private final String ENDPOINT_PROP = "ENDPOINT";
 	private final String HESITATION_PATTERN_PROP = "HESITATION_PATTERN";
 
-	private static Set<String> capabilities = Capability.toCapabilites(Capability.N_BEST, Capability.CONFUSION_NETWORK, Capability.TIMINGS, Capability.WORD_CONFIDENCE);
+	private static Set<String> capabilities = Capability.toCapabilites(Capability.N_BEST, Capability.CONFUSION_NETWORK, Capability.TIMINGS,
+			Capability.WORD_CONFIDENCE);
 	private static Set<AudioFormat> formats = new CopyOnWriteArraySet<>(Arrays.asList(new AudioFormat() {
 		//44100, 16, 1, true, false
 		@Override
@@ -79,7 +76,7 @@ public class WatsonASR extends AbstractASR {
 	@Override
 	public List<ASROutput> recognize(URI uri, Path audio, Map<String, String> capabilites) {
 
-		final List<ASROutput> out = new ArrayList<ASROutput>();
+		final List<ASROutput> out = new ArrayList<>();
 
 		final StringBuilder sb = new StringBuilder();
 
@@ -123,15 +120,14 @@ public class WatsonASR extends AbstractASR {
 		//move all to config
 		final RecognizeOptions recognizeOptions = new RecognizeOptions.Builder().continuous(true).wordConfidence(true)
 				.profanityFilter(false).maxAlternatives(nbest).timestamps(timestamps).wordConfidence(wordConfidence)
-				.wordAlternativesThreshold(CNthreshold)
-				.model(props.getProperty(MODEL_PROP)).contentType(HttpMediaType.AUDIO_FLAC).build();
+				.wordAlternativesThreshold(CNthreshold).model(props.getProperty(MODEL_PROP)).contentType(HttpMediaType.AUDIO_FLAC).build();
 
 		response = service.recognize(audio.toFile(), recognizeOptions).execute();
 
 		if (response != null) {
 			final Transcript transcript = response.getResults().get(0);
 			final ASROutput asrOut = new ASROutput(ID);
-			for (int i = 0; i < transcript.getWordAlternatives().size(); i++){
+			for (int i = 0; i < transcript.getWordAlternatives().size(); i++) {
 				final SpeechWordAlternatives swa = transcript.getWordAlternatives().get(i);
 				final double currStart = swa.getStartTime();
 				final double currEnd = swa.getEndTime();

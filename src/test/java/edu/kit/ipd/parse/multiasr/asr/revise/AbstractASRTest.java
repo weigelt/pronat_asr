@@ -1,12 +1,12 @@
 package edu.kit.ipd.parse.multiasr.asr.revise;
 
-import edu.kit.ipd.parse.multiasr.asr.AbstractASR;
-
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.net.URL;
 import java.nio.file.*;
 import java.util.function.Consumer;
+
+import edu.kit.ipd.parse.multiasr.asr.AbstractASR;
 
 import static org.junit.Assert.fail;
 
