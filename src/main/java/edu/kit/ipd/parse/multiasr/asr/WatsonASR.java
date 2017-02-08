@@ -1,5 +1,7 @@
 package edu.kit.ipd.parse.multiasr.asr;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.net.URI;
 import java.nio.file.Path;
 import java.util.ArrayList;
@@ -18,6 +20,7 @@ import com.ibm.watson.developer_cloud.speech_to_text.v1.model.RecognizeOptions;
 import com.ibm.watson.developer_cloud.speech_to_text.v1.model.SpeechResults;
 import com.ibm.watson.developer_cloud.speech_to_text.v1.model.SpeechWordAlternatives;
 import com.ibm.watson.developer_cloud.speech_to_text.v1.model.Transcript;
+import com.ibm.watson.developer_cloud.speech_to_text.v1.websocket.BaseRecognizeCallback;
 
 import edu.kit.ipd.parse.audio.AudioFormat;
 import edu.kit.ipd.parse.luna.data.token.AlternativeHypothesisToken;
@@ -75,6 +78,94 @@ public class WatsonASR extends AbstractASR {
 
 	@Override
 	public List<ASROutput> recognize(URI uri, Path audio, Map<String, String> capabilites) {
+
+		final List<ASROutput> out = new ArrayList<>();
+
+		final StringBuilder sb = new StringBuilder();
+
+		capabilites.forEach((k, v) -> sb.append(k).append("!").append(v).append("+"));
+
+		Integer nbest = 0;
+
+		Double CNthreshold = 0d;
+
+		boolean timestamps = false;
+
+		boolean wordConfidence = false;
+
+		if (capabilites.containsKey(Capability.identifiers.N_BEST)) {
+			try {
+				nbest = Integer.valueOf(capabilites.get(Capability.identifiers.N_BEST));
+			} catch (final NumberFormatException e) {
+				this.logger().warn("Invalid NBEST count - using default value");
+				nbest = 5;
+			}
+		}
+
+		if (capabilites.containsKey(Capability.identifiers.TIMINGS)) {
+			timestamps = true;
+		}
+		if (capabilites.containsKey(Capability.identifiers.WORD_CONFIDENCE)) {
+			wordConfidence = true;
+		}
+
+		if (capabilites.containsKey(Capability.identifiers.CONFUSION_NETWORK)) {
+			try {
+				CNthreshold = Double.valueOf(capabilites.get(Capability.identifiers.CONFUSION_NETWORK));
+			} catch (final NumberFormatException e) {
+				this.logger().warn("Invalid CN threshold - using default value");
+				CNthreshold = 0.2d;
+			}
+		}
+
+		//move all to config
+		final RecognizeOptions recognizeOptions = new RecognizeOptions.Builder().continuous(true).wordConfidence(true)
+				.profanityFilter(false).maxAlternatives(nbest).timestamps(timestamps).wordConfidence(wordConfidence)
+				.wordAlternativesThreshold(CNthreshold).model(props.getProperty(MODEL_PROP)).contentType(HttpMediaType.AUDIO_FLAC)
+				.interimResults(true).build();
+
+		final BaseRecognizeCallback callback = new BaseRecognizeCallback() {
+			@Override
+			public void onTranscription(SpeechResults speechResults) {
+				if (speechResults != null) {
+					final List<Transcript> transcriptList = speechResults.getResults();
+					for (final Transcript transcript : transcriptList) {
+						final ASROutput asrOut = new ASROutput(ID);
+						for (int i = 0; i < transcript.getWordAlternatives().size(); i++) {
+							final SpeechWordAlternatives swa = transcript.getWordAlternatives().get(i);
+							final double currStart = swa.getStartTime();
+							final double currEnd = swa.getEndTime();
+							final MainHypothesisToken currMainHyp = new MainHypothesisToken(swa.getAlternatives().get(0).getWord(), i,
+									swa.getAlternatives().get(0).getConfidence(), checkType(swa.getAlternatives().get(0).getWord()),
+									currStart, currEnd);
+							for (int j = 1; j < swa.getAlternatives().size(); j++) {
+								currMainHyp.addAlternative(new AlternativeHypothesisToken(swa.getAlternatives().get(j).getWord(), i,
+										swa.getAlternatives().get(j).getConfidence(), checkType(swa.getAlternatives().get(0).getWord()),
+										currStart, currEnd));
+							}
+							asrOut.add(currMainHyp);
+						}
+						out.add(asrOut);
+					}
+				}
+				System.out.println(speechResults);
+			}
+
+			@Override
+			public void onDisconnected() {
+				System.exit(0);
+			}
+		};
+
+		try {
+			service.recognizeUsingWebSocket(new FileInputStream(audio.toFile()), recognizeOptions, callback);
+		} catch (final FileNotFoundException e) {
+			e.printStackTrace();
+		}
+		return out;
+	}
+
+	public List<ASROutput> recognizeOld(URI uri, Path audio, Map<String, String> capabilites) {
 
 		final List<ASROutput> out = new ArrayList<>();
 
