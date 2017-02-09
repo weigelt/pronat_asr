@@ -6,15 +6,12 @@ import java.util.List;
 
 import org.junit.Test;
 
-import edu.kit.ipd.parse.multiasr.asr.ASROutput;
-import edu.kit.ipd.parse.multiasr.asr.WatsonASR;
-
 /**
  * Created by Me on 31.03.16.
  */
 public class TestWatson extends BasicTest {
 	public TestWatson() {
-		super("-16.flac");
+		super("-long.flac");
 	}
 
 	@Test

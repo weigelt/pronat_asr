@@ -6,6 +6,7 @@ import java.net.URI;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Properties;
@@ -50,6 +51,8 @@ public class WatsonASR extends AbstractASR {
 	//	private final String ENDPOINT_PROP = "ENDPOINT";
 	private final String HESITATION_PATTERN_PROP = "HESITATION_PATTERN";
 
+	private List<SpeechResults> srList = new ArrayList<>();
+
 	private static Set<String> capabilities = Capability.toCapabilites(Capability.N_BEST, Capability.CONFUSION_NETWORK, Capability.TIMINGS,
 			Capability.WORD_CONFIDENCE);
 	private static Set<AudioFormat> formats = new CopyOnWriteArraySet<>(Arrays.asList(new AudioFormat() {
@@ -79,7 +82,7 @@ public class WatsonASR extends AbstractASR {
 	@Override
 	public List<ASROutput> recognize(URI uri, Path audio, Map<String, String> capabilites) {
 
-		final List<ASROutput> out = new ArrayList<>();
+		List<ASROutput> out = new ArrayList<>();
 
 		final StringBuilder sb = new StringBuilder();
 
@@ -123,37 +126,17 @@ public class WatsonASR extends AbstractASR {
 				.profanityFilter(false).maxAlternatives(nbest).timestamps(timestamps).wordConfidence(wordConfidence)
 				.wordAlternativesThreshold(CNthreshold).model(props.getProperty(MODEL_PROP)).contentType(HttpMediaType.AUDIO_FLAC)
 				.interimResults(true).build();
-
 		final BaseRecognizeCallback callback = new BaseRecognizeCallback() {
 			@Override
 			public void onTranscription(SpeechResults speechResults) {
-				if (speechResults != null) {
-					final List<Transcript> transcriptList = speechResults.getResults();
-					for (final Transcript transcript : transcriptList) {
-						final ASROutput asrOut = new ASROutput(ID);
-						for (int i = 0; i < transcript.getWordAlternatives().size(); i++) {
-							final SpeechWordAlternatives swa = transcript.getWordAlternatives().get(i);
-							final double currStart = swa.getStartTime();
-							final double currEnd = swa.getEndTime();
-							final MainHypothesisToken currMainHyp = new MainHypothesisToken(swa.getAlternatives().get(0).getWord(), i,
-									swa.getAlternatives().get(0).getConfidence(), checkType(swa.getAlternatives().get(0).getWord()),
-									currStart, currEnd);
-							for (int j = 1; j < swa.getAlternatives().size(); j++) {
-								currMainHyp.addAlternative(new AlternativeHypothesisToken(swa.getAlternatives().get(j).getWord(), i,
-										swa.getAlternatives().get(j).getConfidence(), checkType(swa.getAlternatives().get(0).getWord()),
-										currStart, currEnd));
-							}
-							asrOut.add(currMainHyp);
-						}
-						out.add(asrOut);
-					}
-				}
-				System.out.println(speechResults);
+				srList.add(speechResults);
 			}
 
 			@Override
 			public void onDisconnected() {
-				System.exit(0);
+				synchronized (ID) {
+					ID.notifyAll();
+				}
 			}
 		};
 
@@ -162,7 +145,55 @@ public class WatsonASR extends AbstractASR {
 		} catch (final FileNotFoundException e) {
 			e.printStackTrace();
 		}
+
+		synchronized (ID) {
+			try {
+				ID.wait();
+				out = parseList();
+			} catch (InterruptedException e) {
+				//when the object is interrupted
+			}
+		}
 		return out;
+	}
+
+	protected List<ASROutput> parseList() {
+		final List<ASROutput> out = new ArrayList<>();
+		Iterator<SpeechResults> srIterator = srList.iterator();
+		while (srIterator.hasNext()) {
+			SpeechResults currSR = srIterator.next();
+			if (srList.indexOf(currSR) + 1 < srList.size()) {
+				if (currSR.getResultIndex() == srList.get(srList.indexOf(currSR) + 1).getResultIndex()) {
+					srIterator.remove();
+				}
+			}
+		}
+		for (SpeechResults sr : srList) {
+			if (sr != null) {
+				final List<Transcript> transcriptList = sr.getResults();
+				for (final Transcript transcript : transcriptList) {
+					final ASROutput asrOut = new ASROutput(ID);
+					for (int i = 0; i < transcript.getWordAlternatives().size(); i++) {
+						final SpeechWordAlternatives swa = transcript.getWordAlternatives().get(i);
+						final double currStart = swa.getStartTime();
+						final double currEnd = swa.getEndTime();
+						final MainHypothesisToken currMainHyp = new MainHypothesisToken(swa.getAlternatives().get(0).getWord(), i,
+								swa.getAlternatives().get(0).getConfidence(), checkType(swa.getAlternatives().get(0).getWord()), currStart,
+								currEnd);
+						for (int j = 1; j < swa.getAlternatives().size(); j++) {
+							currMainHyp.addAlternative(new AlternativeHypothesisToken(swa.getAlternatives().get(j).getWord(), i,
+									swa.getAlternatives().get(j).getConfidence(), checkType(swa.getAlternatives().get(0).getWord()),
+									currStart, currEnd));
+						}
+						asrOut.add(currMainHyp);
+					}
+					out.add(asrOut);
+				}
+			}
+		}
+
+		return out;
+
 	}
 
 	public List<ASROutput> recognizeOld(URI uri, Path audio, Map<String, String> capabilites) {
