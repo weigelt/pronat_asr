@@ -51,7 +51,7 @@ public class WatsonASR extends AbstractASR {
 	//	private final String ENDPOINT_PROP = "ENDPOINT";
 	private final String HESITATION_PATTERN_PROP = "HESITATION_PATTERN";
 
-	private List<SpeechResults> srList = new ArrayList<>();
+	private final List<SpeechResults> srList = new ArrayList<>();
 
 	private static Set<String> capabilities = Capability.toCapabilites(Capability.N_BEST, Capability.CONFUSION_NETWORK, Capability.TIMINGS,
 			Capability.WORD_CONFIDENCE);
@@ -150,7 +150,7 @@ public class WatsonASR extends AbstractASR {
 			try {
 				ID.wait();
 				out = parseList();
-			} catch (InterruptedException e) {
+			} catch (final InterruptedException e) {
 				//when the object is interrupted
 			}
 		}
@@ -159,16 +159,16 @@ public class WatsonASR extends AbstractASR {
 
 	protected List<ASROutput> parseList() {
 		final List<ASROutput> out = new ArrayList<>();
-		Iterator<SpeechResults> srIterator = srList.iterator();
+		final Iterator<SpeechResults> srIterator = srList.iterator();
 		while (srIterator.hasNext()) {
-			SpeechResults currSR = srIterator.next();
+			final SpeechResults currSR = srIterator.next();
 			if (srList.indexOf(currSR) + 1 < srList.size()) {
 				if (currSR.getResultIndex() == srList.get(srList.indexOf(currSR) + 1).getResultIndex()) {
 					srIterator.remove();
 				}
 			}
 		}
-		for (SpeechResults sr : srList) {
+		for (final SpeechResults sr : srList) {
 			if (sr != null) {
 				final List<Transcript> transcriptList = sr.getResults();
 				for (final Transcript transcript : transcriptList) {
@@ -191,7 +191,6 @@ public class WatsonASR extends AbstractASR {
 				}
 			}
 		}
-
 		return out;
 
 	}

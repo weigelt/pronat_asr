@@ -6,6 +6,8 @@ import java.util.List;
 
 import org.junit.Test;
 
+import edu.kit.ipd.parse.luna.data.token.MainHypothesisToken;
+
 /**
  * Created by Me on 31.03.16.
  */
@@ -26,6 +28,11 @@ public class TestWatson extends BasicTest {
 		final HashMap<String, String> capabilities = new HashMap<>();
 		capabilities.put("NBEST", "5");
 		final List<ASROutput> results = super.test(asr, capabilities);
+		for (final ASROutput asrOutput : results) {
+			for (final MainHypothesisToken mainHypothesisToken : asrOutput) {
+				System.out.println(mainHypothesisToken.getWord() + " " + mainHypothesisToken.getConfidence());
+			}
+		}
 	}
 
 	@Test

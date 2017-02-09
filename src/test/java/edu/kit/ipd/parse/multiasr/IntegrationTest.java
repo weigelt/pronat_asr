@@ -15,7 +15,6 @@ import edu.kit.ipd.parse.luna.data.PrePipelineData;
 import edu.kit.ipd.parse.luna.data.token.AlternativeHypothesisToken;
 import edu.kit.ipd.parse.luna.data.token.MainHypothesisToken;
 import edu.kit.ipd.parse.luna.pipeline.PipelineStageException;
-import edu.kit.ipd.parse.multiasr.MultiASRPipelineStage;
 
 public class IntegrationTest {
 
@@ -34,7 +33,7 @@ public class IntegrationTest {
 		ppd = new PrePipelineData();
 		Path inputPath = null;
 		try {
-			inputPath = Paths.get(IntegrationTest.class.getClassLoader().getResource("testaudio.flac").toURI());
+			inputPath = Paths.get(IntegrationTest.class.getClassLoader().getResource("testaudio-long.flac").toURI());
 		} catch (final URISyntaxException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
