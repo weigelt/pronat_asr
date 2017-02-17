@@ -30,7 +30,8 @@ public class TestWatson extends BasicTest {
 		final List<ASROutput> results = super.test(asr, capabilities);
 		for (final ASROutput asrOutput : results) {
 			for (final MainHypothesisToken mainHypothesisToken : asrOutput) {
-				System.out.println(mainHypothesisToken.getWord() + " " + mainHypothesisToken.getConfidence());
+				System.out.println(mainHypothesisToken.getPosition() + ": " + mainHypothesisToken.getWord() + " "
+						+ mainHypothesisToken.getConfidence());
 			}
 		}
 	}
