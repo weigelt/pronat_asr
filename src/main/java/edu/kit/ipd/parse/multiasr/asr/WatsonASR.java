@@ -168,6 +168,7 @@ public class WatsonASR extends AbstractASR {
 				}
 			}
 		}
+		int position = 0;
 		for (final SpeechResults sr : srList) {
 			if (sr != null) {
 				final List<Transcript> transcriptList = sr.getResults();
@@ -177,15 +178,16 @@ public class WatsonASR extends AbstractASR {
 						final SpeechWordAlternatives swa = transcript.getWordAlternatives().get(i);
 						final double currStart = swa.getStartTime();
 						final double currEnd = swa.getEndTime();
-						final MainHypothesisToken currMainHyp = new MainHypothesisToken(swa.getAlternatives().get(0).getWord(), i,
+						final MainHypothesisToken currMainHyp = new MainHypothesisToken(swa.getAlternatives().get(0).getWord(), position,
 								swa.getAlternatives().get(0).getConfidence(), checkType(swa.getAlternatives().get(0).getWord()), currStart,
 								currEnd);
 						for (int j = 1; j < swa.getAlternatives().size(); j++) {
-							currMainHyp.addAlternative(new AlternativeHypothesisToken(swa.getAlternatives().get(j).getWord(), i,
+							currMainHyp.addAlternative(new AlternativeHypothesisToken(swa.getAlternatives().get(j).getWord(), position,
 									swa.getAlternatives().get(j).getConfidence(), checkType(swa.getAlternatives().get(0).getWord()),
 									currStart, currEnd));
 						}
 						asrOut.add(currMainHyp);
+						position++;
 					}
 					out.add(asrOut);
 				}
