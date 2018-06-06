@@ -2,7 +2,6 @@ package edu.kit.ipd.parse.multiasr;
 
 import static org.junit.Assert.assertNotNull;
 
-import java.net.URISyntaxException;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
@@ -12,7 +11,6 @@ import org.junit.Test;
 
 import edu.kit.ipd.parse.luna.data.MissingDataException;
 import edu.kit.ipd.parse.luna.data.PrePipelineData;
-import edu.kit.ipd.parse.luna.data.token.AlternativeHypothesisToken;
 import edu.kit.ipd.parse.luna.data.token.MainHypothesisToken;
 import edu.kit.ipd.parse.luna.pipeline.PipelineStageException;
 
@@ -32,12 +30,7 @@ public class IntegrationTest {
 	public void testPipelineIntegration() {
 		ppd = new PrePipelineData();
 		Path inputPath = null;
-		try {
-			inputPath = Paths.get(IntegrationTest.class.getClassLoader().getResource("testaudio-long.flac").toURI());
-		} catch (final URISyntaxException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		inputPath = Paths.get("path here!");
 		assertNotNull(inputPath);
 		ppd.setInputFilePath(inputPath);
 		try {
@@ -55,11 +48,12 @@ public class IntegrationTest {
 		}
 		assertNotNull(mainHyp);
 		for (final MainHypothesisToken mainHypothesisToken : mainHyp) {
-			System.out.print(mainHypothesisToken.getWord() + "--" + mainHypothesisToken.getConfidence() + " | ");
-			for (final AlternativeHypothesisToken altHypothesisToken : mainHypothesisToken.getAlternatives()) {
-				System.out.print(altHypothesisToken.getWord() + "--" + altHypothesisToken.getConfidence() + " | ");
-			}
-			System.out.println();
+			//			System.out.print(mainHypothesisToken.getWord() + "--" + mainHypothesisToken.getConfidence() + " | ");
+			//			for (final AlternativeHypothesisToken altHypothesisToken : mainHypothesisToken.getAlternatives()) {
+			//				System.out.print(altHypothesisToken.getWord() + "--" + altHypothesisToken.getConfidence() + " | ");
+			//			}
+			//			System.out.println();
+			System.out.print(mainHypothesisToken.getWord() + " ");
 		}
 
 	}
