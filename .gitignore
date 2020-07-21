@@ -28,3 +28,7 @@ deploy/
 *.resharper
 *.suo
 *.cache
+*.iml
+*.eml
+*.idea
+*.iws
