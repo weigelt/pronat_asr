@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+import edu.kit.ipd.parse.multiasr.asr.GoogleASR;
 import org.kohsuke.MetaInfServices;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -34,15 +35,15 @@ public class MultiASRPipelineStage implements IPipelineStage {
 
 	//private MultiASR multiASR;
 	// only take Watson for the time beeing
-	//	private GoogleASR googleASR;
-	private WatsonASR watsonASR;
+	private GoogleASR googleASR;
+	//private WatsonASR watsonASR;
 
 	@Override
 	public void init() {
 		logger.info("Initializing Multi ASR...");
 		//multiASR = new MultiASR();
-		//googleASR = new GoogleASR();
-		watsonASR = new WatsonASR();
+		googleASR = new GoogleASR();
+		//watsonASR = new WatsonASR();
 		// watson and google both do nbest
 		capabilities = new HashMap<>();
 		capabilities.put("NBEST", "5");
@@ -71,7 +72,8 @@ public class MultiASRPipelineStage implements IPipelineStage {
 			throw new PipelineStageException(e);
 		}
 		final URI uri = inputFilePath.toUri();
-		final List<ASROutput> recognize = watsonASR.recognize(null, Paths.get(uri), capabilities);
+		//		final List<ASROutput> recognize = watsonASR.recognize(null, Paths.get(uri), capabilities);
+		final List<ASROutput> recognize = googleASR.recognize(null, Paths.get(uri), capabilities);
 		final List<MainHypothesisToken> mhtl = new ArrayList<>();
 		for (final ASROutput asrOutput : recognize) {
 			mhtl.addAll(asrOutput);
