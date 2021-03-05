@@ -8,7 +8,7 @@
         <version>0.0.5-SNAPSHOT</version>
     </parent>
     <artifactId>asr</artifactId>
-    <version>0.0.4-SNAPSHOT</version>
+    <version>0.0.5-SNAPSHOT</version>
     <description>ASR pre-pipeline stage for PARSE</description>
     <repositories>
         <repository>
