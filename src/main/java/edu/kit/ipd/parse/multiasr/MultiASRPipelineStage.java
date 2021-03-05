@@ -32,11 +32,11 @@ public class MultiASRPipelineStage implements IPipelineStage {
 
 	private static final Logger logger = LoggerFactory.getLogger(MultiASRPipelineStage.class);
 
-	private Properties props;
+	private static Properties props = ConfigManager.getConfiguration(MultiASRPipelineStage.class);
 
-	public final int SAMPLE_RATE;
+	public static final int SAMPLE_RATE = Integer.parseInt(props.getProperty("NBEST", "44100"));
 
-	public final String MODE;
+	private static final String MODE = props.getProperty("MODE", "GOOGLE");
 
 	private PrePipelineData prePipeData;
 
@@ -46,12 +46,6 @@ public class MultiASRPipelineStage implements IPipelineStage {
 	// only take Watson for the time beeing
 	private GoogleASR googleASR;
 	//private WatsonASR watsonASR;
-
-	public MultiASRPipelineStage() {
-		props = ConfigManager.getConfiguration(getClass());
-		SAMPLE_RATE = Integer.parseInt(props.getProperty("NBEST", "44100"));
-		MODE = props.getProperty("MODE", "GOOGLE");
-	}
 
 	@Override
 	public void init() {
