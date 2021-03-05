@@ -134,18 +134,20 @@ public class GoogleASR extends AbstractASR {
 
 			if (!Strings.isNullOrEmpty(text)) {
 				out.add(new MainHypothesisToken(text, i, conf, HypothesisTokenType.WORD));
+				i++;
 			}
-
-			final String punctuation = matcher.group(2);
-
-			if (!Strings.isNullOrEmpty(punctuation)) {
-				if (punctuation.equalsIgnoreCase(",")) {
-					out.add(new MainHypothesisToken(text, i, conf, HypothesisTokenType.PUNCTUATION));
-				} else {
-					out.add(new MainHypothesisToken(text, i, conf, HypothesisTokenType.PUNCTUATION));
-				}
-			}
-			i++;
+			//TODO: ignore punctuation for now
+			//			final String punctuation = matcher.group(2);
+			//
+			//			if (!Strings.isNullOrEmpty(punctuation)) {
+			//				if (punctuation.equalsIgnoreCase(",")) {
+			//					out.add(new MainHypothesisToken(text, i, conf, HypothesisTokenType.PUNCTUATION));
+			//			i++;
+			//				} else {
+			//					out.add(new MainHypothesisToken(text, i, conf, HypothesisTokenType.PUNCTUATION));
+			//			i++;
+			//				}
+			//			}
 		}
 
 		output.add(out);
