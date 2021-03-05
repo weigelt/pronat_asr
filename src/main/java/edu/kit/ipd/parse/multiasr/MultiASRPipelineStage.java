@@ -59,7 +59,7 @@ public class MultiASRPipelineStage implements IPipelineStage {
 		logger.info("Initializing Multi ASR...");
 		// TODO: implement IBM Watson and MUlti-ASR again!
 		if (!MODE.equals("GOOGLE")) {
-			logger.error("for the time being only Google ASR is supported. Continuing using Google ASR!");
+			logger.warn("For the time being only Google ASR is supported. Continuing using Google ASR!");
 		}
 		//multiASR = new MultiASR();
 		googleASR = new GoogleASR();
@@ -97,9 +97,19 @@ public class MultiASRPipelineStage implements IPipelineStage {
 		//		final List<ASROutput> recognize = watsonASR.recognize(null, Paths.get(uri), capabilities);
 		final List<ASROutput> recognize = googleASR.recognize(null, Paths.get(uri), capabilities);
 		final List<MainHypothesisToken> mhtl = new ArrayList<>();
-		for (final ASROutput asrOutput : recognize) {
-			mhtl.addAll(asrOutput);
+
+		if (recognize.isEmpty()) {
+			logger.error("Result is empty... Aborting!");
+			throw new PipelineStageException();
 		}
+		if (!props.getProperty("NBEST").equals("1")) {
+			logger.warn("For the time being only the first hypothesis is used (best confidence)!");
+		}
+		//TODO: nbest:
+		//		for (final ASROutput asrOutput : recognize) {
+		//			mhtl.addAll(asrOutput);
+		//		}
+		mhtl.addAll(recognize.get(0));
 		prePipeData.setMainHypothesis(mhtl);
 		//		final Iterator<ASROutput> outIterator = recognize.iterator();
 		//		if (outIterator.hasNext()) {
