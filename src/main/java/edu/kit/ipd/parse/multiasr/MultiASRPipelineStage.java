@@ -6,8 +6,11 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Properties;
 
+import edu.kit.ipd.parse.luna.tools.ConfigManager;
 import edu.kit.ipd.parse.multiasr.asr.GoogleASR;
+import edu.kit.ipd.parse.multiasr.asr.MultiASR;
 import org.kohsuke.MetaInfServices;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -29,6 +32,12 @@ public class MultiASRPipelineStage implements IPipelineStage {
 
 	private static final Logger logger = LoggerFactory.getLogger(MultiASRPipelineStage.class);
 
+	private Properties props;
+
+	public final int SAMPLE_RATE;
+
+	public final String MODE;
+
 	private PrePipelineData prePipeData;
 
 	private HashMap<String, String> capabilities;
@@ -38,17 +47,27 @@ public class MultiASRPipelineStage implements IPipelineStage {
 	private GoogleASR googleASR;
 	//private WatsonASR watsonASR;
 
+	public MultiASRPipelineStage() {
+		props = ConfigManager.getConfiguration(getClass());
+		SAMPLE_RATE = Integer.parseInt(props.getProperty("NBEST", "44100"));
+		MODE = props.getProperty("MODE", "GOOGLE");
+	}
+
 	@Override
 	public void init() {
+
 		logger.info("Initializing Multi ASR...");
+		// TODO: implement IBM Watson and MUlti-ASR again!
+		if (!MODE.equals("GOOGLE")) {
+			logger.error("for the time being only Google ASR is supported. Continuing using Google ASR!");
+		}
 		//multiASR = new MultiASR();
 		googleASR = new GoogleASR();
 		//watsonASR = new WatsonASR();
 		// watson and google both do nbest
 		capabilities = new HashMap<>();
-		capabilities.put("NBEST", "5");
-		// only take Watson for the time beeing
-		//		multiASR.register(googleASR);
+		capabilities.put("NBEST", props.getProperty("NBEST", "1"));
+		// multiASR.register(googleASR);
 		//multiASR.register(watsonASR);
 		//multiASR.autoRegisterPostProcessors();
 		logger.info("...Done!");
@@ -72,6 +91,9 @@ public class MultiASRPipelineStage implements IPipelineStage {
 			throw new PipelineStageException(e);
 		}
 		final URI uri = inputFilePath.toUri();
+		if (!MODE.equals("GOOGLE")) {
+			logger.error("for the time being only Google ASR is supported. Continuing using Google ASR!");
+		}
 		//		final List<ASROutput> recognize = watsonASR.recognize(null, Paths.get(uri), capabilities);
 		final List<ASROutput> recognize = googleASR.recognize(null, Paths.get(uri), capabilities);
 		final List<MainHypothesisToken> mhtl = new ArrayList<>();
