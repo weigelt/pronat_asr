@@ -21,6 +21,7 @@ import edu.kit.ipd.parse.audio.AudioFormat;
 import edu.kit.ipd.parse.luna.data.token.HypothesisTokenType;
 import edu.kit.ipd.parse.luna.data.token.MainHypothesisToken;
 import edu.kit.ipd.parse.luna.tools.ConfigManager;
+import edu.kit.ipd.parse.multiasr.MultiASRPipelineStage;
 
 /**
  * Created by Me on 02.04.16.
@@ -36,7 +37,7 @@ public class GoogleASR extends AbstractASR {
 
 	private static Set<String> capabilities = Capability.toCapabilites(Capability.N_BEST);
 
-	private static final int SAMPLE_RATE = 8000;
+	private static final int SAMPLE_RATE = MultiASRPipelineStage.SAMPLE_RATE;
 
 	private static final Pattern PUNCTUATION_PATTERN = Pattern.compile("(.*?)([,\\.])?(\\s|(?<!\\G)\\z)+");
 
@@ -98,7 +99,7 @@ public class GoogleASR extends AbstractASR {
 				for (final String possibility : response.getAllPossibleResponses()) {
 					final String confidence = response.getConfidence();
 					System.out.println(possibility);
-					this.parse(possibility, output, confidence);
+					parse(possibility, output, confidence);
 				}
 				return output;
 			}
