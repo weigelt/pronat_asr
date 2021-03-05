@@ -34,7 +34,7 @@ public class MultiASRPipelineStage implements IPipelineStage {
 
 	private static Properties props = ConfigManager.getConfiguration(MultiASRPipelineStage.class);
 
-	public static final int SAMPLE_RATE = Integer.parseInt(props.getProperty("NBEST", "44100"));
+	public static final int SAMPLE_RATE = Integer.parseInt(props.getProperty("SAMPLERATE", "44100"));
 
 	private static final String MODE = props.getProperty("MODE", "GOOGLE");
 
