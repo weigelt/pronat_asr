@@ -7,6 +7,7 @@ import java.nio.file.Paths;
 import java.util.List;
 
 import org.junit.BeforeClass;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import edu.kit.ipd.parse.luna.data.MissingDataException;
@@ -26,6 +27,7 @@ public class IntegrationTest {
 	}
 
 	//TODO: proper asserts
+	@Ignore
 	@Test
 	public void testPipelineIntegration() {
 		ppd = new PrePipelineData();

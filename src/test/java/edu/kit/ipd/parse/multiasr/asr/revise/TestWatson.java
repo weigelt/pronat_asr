@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.net.URISyntaxException;
 import java.util.HashMap;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 import edu.kit.ipd.parse.multiasr.asr.Capability;
@@ -11,9 +12,6 @@ import edu.kit.ipd.parse.multiasr.asr.MultiASR;
 import edu.kit.ipd.parse.multiasr.asr.MultiASRException;
 import edu.kit.ipd.parse.multiasr.asr.WatsonASR;
 
-/**
- * Created by Me on 05.04.16.
- */
 public class TestWatson extends AbstractASRTest {
 	private final MultiASR multiASR;
 
@@ -22,11 +20,13 @@ public class TestWatson extends AbstractASRTest {
 		multiASR.register(new WatsonASR());
 	}
 
+	@Ignore
 	@Test
 	public void basic() throws URISyntaxException, IOException {
 		forAll(multiASR::recognize);
 	}
 
+	@Ignore
 	@Test
 	public void testCN() throws IOException, URISyntaxException {
 		final HashMap<String, String> capabilities = new HashMap<>();

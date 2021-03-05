@@ -4,24 +4,24 @@ import java.net.URISyntaxException;
 import java.util.HashMap;
 import java.util.List;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 import edu.kit.ipd.parse.luna.data.token.MainHypothesisToken;
 
-/**
- * Created by Me on 31.03.16.
- */
 public class TestWatson extends BasicTest {
 	public TestWatson() {
 		super("-long.flac");
 	}
 
+	@Ignore
 	@Test
 	public void basicTest() throws URISyntaxException {
 		final WatsonASR asr = new WatsonASR();
 		final List<ASROutput> results = super.test(asr);
 	}
 
+	@Ignore
 	@Test
 	public void testNBEST() throws URISyntaxException {
 		final WatsonASR asr = new WatsonASR();
@@ -36,6 +36,7 @@ public class TestWatson extends BasicTest {
 		}
 	}
 
+	@Ignore
 	@Test
 	public void testConfusionNetwork() throws URISyntaxException {
 		final WatsonASR asr = new WatsonASR();

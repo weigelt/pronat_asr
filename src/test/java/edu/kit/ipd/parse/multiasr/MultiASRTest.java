@@ -1,6 +1,5 @@
 package edu.kit.ipd.parse.multiasr;
 
-
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 
@@ -9,15 +8,13 @@ import java.nio.file.Paths;
 import java.util.Collections;
 import java.util.List;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 import edu.kit.ipd.parse.luna.data.token.MainHypothesisToken;
 import edu.kit.ipd.parse.multiasr.asr.ASROutput;
 import edu.kit.ipd.parse.multiasr.asr.MultiASR;
 
-/**
- * Created by Me on 02.06.16.
- */
 public class MultiASRTest {
 	@Test
 	public void register() throws Exception {
@@ -25,11 +22,12 @@ public class MultiASRTest {
 		multiASR.register(new ASRFasade());
 	}
 
+	@Ignore
 	@Test
 	public void recognize() throws Exception {
 		final MultiASR multiASR = new MultiASR();
 		multiASR.register(new ASRFasade());
-		final URI uri = this.getClass().getClassLoader().getResource("testaudio.flac").toURI();
+		final URI uri = getClass().getClassLoader().getResource("testaudio.flac").toURI();
 		final List<ASROutput> recognize = multiASR.recognize(Paths.get(uri));
 		final MainHypothesisToken token = recognize.get(0).get(0);
 		/* TODO: new asserts */
@@ -41,7 +39,7 @@ public class MultiASRTest {
 	public void recognize1() throws Exception {
 		final MultiASR multiASR = new MultiASR();
 		multiASR.register(new ASRFasade());
-		final URI uri = this.getClass().getClassLoader().getResource("testaudio.flac").toURI();
+		final URI uri = getClass().getClassLoader().getResource("testaudio.flac").toURI();
 		final List<ASROutput> recognize = multiASR.recognize(Paths.get(uri), Collections.singletonMap("HELLO_WORLD", "1"), null);
 		assertThat(recognize.isEmpty(), is(true));
 	}
@@ -51,7 +49,7 @@ public class MultiASRTest {
 		final MultiASR multiASR = new MultiASR();
 		multiASR.registerPostProcessor(asrOutput -> asrOutput);
 		multiASR.register(new ASRFasade());
-		final URI uri = this.getClass().getClassLoader().getResource("testaudio.flac").toURI();
+		final URI uri = getClass().getClassLoader().getResource("testaudio.flac").toURI();
 		final List<ASROutput> recognize = multiASR.recognize(Paths.get(uri));
 		assertThat(recognize.size(), is(1));
 	}
