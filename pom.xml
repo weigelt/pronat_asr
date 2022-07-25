@@ -11,13 +11,6 @@
     <version>0.0.6-SNAPSHOT</version>
     <name>ProNat ASR</name>
     <description>ASR pre-pipeline stage for ProNat</description>
-    <repositories>
-        <repository>
-            <id>ipdNexus-public-all</id>
-            <name>IPD-Repository</name>
-            <url>https://bob.ipd.kit.edu/nexus/repository/maven-public-all</url>
-        </repository>
-    </repositories>
     <build>
         <plugins>
             <plugin>
